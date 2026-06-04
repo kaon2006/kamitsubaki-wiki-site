@@ -1,0 +1,27 @@
+---
+import AboutSection from '../components/AboutSection.astro';
+import ArtistDatabase from '../components/ArtistDatabase.astro';
+import Hero from '../components/Hero.astro';
+import LogSection from '../components/LogSection.astro';
+import ProjectsSection from '../components/ProjectsSection.astro';
+import SiteFooter from '../components/SiteFooter.astro';
+import SiteNav from '../components/SiteNav.astro';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import {
+  artistCategories,
+  databaseJumpLinks,
+  logEntries,
+  navItems,
+  projects,
+} from '../data/siteData.mjs';
+---
+
+<BaseLayout>
+  <SiteNav navItems={navItems} />
+  <Hero />
+  <AboutSection />
+  <ArtistDatabase artistCategories={artistCategories} databaseJumpLinks={databaseJumpLinks} />
+  <ProjectsSection projects={projects} />
+  <LogSection logEntries={logEntries} />
+  <SiteFooter />
+</BaseLayout>

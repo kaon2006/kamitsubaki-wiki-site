@@ -1,0 +1,89 @@
+---
+type DatabaseJumpLink = {
+  label: string;
+  href: string;
+};
+
+type Artist = {
+  code: string;
+  name: string;
+  romanizedName: string;
+  meta?: string;
+  statusLabel: string;
+  status: string;
+  inactive?: boolean;
+  image: string;
+};
+
+type ArtistCategory = {
+  id: string;
+  title: string;
+  subtitle: string;
+  items: Artist[];
+};
+
+const { artistCategories, databaseJumpLinks } = Astro.props as {
+  artistCategories: ArtistCategory[];
+  databaseJumpLinks: DatabaseJumpLink[];
+};
+---
+
+<section id="database" class="py-32 relative max-w-7xl mx-auto px-6 ui-crosshair bl br tl tr">
+  <div id="artist-bg-container" class="fixed-bg-hack opacity-0 transition-all duration-700 ease-out flex justify-center items-center pointer-events-none">
+    <div class="absolute inset-0 bg-[#030303] opacity-80 z-10 mix-blend-multiply"></div>
+    <img
+      id="artist-bg-img"
+      src=""
+      alt=""
+      class="w-full h-[100vh] object-cover filter grayscale contrast-150 brightness-75 opacity-30 transform scale-105 transition-transform duration-1000 ease-out"
+    />
+  </div>
+
+  <div class="relative z-10 grid grid-cols-1 lg:grid-cols-12 gap-12 lg:gap-24">
+    <div class="lg:col-span-3">
+      <div class="sticky top-32 reveal-up">
+        <h3 class="text-[10px] tracking-kamidest-lg font-light text-white mb-2">01. DATABASE</h3>
+        <p class="font-serif text-[10px] text-white/50 tracking-widest mb-12">観測対象一覧</p>
+
+        <div class="hidden lg:flex flex-col gap-5 text-[9px] font-mono tracking-widest text-white/30 border-l border-white/10 pl-4">
+          {databaseJumpLinks.map((item) => (
+            <a href={item.href} class="hover:text-white transition-colors hover:pl-2 duration-300">{item.label}</a>
+          ))}
+        </div>
+      </div>
+    </div>
+
+    <div class="lg:col-span-9 flex flex-col pb-20" id="artist-list">
+      {artistCategories.map((category) => (
+        <div id={category.id} class={category.id === 'cat-isotope' ? 'mb-12 pt-8 scroll-mt-32' : 'mb-24 pt-8 scroll-mt-32'}>
+          <div class="border-b border-white/20 pb-4 mb-4 flex justify-between items-end reveal-up">
+            <h4 class="font-serif text-base tracking-[0.4em] text-white/80">{category.title}</h4>
+            <span class="text-[9px] font-mono text-white/40 hidden md:block">{category.subtitle}</span>
+          </div>
+
+          {category.items.map((artist) => (
+            <a href="#" class="artist-row group block list-row py-6 reveal-up" data-img={artist.image}>
+              <div class="flex flex-col md:flex-row md:items-center justify-between px-4 gap-4">
+                <div class="flex items-center gap-6">
+                  <span class="font-mono text-[9px] text-white/20 w-6">{artist.code}</span>
+                  <h4 class="font-serif text-xl md:text-2xl text-white/60 tracking-[0.2em] group-hover:text-white transition-all duration-300 glitch-text">
+                    {artist.name}
+                  </h4>
+                  <span class="text-[9px] tracking-kamidest font-light text-white/30 group-hover:text-white/80 transition-colors">
+                    {artist.romanizedName}
+                  </span>
+                </div>
+                <div class="text-[8px] font-mono text-white/30 flex gap-6 md:text-right">
+                  {artist.meta && <span class="hidden md:block">{artist.meta}</span>}
+                  <span class="w-16 text-left md:text-right">
+                    {artist.statusLabel}: <span class={artist.inactive ? 'text-white/30 line-through' : 'text-white/70'}>{artist.status}</span>
+                  </span>
+                </div>
+              </div>
+            </a>
+          ))}
+        </div>
+      ))}
+    </div>
+  </div>
+</section>

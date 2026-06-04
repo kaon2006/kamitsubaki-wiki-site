@@ -1,0 +1,41 @@
+---
+import '../styles/global.css';
+
+const { title = 'KAMITSUBAKI FAN WIKI' } = Astro.props;
+---
+
+<!doctype html>
+<html lang="ja" class="scroll-smooth">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{title}</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;700&family=Noto+Sans+JP:wght@300;400;500&family=Shippori+Mincho:wght@400;500;600&display=swap"
+      rel="stylesheet"
+    />
+
+  </head>
+  <body class="antialiased font-sans selection:bg-white selection:text-black overflow-hidden" id="body-wrap">
+    <div id="preloader">
+      <div class="flex flex-col items-center">
+        <div class="preloader-line mb-4"></div>
+        <p class="text-[8px] tracking-[0.5em] font-mono text-white/50 animate-pulse">
+          CONNECTING TO KAMITSUBAKI_CITY...
+        </p>
+      </div>
+    </div>
+
+    <div class="noise-bg"></div>
+    <div class="cursor-dot hidden md:block" id="cursor"></div>
+
+    <slot />
+
+    <script>
+      import '../scripts/siteInteractions.js';
+    </script>
+  </body>
+</html>
