@@ -8,7 +8,8 @@ Use one file per locale. Markdown entries are stored in folders:
 artists/vwp/kaf/zh.md
 artists/vwp/kaf/ja.md
 artists/vwp/kaf/en.md
-contribute/edit-guide/zh.json
+contribute/edit-guide/zh.md
+logs/2024/2024-06-01-vwp-live/zh.md
 ```
 
 Keep `translationKey` identical across all translations of the same record.

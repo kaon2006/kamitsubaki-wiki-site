@@ -113,19 +113,21 @@ const projects = defineCollection({
 });
 
 const logs = defineCollection({
-  loader: glob({ pattern: '**/*.json', base: './src/content/logs' }),
+  loader: glob({ pattern: '**/{zh,ja,en}.md', base: './src/content/logs' }),
   schema: z.object({
     locale,
     translationKey: z.string(),
     date: z.string(),
     type: z.string(),
-    message: z.string(),
+    title: z.string(),
+    summary: z.string().optional(),
     order: z.number(),
+    seo,
   }),
 });
 
 const editGuide = defineCollection({
-  loader: glob({ pattern: '{zh,ja,en}.json', base: './src/content/contribute/edit-guide' }),
+  loader: glob({ pattern: '{zh,ja,en}.md', base: './src/content/contribute/edit-guide' }),
   schema: z.object({
     locale,
     translationKey: z.literal('edit-guide'),
@@ -135,15 +137,24 @@ const editGuide = defineCollection({
     back: z.string(),
     targetLabel: z.string(),
     invalidTarget: z.string(),
-    steps: z.array(
+    targetIntro: z.string(),
+    switchLabel: z.string(),
+    variants: z.array(
       z.object({
-        title: z.string(),
-        body: z.string(),
+        key: z.enum(['beginner', 'experienced']),
+        label: z.string(),
+        description: z.string(),
+        sections: z.array(
+          z.object({
+            title: z.string(),
+            body: z.string(),
+          }),
+        ),
+        finalTitle: z.string(),
+        finalBody: z.string(),
+        finalLinkLabel: z.string(),
       }),
-    ),
-    checkbox: z.string(),
-    ready: z.string(),
-    locked: z.string(),
+    ).length(2),
     docs: z.string(),
     docsPath: z.string(),
   }),

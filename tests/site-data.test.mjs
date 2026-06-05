@@ -3,7 +3,7 @@ import { readFile } from 'node:fs/promises';
 import test from 'node:test';
 import yaml from 'yaml';
 
-import { buildArtistCategories, buildDatabaseJumpLinks, sortByOrder } from '../src/lib/homeData.mjs';
+import { buildArtistCategories, buildDatabaseJumpLinks, buildLogCards, buildProjectCards, sortByOrder } from '../src/lib/homeData.mjs';
 
 const artistFolders = new Map([
   ['kaf', 'vwp'],
@@ -203,20 +203,21 @@ test('projects and log entries preserve the static page content', async () => {
   const projects = sortByOrder(
     await Promise.all(
       projectFiles.map(async (id) => ({
-        id,
+        id: `${projectFolders.get(id)}/${id}/zh`,
         data: await readMd(`../src/content/projects/${projectFolders.get(id)}/${id}/zh.md`),
       })),
     ),
   ).map((entry) => entry.data);
   const logFiles = ['2024-06-01-vwp-live', '2024-05-15-city-timeline', '2024-04-30-rim-album'];
-  const logEntries = sortByOrder(
+  const logEntries = buildLogCards(
     await Promise.all(
       logFiles.map(async (id) => ({
-        id,
-        data: await readJson(`../src/content/logs/2024/${id}/zh.json`),
+        id: `2024/${id}/zh`,
+        data: await readMd(`../src/content/logs/2024/${id}/zh.md`),
       })),
     ),
-  ).map((entry) => entry.data);
+    'zh',
+  );
 
   assert.equal(projects.length, 3);
   assert.equal(projects[0].title, '神椿市建设中。');
@@ -227,4 +228,53 @@ test('projects and log entries preserve the static page content', async () => {
     logEntries.map((entry) => entry.date),
     ['2024.06.01', '2024.05.15', '2024.04.30'],
   );
+  assert.equal(logEntries[0].title, 'V.W.P 现场观测更新');
+  assert.equal(logEntries[1].href, '/zh/logs/2024/2024-05-15-city-timeline');
+});
+
+test('project cards derive routes and category labels from folders', () => {
+  const projectCards = buildProjectCards(
+    [
+      {
+        id: 'arg/kamitsubaki-city/zh',
+        data: {
+          kind: 'PROJECT_ARG',
+          title: '神椿市建设中。',
+          description: '一项叙事驱动的观测计划。',
+          order: 1,
+        },
+      },
+      {
+        id: 'fan-events/archive-room/zh',
+        data: {
+          kind: 'PROJECT_EVENT',
+          title: '档案室',
+          description: '测试项目',
+          order: 4,
+        },
+      },
+    ],
+    'zh',
+  );
+
+  assert.deepEqual(projectCards, [
+    {
+      id: 'arg/kamitsubaki-city',
+      href: '/zh/projects/arg/kamitsubaki-city',
+      kind: 'PROJECT_ARG',
+      title: '神椿市建设中。',
+      description: '一项叙事驱动的观测计划。',
+      categorySlug: 'arg',
+      categoryTitle: 'ARG',
+    },
+    {
+      id: 'fan-events/archive-room',
+      href: '/zh/projects/fan-events/archive-room',
+      kind: 'PROJECT_EVENT',
+      title: '档案室',
+      description: '测试项目',
+      categorySlug: 'fan-events',
+      categoryTitle: 'Fan Events',
+    },
+  ]);
 });

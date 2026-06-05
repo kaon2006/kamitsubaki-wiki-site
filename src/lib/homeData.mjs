@@ -157,3 +157,60 @@ export function buildDatabaseJumpLinks(artistCategories) {
     href: `#${category.id}`,
   }));
 }
+
+function parseProjectPath(entryId) {
+  const parts = entryId.split('/');
+  parts.pop();
+  const slug = parts.pop();
+  const categorySlug = parts[0] ?? 'projects';
+
+  return {
+    categorySlug,
+    projectPath: [...parts, slug].filter(Boolean).join('/'),
+  };
+}
+
+export function buildProjectDisplayData(entry, locale) {
+  const { categorySlug, projectPath } = parseProjectPath(entry.id);
+  const { order, ...projectData } = entry.data;
+
+  return {
+    id: projectPath,
+    href: `/${locale}/projects/${projectPath}`,
+    categorySlug,
+    categoryTitle: humanizeSlug(categorySlug),
+    ...projectData,
+  };
+}
+
+export function buildProjectCards(projectEntries, locale) {
+  return sortByOrder(projectEntries).map((entry) => buildProjectDisplayData(entry, locale));
+}
+
+function parseLogPath(entryId) {
+  const parts = entryId.split('/');
+  parts.pop();
+  const slug = parts.pop();
+  const year = parts[0] ?? 'logs';
+
+  return {
+    year,
+    logPath: [...parts, slug].filter(Boolean).join('/'),
+  };
+}
+
+export function buildLogDisplayData(entry, locale) {
+  const { year, logPath } = parseLogPath(entry.id);
+  const { order, ...logData } = entry.data;
+
+  return {
+    id: logPath,
+    href: `/${locale}/logs/${logPath}`,
+    year,
+    ...logData,
+  };
+}
+
+export function buildLogCards(logEntries, locale) {
+  return sortByOrder(logEntries).map((entry) => buildLogDisplayData(entry, locale));
+}

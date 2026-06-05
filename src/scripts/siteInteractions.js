@@ -1,19 +1,29 @@
 document.addEventListener('DOMContentLoaded', () => {
   const preloader = document.getElementById('preloader');
   const bodyWrap = document.getElementById('body-wrap');
+  const hasSeenPreloader = window.sessionStorage.getItem('kamitsubaki-preloader-seen') === '1';
 
-  setTimeout(() => {
+  const hidePreloader = () => {
     preloader?.classList.add('hidden-preloader');
-    bodyWrap?.classList.remove('overflow-hidden');
-    setTimeout(() => {
+    bodyWrap?.classList.remove('overflow-hidden', 'ui-loading');
+    window.setTimeout(() => {
       if (preloader) {
         preloader.style.display = 'none';
       }
-    }, 1500);
-  }, 1800);
+    }, 650);
+  };
+
+  if (hasSeenPreloader) {
+    hidePreloader();
+  } else {
+    window.setTimeout(() => {
+      window.sessionStorage.setItem('kamitsubaki-preloader-seen', '1');
+      hidePreloader();
+    }, 900);
+  }
 
   const cursor = document.getElementById('cursor');
-  const hoverElements = document.querySelectorAll('a, button, .artist-row');
+  const hoverElements = document.querySelectorAll('a, button, summary, [data-hoverable]');
 
   if (cursor && window.matchMedia('(pointer: fine)').matches) {
     document.addEventListener('mousemove', (event) => {
@@ -68,8 +78,8 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       root: null,
-      rootMargin: '0px 0px -100px 0px',
-      threshold: 0.1,
+      rootMargin: '0px 0px -12% 0px',
+      threshold: 0.08,
     },
   );
 

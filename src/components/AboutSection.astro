@@ -10,27 +10,41 @@ const { content } = Astro.props as { content: AboutContent };
 ---
 
 <section id="about" class="py-32 px-6 max-w-7xl mx-auto relative border-b border-white/10 ui-crosshair bl br">
-  <div class="grid grid-cols-1 md:grid-cols-12 gap-12">
+  <div class="grid grid-cols-1 gap-12 md:grid-cols-12 md:gap-14">
     <div class="md:col-span-4 reveal-up">
       <h3 class="text-[10px] tracking-kamidest-lg font-light text-white mb-2">{content.heading}</h3>
       <p class="font-serif text-[10px] text-white/50 tracking-widest mb-8">{content.subheading}</p>
       <div class="w-8 h-[1px] bg-white/30"></div>
     </div>
     <div class="md:col-span-8 reveal-up" style="transition-delay: 0.2s;">
-      <p class="font-serif text-sm md:text-base leading-loose text-white/80 tracking-[0.2em] mb-8 text-justify">
-        {content.body.map((line) => (
-          <>
-            {line}<br />
-          </>
-        ))}
-      </p>
-      <p class="text-[9px] font-mono text-white/30 tracking-widest leading-loose uppercase">
-        {content.note.map((line) => (
-          <>
-            {line}<br />
-          </>
-        ))}
-      </p>
+      <div class="max-w-3xl space-y-8 sm:space-y-10">
+        <div class="space-y-5 sm:space-y-6">
+          {content.body.map((line) => (
+            <p class="max-w-2xl font-serif text-[15px] leading-8 text-white/80 sm:text-[17px] sm:leading-9 md:text-[18px]">
+              {line}
+            </p>
+          ))}
+        </div>
+
+        {content.note.length > 0 && (
+          <div class="border-l border-white/10 pl-4 sm:pl-5">
+            <div class="space-y-3 sm:space-y-4">
+              {content.note.map((line, index) => (
+                <p
+                  class:list={[
+                    'text-white/46',
+                    index === 0
+                      ? 'text-[11px] leading-6 tracking-[0.08em] sm:text-xs'
+                      : 'text-[13px] leading-7 sm:text-[14px] sm:leading-8',
+                  ]}
+                >
+                  {line}
+                </p>
+              ))}
+            </div>
+          </div>
+        )}
+      </div>
     </div>
   </div>
 </section>

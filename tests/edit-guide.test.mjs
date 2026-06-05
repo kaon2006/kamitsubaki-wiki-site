@@ -20,33 +20,55 @@ test('edit source links route through the local contributor guide first', async 
   const articleHeader = await readSource('../src/components/WikiArticleHeader.astro');
 
   assert.match(artistPage, /\/contribute\/edit\?target=/);
-  assert.match(artistPage, /encodeURIComponent\(githubSourceHref\)/);
+  assert.match(artistPage, /encodeURIComponent\(contentSourcePath\)/);
+  assert.match(artistPage, /src\/content\/artists\/\$\{id\}\/\$\{localeCode\}\.md/);
   assert.doesNotMatch(articleHeader, /target="_blank"/);
 });
 
-test('localized contributor guide gates the GitHub edit link behind completion steps', async () => {
+test('localized contributor guide renders a markdown-driven learning page and final edit link', async () => {
   assert.equal(await fileExists('../src/pages/[locale]/contribute/edit.astro'), true);
 
   const guidePage = await readSource('../src/pages/[locale]/contribute/edit.astro');
 
   assert.match(guidePage, /getStaticPaths/);
-  assert.match(guidePage, /data-guide-step/g);
+  assert.doesNotMatch(guidePage, /data-guide-step/g);
+  assert.doesNotMatch(guidePage, /checkbox/);
   assert.match(guidePage, /data-github-edit-link/);
-  assert.match(guidePage, /URLSearchParams/);
-  assert.match(guidePage, /github\.com\/LinkTh1rsty\/kamitsubaki-wiki-site\/edit\/main\/src\/content\//);
+  assert.match(guidePage, /new URLSearchParams\(window\.location\.search\)/);
+  assert.match(guidePage, /normalizeTarget/);
+  assert.match(guidePage, /data-repo-edit-root/);
+  assert.match(guidePage, /data-content-path-prefix/);
+  assert.match(guidePage, /repoEditRoot/);
+  assert.match(guidePage, /renderMarkdownFragment/);
+  assert.match(guidePage, /set:html=\{section\.bodyHtml\}/);
+  assert.match(guidePage, /renderedVariants\.map/);
+  assert.match(guidePage, /data-default-guide-mode="beginner"/);
+  assert.match(guidePage, /data-guide-mode-button/);
+  assert.match(guidePage, /data-guide-mode-panel/);
+  assert.match(guidePage, /data-guide-rail/);
+  assert.match(guidePage, /searchParams\.get\('mode'\)/);
+  assert.match(guidePage, /history\.replaceState/);
+  assert.match(guidePage, /data-guide-target-path/);
 });
 
 test('contributor guide copy lives in editable content files', async () => {
   for (const locale of ['zh', 'ja', 'en']) {
-    assert.equal(await fileExists(`../src/content/contribute/edit-guide/${locale}.json`), true);
+    assert.equal(await fileExists(`../src/content/contribute/edit-guide/${locale}.md`), true);
   }
 
   const contentConfig = await readSource('../src/content.config.ts');
   const guidePage = await readSource('../src/pages/[locale]/contribute/edit.astro');
+  const zhGuide = await readSource('../src/content/contribute/edit-guide/zh.md');
 
   assert.match(contentConfig, /editGuide/);
   assert.match(guidePage, /getCollection\('editGuide'\)/);
   assert.doesNotMatch(guidePage, /const copy = \{/);
   assert.doesNotMatch(guidePage, /编辑前快速学习/);
   assert.doesNotMatch(guidePage, /Quick guide before editing/);
+  assert.match(contentConfig, /switchLabel: z\.string\(\)/);
+  assert.match(contentConfig, /variants: z\.array/);
+  assert.match(zhGuide, /key: beginner/);
+  assert.match(zhGuide, /key: experienced/);
+  assert.match(zhGuide, /```yaml/);
+  assert.match(zhGuide, /> /);
 });

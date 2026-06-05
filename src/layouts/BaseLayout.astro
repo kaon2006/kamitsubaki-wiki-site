@@ -12,7 +12,7 @@ type PageMetadata = {
 };
 
 const {
-  title = 'KAMITSUBAKI FAN WIKI',
+  title = 'Kamitsubaki Studio Fan Wiki',
   lang = 'zh',
   alternates = [],
   metadata = {},
@@ -26,7 +26,7 @@ const {
   metadata?: PageMetadata;
 };
 
-const siteName = 'KAMITSUBAKI WIKI';
+const siteName = 'Kamitsubaki Studio Fan Wiki';
 const siteOrigin = import.meta.env.PUBLIC_SITE_URL?.replace(/\/$/, '') || '';
 const pageTitle = metadata.title || title;
 const pageDescription = metadata.description || 'KAMITSUBAKI STUDIO 非官方粉丝百科。';
@@ -77,7 +77,7 @@ const robots = metadata.noindex ? 'noindex, nofollow' : 'index, follow';
     >
 
   </head>
-  <body class="antialiased font-sans selection:bg-white selection:text-black overflow-hidden" id="body-wrap">
+  <body class="antialiased font-sans selection:bg-white selection:text-black overflow-hidden ui-loading" id="body-wrap">
     <div id="preloader">
       <div class="flex flex-col items-center">
         <div class="preloader-line mb-4"></div>

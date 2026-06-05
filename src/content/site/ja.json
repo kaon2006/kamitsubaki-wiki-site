@@ -41,7 +41,7 @@
     "brandLines": [
       "Kamitsubaki",
       "Studio",
-      "Unofficial Wiki"
+      "Fan Wiki"
     ],
     "systemVersion": "SYS.VER_2.4.1",
     "coordinates": "COORD: 35.6620° N, 139.7038° E",
@@ -50,14 +50,22 @@
     "rightVertical": "神椿非公式観測所",
     "eyebrow": "UNOFFICIAL OBSERVATION DATABASE",
     "title": "Observer",
-    "marquee": "KAMITSUBAKI STUDIO UNOFFICIAL DATABASE KAMITSUBAKI STUDIO UNOFFICIAL DATABASE"
+    "marquee": "KAMITSUBAKI STUDIO FAN WIKI KAMITSUBAKI STUDIO FAN WIKI"
   },
   "sections": {
     "about": {
       "heading": "00. PREFACE",
       "subheading": "観測者へ告ぐ",
-      "body": [],
-      "note": []
+      "body": [
+        "これはKAMITSUBAKI STUDIOの非公式ファン百科事典サイトです。神椿所属のアーティスト・音楽・プロジェクト・世界線を「観測者」たちのために整理・記録することを目的としています。すべての内容はファンによって作成・管理されており、KAMITSUBAKI STUDIOおよびTHINKRとは無関係です。"
+      ],
+      "note": [
+        "観測者：LinkTh1rsty —— 花譜の声に撃ち抜かれた観測者の一人。",
+        "どの曲からだったか覚えていない。ただ、聞いた瞬間、世界が一秒静かになったのは覚えている。そこから神椿に没頭して、聴けば聴くほど深く、見れば見るほど止まらなくなった。音楽も物語も舞台も世界線も——どうしてこんな場所に、これだけ鳥肌ものの詰まっているんだろう。",
+        "2026年5月30日、花譜「宿声」ライブが終わって、会場を出たとき頭の中はまだ余韻でいっぱいだった。帰り道で思った。自分が神椿を知ったばかりの頃、あちこちの情報を漁って、この世界がどういうものか理解するのにすごく時間がかかった。あの時、一目でわかる場所があったらなあ。",
+        "だからこのサイトを作った。理由はそれだけ。次に同じように出会う人が、もう少し早く、神椿に撃ち抜かれるように。",
+        "個人サイトで公式とは無関係だ。でももし君の役に立てたなら——たとえ花譜の曲をもう一曲聴いただけでも——それで十分だ。"
+      ]
     },
     "database": {
       "heading": "01. DATABASE",
@@ -82,7 +90,7 @@
       },
       {
         "label": "GUIDELINES",
-        "href": "#"
+        "href": "https://github.com/LinkTh1rsty/kamitsubaki-wiki-site/blob/main/docs/contributing.md"
       },
       {
         "label": "CONTACT",
@@ -90,10 +98,10 @@
       }
     ],
     "disclaimer": [
-      "This is an unofficial fan observation database.",
-      "Not affiliated with KAMITSUBAKI STUDIO or THINKR.",
-      "All official rights belong to their respective owners."
+      "これは非公式のファン観測データベースです。",
+      "KAMITSUBAKI STUDIOおよびTHINKRとは無関係です。",
+      "すべての公式権利は各権利者に帰属します。"
     ],
-    "copyright": "© 2024 OBSERVER DATABASE / VERSION_2.4.1"
+    "copyright": "© 2026 LinkTh1rsty All Rights Reserved"
   }
 }

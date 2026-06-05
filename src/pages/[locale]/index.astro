@@ -8,7 +8,7 @@ import SiteFooter from '../../components/SiteFooter.astro';
 import SiteNav from '../../components/SiteNav.astro';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
-import { buildArtistCategories, buildDatabaseJumpLinks, getLocalizedEntries, getLocalizedSite, sortByOrder } from '../../lib/homeData.mjs';
+import { buildArtistCategories, buildDatabaseJumpLinks, buildLogCards, buildProjectCards, getLocalizedEntries, getLocalizedSite } from '../../lib/homeData.mjs';
 import { buildLocaleLinks, defaultLocale, supportedLocales } from '../../lib/i18n.mjs';
 import { buildHomeMetadata } from '../../lib/metadata.mjs';
 
@@ -27,8 +27,8 @@ const logEntryCollection = getLocalizedEntries(await getCollection('logs'), loca
 
 const artistCategories = buildArtistCategories(artistEntries);
 const databaseJumpLinks = buildDatabaseJumpLinks(artistCategories);
-const projects = sortByOrder(projectEntries).map((entry) => entry.data);
-const logEntries = sortByOrder(logEntryCollection).map((entry) => entry.data);
+const projects = buildProjectCards(projectEntries, locale);
+const logEntries = buildLogCards(logEntryCollection, locale);
 const localeLinks = buildLocaleLinks(homeContent, locale);
 const alternates = supportedLocales.map((localeCode) => ({
   locale: localeCode,
@@ -38,7 +38,7 @@ const metadata = buildHomeMetadata(homeContent, locale);
 ---
 
 <BaseLayout lang={locale} alternates={alternates} metadata={metadata}>
-  <SiteNav navItems={homeContent.navItems} localeLinks={localeLinks} brandLines={homeContent.hero.brandLines} />
+  <SiteNav navItems={homeContent.navItems} localeLinks={localeLinks} brandLines={homeContent.hero.brandLines} homeHref={`/${locale}/`} />
   <Hero hero={homeContent.hero} />
   <AboutSection content={homeContent.sections.about} />
   <ArtistDatabase

@@ -1,38 +1,54 @@
 ---
 const { hero } = Astro.props;
+const hasCjkVerticalText = /[\u3040-\u30ff\u3400-\u9fff]/.test(hero.leftVertical);
+const verticalRailHeight = hasCjkVerticalText ? 'h-[22rem] md:h-[24rem]' : 'h-72 md:h-80';
 ---
 
-<header class="relative w-full h-screen flex flex-col justify-center items-center border-b border-white/10 overflow-hidden ui-crosshair bl br">
-  <div class="absolute top-32 left-6 md:left-12 text-[9px] font-mono text-white/30 tracking-widest leading-loose reveal-up" style="transition-delay: 0.5s;">
+<header class="relative flex min-h-screen flex-col items-center justify-center overflow-hidden border-b border-white/10 ui-crosshair bl br">
+  <div class="absolute left-6 top-28 text-[9px] font-mono leading-loose text-white/30 tracking-widest reveal-up md:left-12 md:top-32" style="transition-delay: 0.32s;">
     {hero.systemVersion}<br />
     {hero.coordinates}<br />
     {hero.status}
   </div>
 
-  <div class="absolute top-1/2 left-6 md:left-12 -translate-y-1/2 reveal-up" style="transition-delay: 0.2s;">
-    <p class="t-vertical font-serif text-white/40 tracking-[0.4em] text-xs md:text-sm h-64 border-l border-white/10 pl-4">
+  <div class:list={[
+    'absolute left-4 top-1/2 hidden -translate-y-1/2 items-center reveal-up sm:left-6 md:left-10 lg:flex',
+    verticalRailHeight,
+  ]} style="transition-delay: 0.14s;">
+    <p class:list={[
+      't-vertical whitespace-nowrap border-l border-white/10 pl-4 font-serif text-white/42',
+      hasCjkVerticalText
+        ? 'text-[11px] tracking-[0.22em] md:text-sm'
+        : 'text-xs tracking-[0.32em] md:text-sm',
+    ]}>
       {hero.leftVertical}
     </p>
   </div>
 
-  <div class="absolute top-1/2 right-6 md:right-12 -translate-y-1/2 reveal-up" style="transition-delay: 0.4s;">
-    <p class="t-vertical font-serif text-white/70 text-sm md:text-base tracking-[0.5em] font-light">
+  <div class:list={[
+    'absolute right-4 top-1/2 hidden -translate-y-1/2 items-center justify-end reveal-up sm:right-6 md:right-10 lg:flex',
+    verticalRailHeight,
+  ]} style="transition-delay: 0.22s;">
+    <p class="t-vertical whitespace-nowrap border-r border-white/10 pr-4 font-serif text-sm font-light tracking-[0.34em] text-white/62 md:text-base">
       {hero.rightVertical}
     </p>
   </div>
 
-  <div class="text-center z-10 px-4 mt-20 relative">
-    <div class="absolute -top-12 left-1/2 -translate-x-1/2 w-[1px] h-8 bg-white/30 reveal-up" style="transition-delay: 0.6s;"></div>
-    <p class="text-[9px] md:text-xs tracking-kamidest-lg text-white/40 mb-8 font-light reveal-up">
+  <div class="relative z-10 mt-18 px-4 text-center sm:mt-20">
+    <div class="absolute left-1/2 top-[-2.75rem] h-8 w-px -translate-x-1/2 bg-white/30 reveal-up" style="transition-delay: 0.36s;"></div>
+    <p class="mb-6 text-[9px] font-light text-white/40 tracking-kamidest-lg reveal-up md:text-xs">
       {hero.eyebrow}
     </p>
-    <h2 class="text-5xl md:text-8xl lg:text-[10rem] font-extralight tracking-widest text-white uppercase reveal-up mix-blend-overlay" style="transition-delay: 0.1s;">
+    <h2 class="text-5xl font-extralight uppercase tracking-[0.12em] text-white reveal-up mix-blend-overlay sm:text-7xl md:text-8xl lg:text-[10rem]" style="transition-delay: 0.08s;">
       {hero.title}
     </h2>
-    <div class="w-[1px] h-24 bg-white/20 mx-auto mt-12 reveal-up" style="transition-delay: 0.3s;"></div>
+    <div class="mx-auto mt-10 h-18 w-px bg-white/20 reveal-up sm:mt-12 sm:h-24" style="transition-delay: 0.24s;"></div>
+    <p class="mx-auto mt-8 max-w-xs text-[11px] leading-7 text-white/36 lg:hidden">
+      {hero.leftVertical}
+    </p>
   </div>
 
-  <div class="absolute right-32 bottom-32 opacity-10 animate-[spin_60s_linear_infinite] pointer-events-none hidden md:block">
+  <div class="pointer-events-none absolute bottom-20 right-20 hidden opacity-8 lg:block motion-safe:animate-[spin_80s_linear_infinite]">
     <svg width="200" height="200" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
       <circle cx="50" cy="50" r="49" stroke="white" stroke-width="0.5" stroke-dasharray="2 4"></circle>
       <circle cx="50" cy="50" r="30" stroke="white" stroke-width="0.5"></circle>
@@ -41,9 +57,9 @@ const { hero } = Astro.props;
     </svg>
   </div>
 
-  <div class="absolute bottom-8 w-full opacity-5 pointer-events-none select-none">
+  <div class="pointer-events-none absolute bottom-6 w-full select-none opacity-[0.04] md:bottom-8">
     <div class="marquee-container">
-      <div class="marquee-content text-[150px] font-bold tracking-tighter leading-none">
+      <div class="marquee-content text-[96px] font-bold leading-none tracking-tighter md:text-[150px]">
         {hero.marquee}
       </div>
     </div>

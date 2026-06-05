@@ -41,7 +41,7 @@
     "brandLines": [
       "Kamitsubaki",
       "Studio",
-      "Unofficial Wiki"
+      "Fan Wiki"
     ],
     "systemVersion": "SYS.VER_2.4.1",
     "coordinates": "COORD: 35.6620° N, 139.7038° E",
@@ -50,14 +50,22 @@
     "rightVertical": "KAMITSUBAKI Unofficial Observatory",
     "eyebrow": "UNOFFICIAL OBSERVATION DATABASE",
     "title": "Observer",
-    "marquee": "KAMITSUBAKI STUDIO UNOFFICIAL DATABASE KAMITSUBAKI STUDIO UNOFFICIAL DATABASE"
+    "marquee": "KAMITSUBAKI STUDIO FAN WIKI KAMITSUBAKI STUDIO FAN WIKI"
   },
   "sections": {
     "about": {
       "heading": "00. PREFACE",
       "subheading": "To observers",
-      "body": [],
-      "note": []
+      "body": [
+        "This is an unofficial fan wiki for KAMITSUBAKI STUDIO. It aims to document and organize the artists, music, projects, and storylines of Kamitsubaki for fellow \"observers.\" All content is written and maintained by fans, and is not affiliated with KAMITSUBAKI STUDIO or THINKR."
+      ],
+      "note": [
+        "Observer: LinkTh1rsty — an observer who got hit by KAF's voice and never recovered.",
+        "I don't remember which song it was. I just remember the world going quiet for a second. Then I dove headfirst into Kamitsubaki — the deeper I went, the harder it was to stop. Music, stories, stage, lore — how does one place pack so many things that give you chills.",
+        "May 30, 2026. KAF's \"Yadosagoe\" concert ended, and my head was still ringing when I walked out. On the way home I kept thinking — when I first found Kamitsubaki, I dug through random posts and articles for ages before I could even piece together what this world was. I wished someone had just pointed me to one place that laid it all out.",
+        "So I made this site. Simple as that. I want the next person who stumbles into Kamitsubaki to get hit by it faster.",
+        "This is a personal site, not official. But if it helps you — even if it just gets you to listen to one more KAF song — that's enough."
+      ]
     },
     "database": {
       "heading": "01. DATABASE",
@@ -82,7 +90,7 @@
       },
       {
         "label": "GUIDELINES",
-        "href": "#"
+        "href": "https://github.com/LinkTh1rsty/kamitsubaki-wiki-site/blob/main/docs/contributing.md"
       },
       {
         "label": "CONTACT",
@@ -94,6 +102,6 @@
       "Not affiliated with KAMITSUBAKI STUDIO or THINKR.",
       "All official rights belong to their respective owners."
     ],
-    "copyright": "© 2024 OBSERVER DATABASE / VERSION_2.4.1"
+    "copyright": "© 2026 LinkTh1rsty All Rights Reserved"
   }
 }

@@ -23,6 +23,7 @@
     "remark-math": "^6.0.0",
     "tailwindcss": "^4.3.0",
     "typescript": "latest",
+    "vite": "7.3.5",
     "yaml": "^2.9.0"
   },
   "pnpm": {

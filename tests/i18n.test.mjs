@@ -42,7 +42,7 @@ test('localized content exists for key records in all supported locales', async 
   for (const locale of locales) {
     const artist = await readMd(`../src/content/artists/vwp/kaf/${locale}.md`);
     const project = await readMd(`../src/content/projects/arg/kamitsubaki-city/${locale}.md`);
-    const log = await readJson(`../src/content/logs/2024/2024-06-01-vwp-live/${locale}.json`);
+    const log = await readMd(`../src/content/logs/2024/2024-06-01-vwp-live/${locale}.md`);
 
     assert.equal(artist.locale, locale);
     assert.equal(artist.translationKey, 'kaf');

@@ -1,5 +1,5 @@
 export const defaultSiteDescription = 'KAMITSUBAKI STUDIO 非官方粉丝百科。';
-export const siteName = 'KAMITSUBAKI WIKI';
+export const siteName = 'Kamitsubaki Studio Fan Wiki';
 
 const markdownPatterns = [
   [/^#+\s+/g, ''],
@@ -94,5 +94,33 @@ export function buildHomeMetadata(siteContent, locale) {
     description: truncateDescription(descriptionSource || defaultSiteDescription),
     canonicalPath: `/${locale}/`,
     type: 'website',
+  };
+}
+
+export function buildProjectMetadata({ data, body = '', locale, id }) {
+  const seo = data.seo || {};
+
+  return {
+    title: seo.title || `${data.title} - ${siteName}`,
+    description: seo.description || scanMarkdownDescription(body, data.description || defaultSiteDescription),
+    image: seo.image,
+    canonicalPath: `/${locale}/projects/${id}`,
+    type: 'article',
+    keywords: seo.keywords,
+    noindex: seo.noindex,
+  };
+}
+
+export function buildLogMetadata({ data, body = '', locale, id }) {
+  const seo = data.seo || {};
+
+  return {
+    title: seo.title || `${data.title} - ${siteName}`,
+    description: seo.description || scanMarkdownDescription(body, data.summary || defaultSiteDescription),
+    image: seo.image,
+    canonicalPath: `/${locale}/logs/${id}`,
+    type: 'article',
+    keywords: seo.keywords,
+    noindex: seo.noindex,
   };
 }

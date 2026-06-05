@@ -5,6 +5,7 @@ import SiteNav from '../../../components/SiteNav.astro';
 import SiteFooter from '../../../components/SiteFooter.astro';
 import { getLocalizedSite } from '../../../lib/homeData.mjs';
 import { buildLocaleLinks, defaultLocale, supportedLocales } from '../../../lib/i18n.mjs';
+import { renderMarkdownFragment } from '../../../lib/markdown.mjs';
 
 export function getStaticPaths() {
   return supportedLocales.map((locale) => ({
@@ -33,9 +34,27 @@ if (!copy) {
 }
 
 const docsHref = `https://github.com/LinkTh1rsty/kamitsubaki-wiki-site/blob/main/${copy.docsPath}`;
+const repoEditRoot = 'https://github.com/LinkTh1rsty/kamitsubaki-wiki-site/edit/main/';
+const contentPathPrefix = 'src/content/';
+const introHtml = await renderMarkdownFragment(copy.intro);
+const targetIntroHtml = await renderMarkdownFragment(copy.targetIntro);
+const renderedVariants = await Promise.all(
+  copy.variants.map(async (variant) => ({
+    ...variant,
+    descriptionHtml: await renderMarkdownFragment(variant.description),
+    finalBodyHtml: await renderMarkdownFragment(variant.finalBody),
+    renderedSections: await Promise.all(
+      variant.sections.map(async (section, index) => ({
+        ...section,
+        id: `${variant.key}-step-${index + 1}`,
+        bodyHtml: await renderMarkdownFragment(section.body),
+      })),
+    ),
+  })),
+);
 
 const metadata = {
-  title: `${copy.title} - KAMITSUBAKI WIKI`,
+  title: `${copy.title} - Kamitsubaki Studio Fan Wiki`,
   description: copy.intro,
   canonicalPath: `/${localeCode}/contribute/edit`,
   type: 'website' as const,
@@ -43,10 +62,18 @@ const metadata = {
 };
 ---
 
-<BaseLayout lang={localeCode} alternates={alternates} title={`${copy.title} - KAMITSUBAKI WIKI`} metadata={metadata}>
-  <SiteNav navItems={homeContent.navItems} localeLinks={localeLinks} brandLines={homeContent.hero.brandLines} compact />
+<BaseLayout lang={localeCode} alternates={alternates} title={`${copy.title} - Kamitsubaki Studio Fan Wiki`} metadata={metadata}>
+  <SiteNav navItems={homeContent.navItems} localeLinks={localeLinks} brandLines={homeContent.hero.brandLines} compact homeHref={`/${localeCode}/`} />
 
-  <main class="mx-auto flex min-h-screen max-w-5xl flex-col px-4 pb-12 pt-24 sm:px-6 sm:pt-28 lg:pt-32">
+  <main
+    class="mx-auto flex min-h-screen max-w-5xl flex-col px-4 pb-12 pt-24 sm:px-6 sm:pt-28 lg:pt-32"
+    data-guide-runtime
+    data-repo-edit-root={repoEditRoot}
+    data-content-path-prefix={contentPathPrefix}
+    data-docs-href={docsHref}
+    data-invalid-target={copy.invalidTarget}
+    data-default-guide-mode="beginner"
+  >
     <div class="mb-8 flex flex-wrap items-center justify-between gap-4 text-[9px] font-mono uppercase tracking-[0.22em] text-white/40">
       <a href={`/${localeCode}/`} class="transition-colors hover:text-white">{copy.back}</a>
       <a href={docsHref} class="transition-colors hover:text-white" target="_blank" rel="noopener noreferrer">
@@ -63,78 +90,270 @@ const metadata = {
           <h1 class="font-serif text-3xl font-semibold leading-tight tracking-[0.06em] text-white sm:text-5xl">
             {copy.title}
           </h1>
-          <p class="mt-5 max-w-2xl text-sm leading-7 text-white/62 sm:text-base sm:leading-8">
-            {copy.intro}
-          </p>
+          <div class="wiki-guide-prose prose prose-invert mt-5 max-w-2xl" set:html={introHtml} />
         </div>
         <div class="rounded-md border border-white/10 bg-white/[0.03] p-4">
           <p class="mb-2 text-[9px] font-mono uppercase tracking-[0.2em] text-white/35">{copy.targetLabel}</p>
-          <p class="break-all text-xs leading-6 text-white/70" data-edit-target-path data-invalid-target={copy.invalidTarget}>{copy.invalidTarget}</p>
+          <div class="wiki-guide-prose prose prose-invert max-w-none text-white/48" set:html={targetIntroHtml} />
+          <p class="mt-3 break-all text-xs leading-6 text-white/70" data-guide-target-path>{copy.invalidTarget}</p>
         </div>
       </div>
     </section>
 
-    <section class="grid gap-3 py-8 sm:gap-4 sm:py-10">
-      {copy.steps.map((step, index) => (
-        <label class="group grid cursor-pointer gap-4 rounded-md border border-white/10 bg-white/[0.025] p-4 transition-colors hover:border-white/25 sm:grid-cols-[3rem_minmax(0,1fr)_9rem] sm:items-start sm:p-5">
-          <span class="font-mono text-xl text-white/30 sm:text-2xl">{String(index + 1).padStart(2, '0')}</span>
-          <span>
-            <span class="block text-sm font-medium tracking-[0.12em] text-white sm:text-base">{step.title}</span>
-            <span class="mt-2 block text-sm leading-7 text-white/58">{step.body}</span>
-          </span>
-          <span class="inline-flex items-center gap-2 text-[10px] font-mono uppercase tracking-[0.18em] text-white/48 sm:justify-end">
-            <input class="h-4 w-4 accent-white" type="checkbox" data-guide-step />
-            {copy.checkbox}
-          </span>
-        </label>
-      ))}
-    </section>
+    <section class="grid gap-8 py-8 sm:gap-10 sm:py-10 lg:grid-cols-[minmax(0,1fr)_17rem] lg:items-start">
+      <div class="grid gap-6 sm:gap-8">
+        <section class="rounded-md border border-white/10 bg-white/[0.025] p-4 sm:p-5">
+          <div class="flex flex-col gap-3 sm:flex-row sm:items-end sm:justify-between">
+            <div>
+              <p class="text-[9px] font-mono uppercase tracking-[0.22em] text-white/35">{copy.switchLabel}</p>
+            </div>
+            <div class="wiki-guide-mode-switch inline-flex flex-wrap gap-2" role="tablist" aria-label={copy.switchLabel}>
+              {renderedVariants.map((variant, index) => (
+                <button
+                  type="button"
+                  role="tab"
+                  aria-selected={index === 0 ? 'true' : 'false'}
+                  class:list={[
+                    'wiki-guide-mode-button inline-flex min-h-11 items-center rounded-md border px-4 text-[10px] font-mono uppercase tracking-[0.16em] transition-colors',
+                    index === 0
+                      ? 'border-cyan-200/60 bg-cyan-300/[0.12] text-cyan-50'
+                      : 'border-white/12 bg-white/[0.02] text-white/58 hover:border-white/28 hover:text-white',
+                  ]}
+                  data-guide-mode-button={variant.key}
+                  data-guide-mode-active={index === 0 ? 'true' : 'false'}
+                  aria-controls={`guide-panel-${variant.key}`}
+                  id={`guide-tab-${variant.key}`}
+                >
+                  {variant.label}
+                </button>
+              ))}
+            </div>
+          </div>
+        </section>
 
-    <section class="mt-auto flex flex-col gap-3 border-t border-white/10 pt-6 sm:flex-row sm:items-center sm:justify-between">
-      <p class="text-xs leading-6 text-white/45" data-guide-status data-locked-label={copy.locked} data-ready-label={copy.ready}>{copy.locked}</p>
-      <a
-        href="#"
-        class="wiki-guide-action inline-flex min-h-12 items-center justify-center rounded-md border border-white/15 px-5 text-center text-[10px] font-mono uppercase tracking-[0.18em] text-white/35 transition-colors"
-        aria-disabled="true"
-        data-github-edit-link
-      >
-        {copy.ready}
-      </a>
+        {renderedVariants.map((variant, variantIndex) => (
+          <section
+            id={`guide-panel-${variant.key}`}
+            role="tabpanel"
+            aria-labelledby={`guide-tab-${variant.key}`}
+            hidden={variantIndex !== 0}
+            data-guide-mode-panel={variant.key}
+          >
+            <div class="rounded-md border border-white/10 bg-white/[0.02] p-4 sm:p-5">
+              <p class="text-[9px] font-mono uppercase tracking-[0.22em] text-cyan-200/60">{variant.label}</p>
+              <div class="wiki-guide-prose prose prose-invert mt-3 max-w-3xl" set:html={variant.descriptionHtml} />
+            </div>
+            <div class="mt-6 grid gap-6 sm:gap-8">
+              {variant.renderedSections.map((section, index) => (
+                <article id={section.id} class="wiki-guide-card rounded-md border border-white/10 bg-white/[0.025] p-5 sm:p-6">
+                  <div class="flex items-start gap-4 sm:gap-5">
+                    <div class="flex shrink-0 flex-col items-center gap-3 pt-0.5">
+                      <span class="flex h-11 w-11 items-center justify-center rounded-full border border-white/12 bg-white/[0.04] font-mono text-sm text-white/72 sm:h-12 sm:w-12">
+                        {String(index + 1).padStart(2, '0')}
+                      </span>
+                      {index < variant.renderedSections.length - 1 && <span class="wiki-guide-card-line hidden h-full w-px bg-white/10 lg:block" />}
+                    </div>
+                    <div class="min-w-0 flex-1">
+                      <p class="text-[9px] font-mono uppercase tracking-[0.22em] text-cyan-200/60">
+                        Step {String(index + 1).padStart(2, '0')}
+                      </p>
+                      <h2 class="mt-2 text-lg font-medium tracking-[0.08em] text-white sm:text-xl">{section.title}</h2>
+                      <div class="wiki-guide-prose prose prose-invert mt-5 max-w-none" set:html={section.bodyHtml} />
+                    </div>
+                  </div>
+                </article>
+              ))}
+
+              <section class="rounded-md border border-white/12 bg-white/[0.03] p-5 sm:p-6">
+                <p class="text-[9px] font-mono uppercase tracking-[0.22em] text-white/35">{variant.finalTitle}</p>
+                <div class="wiki-guide-prose prose prose-invert mt-4 max-w-3xl" set:html={variant.finalBodyHtml} />
+                <div class="mt-6 flex flex-wrap gap-3">
+                  <a
+                    href={docsHref}
+                    class="inline-flex min-h-12 items-center rounded-md border border-white/12 px-5 text-[10px] font-mono uppercase tracking-[0.18em] text-white/65 transition-colors hover:border-white/28 hover:text-white"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    {copy.docs}
+                  </a>
+                  <a
+                    href={docsHref}
+                    class="inline-flex min-h-12 items-center rounded-md border border-cyan-300/30 bg-cyan-300/[0.06] px-5 text-[10px] font-mono uppercase tracking-[0.18em] text-cyan-50 transition-colors hover:border-cyan-200/60 hover:bg-cyan-300/[0.12]"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    data-github-edit-link={variant.key}
+                  >
+                    {variant.finalLinkLabel}
+                  </a>
+                </div>
+              </section>
+            </div>
+          </section>
+        ))}
+      </div>
+
+      <aside class="lg:sticky lg:top-28">
+        <div class="rounded-md border border-white/10 bg-white/[0.02] p-4 sm:p-5">
+          <p class="text-[9px] font-mono uppercase tracking-[0.22em] text-white/35">{copy.eyebrow}</p>
+          {renderedVariants.map((variant, variantIndex) => (
+            <nav
+              class:list={['wiki-guide-rail mt-4 space-y-1.5', variantIndex !== 0 && 'hidden']}
+              data-guide-rail={variant.key}
+            >
+              {variant.renderedSections.map((section, index) => (
+                <a href={`#${section.id}`} class="block rounded-md px-3 py-2 transition-colors hover:bg-white/[0.04]">
+                  <span class="block font-mono text-[9px] uppercase tracking-[0.18em] text-white/32">
+                    Step {String(index + 1).padStart(2, '0')}
+                  </span>
+                  <span class="mt-1 block text-sm leading-6 text-white/72">{section.title}</span>
+                </a>
+              ))}
+            </nav>
+          ))}
+
+          <div class="mt-5 border-t border-white/10 pt-4">
+            <p class="text-[9px] font-mono uppercase tracking-[0.18em] text-white/32">{copy.targetLabel}</p>
+            <p class="mt-2 text-xs leading-6 text-white/55 break-all" data-guide-target-path>{copy.invalidTarget}</p>
+          </div>
+        </div>
+      </aside>
     </section>
   </main>
 
   <SiteFooter footer={homeContent.footer} />
-
-  <script>
-    const allowedPrefix = 'https://github.com/LinkTh1rsty/kamitsubaki-wiki-site/edit/main/src/content/';
-    const params = new URLSearchParams(window.location.search);
-    const target = params.get('target') || '';
-    const isValidTarget = target.startsWith(allowedPrefix);
-    const stepInputs = Array.from(document.querySelectorAll<HTMLInputElement>('[data-guide-step]'));
-    const targetPathElement = document.querySelector('[data-edit-target-path]');
-    const statusElement = document.querySelector('[data-guide-status]');
-    const editLink = document.querySelector('[data-github-edit-link]');
-    const invalidTarget = targetPathElement?.getAttribute('data-invalid-target') || '';
-    const locked = statusElement?.getAttribute('data-locked-label') || '';
-    const ready = statusElement?.getAttribute('data-ready-label') || '';
-    const targetPath = isValidTarget ? target.replace(allowedPrefix, 'src/content/') : invalidTarget;
-
-    if (targetPathElement) {
-      targetPathElement.textContent = targetPath;
-    }
-
-    function syncGuideState() {
-      const completed = stepInputs.every((input) => input.checked);
-      const unlocked = completed && isValidTarget;
-
-      if (!editLink || !statusElement) return;
-
-      editLink.setAttribute('aria-disabled', String(!unlocked));
-      editLink.setAttribute('href', unlocked ? target : '#');
-      statusElement.textContent = unlocked ? ready : locked;
-    }
-
-    stepInputs.forEach((input) => input.addEventListener('change', syncGuideState));
-    syncGuideState();
-  </script>
 </BaseLayout>
+
+<script is:inline type="module">
+  const runtimeRoot = document.querySelector('[data-guide-runtime]');
+  const repoEditRoot = runtimeRoot?.getAttribute('data-repo-edit-root') || '';
+  const contentPathPrefix = runtimeRoot?.getAttribute('data-content-path-prefix') || '';
+  const docsHref = runtimeRoot?.getAttribute('data-docs-href') || '';
+  const invalidTarget = runtimeRoot?.getAttribute('data-invalid-target') || '';
+  const defaultGuideMode = runtimeRoot?.getAttribute('data-default-guide-mode') || 'beginner';
+
+  const normalizeTarget = (value) => {
+    let candidate = String(value || '').trim();
+
+    for (let index = 0; index < 2; index += 1) {
+      try {
+        const decoded = decodeURIComponent(candidate);
+
+        if (decoded === candidate) {
+          break;
+        }
+
+        candidate = decoded;
+      } catch {
+        break;
+      }
+    }
+
+    if (!candidate) {
+      return '';
+    }
+
+    if (candidate.startsWith(contentPathPrefix)) {
+      return candidate;
+    }
+
+    if (repoEditRoot && candidate.startsWith(repoEditRoot)) {
+      const relativePath = candidate.slice(repoEditRoot.length);
+      return relativePath.startsWith(contentPathPrefix) ? relativePath : '';
+    }
+
+    return '';
+  };
+
+  const searchParams = new URLSearchParams(window.location.search);
+  const rawTarget = searchParams.get('target') || '';
+  const normalizedTarget = normalizeTarget(rawTarget);
+  const resolvedTargetPath = normalizedTarget || invalidTarget;
+  const resolvedEditHref = normalizedTarget ? `${repoEditRoot}${normalizedTarget}` : docsHref;
+  const localeLinks = document.querySelectorAll('nav[aria-label="Language switcher"] a');
+
+  for (const node of document.querySelectorAll('[data-guide-target-path]')) {
+    node.textContent = resolvedTargetPath;
+  }
+
+  for (const editLink of document.querySelectorAll('[data-github-edit-link]')) {
+    if (editLink instanceof HTMLAnchorElement) {
+      editLink.href = resolvedEditHref;
+    }
+  }
+
+  const syncGuideMode = (mode) => {
+    for (const button of document.querySelectorAll('[data-guide-mode-button]')) {
+      if (!(button instanceof HTMLButtonElement)) {
+        continue;
+      }
+
+      const isActive = button.getAttribute('data-guide-mode-button') === mode;
+      button.setAttribute('aria-selected', isActive ? 'true' : 'false');
+      button.setAttribute('data-guide-mode-active', isActive ? 'true' : 'false');
+      button.classList.toggle('border-cyan-200/60', isActive);
+      button.classList.toggle('bg-cyan-300/[0.12]', isActive);
+      button.classList.toggle('text-cyan-50', isActive);
+      button.classList.toggle('border-white/12', !isActive);
+      button.classList.toggle('bg-white/[0.02]', !isActive);
+      button.classList.toggle('text-white/58', !isActive);
+    }
+
+    for (const panel of document.querySelectorAll('[data-guide-mode-panel]')) {
+      if (!(panel instanceof HTMLElement)) {
+        continue;
+      }
+
+      panel.hidden = panel.getAttribute('data-guide-mode-panel') !== mode;
+    }
+
+    for (const rail of document.querySelectorAll('[data-guide-rail]')) {
+      if (!(rail instanceof HTMLElement)) {
+        continue;
+      }
+
+      rail.classList.toggle('hidden', rail.getAttribute('data-guide-rail') !== mode);
+    }
+  };
+
+  const syncLocaleLinks = (mode) => {
+    for (const node of localeLinks) {
+      if (!(node instanceof HTMLAnchorElement)) {
+        continue;
+      }
+
+      const href = new URL(node.href, window.location.origin);
+
+      if (rawTarget) {
+        href.searchParams.set('target', normalizedTarget || rawTarget);
+      } else {
+        href.searchParams.delete('target');
+      }
+
+      href.searchParams.set('mode', mode);
+      node.href = `${href.pathname}${href.search}`;
+    }
+  };
+
+  const modeFromQuery = searchParams.get('mode');
+  const initialMode = modeFromQuery === 'experienced' || modeFromQuery === 'beginner'
+    ? modeFromQuery
+    : defaultGuideMode;
+
+  syncGuideMode(initialMode);
+  syncLocaleLinks(initialMode);
+
+  for (const button of document.querySelectorAll('[data-guide-mode-button]')) {
+    if (!(button instanceof HTMLButtonElement)) {
+      continue;
+    }
+
+    button.addEventListener('click', () => {
+      const mode = button.getAttribute('data-guide-mode-button') || defaultGuideMode;
+      const url = new URL(window.location.href);
+      url.searchParams.set('mode', mode);
+      history.replaceState({}, '', `${url.pathname}${url.search}`);
+      syncGuideMode(mode);
+      syncLocaleLinks(mode);
+    });
+  }
+</script>

@@ -78,8 +78,8 @@ const articleLabels = {
   },
 }[localeCode];
 
-const githubSourceHref = `https://github.com/LinkTh1rsty/kamitsubaki-wiki-site/edit/main/src/content/artists/${id}/${localeCode}.md`;
-const sourceHref = `/${localeCode}/contribute/edit?target=${encodeURIComponent(githubSourceHref)}`;
+const contentSourcePath = `src/content/artists/${id}/${localeCode}.md`;
+const sourceHref = `/${localeCode}/contribute/edit?target=${encodeURIComponent(contentSourcePath)}`;
 const metadata = buildArticleMetadata({
   data: articleData,
   body: entry.body,
@@ -88,8 +88,8 @@ const metadata = buildArticleMetadata({
 });
 ---
 
-<BaseLayout lang={locale} alternates={alternates} title={`${articleData.name} - KAMITSUBAKI WIKI`} metadata={metadata}>
-  <SiteNav navItems={homeContent.navItems} localeLinks={localeLinks} brandLines={homeContent.hero.brandLines} compact />
+<BaseLayout lang={locale} alternates={alternates} title={`${articleData.name} - Kamitsubaki Studio Fan Wiki`} metadata={metadata}>
+  <SiteNav navItems={homeContent.navItems} localeLinks={localeLinks} brandLines={homeContent.hero.brandLines} compact homeHref={`/${localeCode}/`} />
 
   <div class="fixed left-0 top-0 z-[60] h-px w-full origin-left bg-white/70" data-reading-progress></div>
 
