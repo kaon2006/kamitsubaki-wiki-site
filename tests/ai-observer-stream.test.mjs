@@ -43,11 +43,42 @@ test('parseAiStreamChunk parses complete normalized events', () => {
   assert.equal(result.remainder, '');
 });
 
+test('parseAiStreamChunk parses CRLF-delimited frames', () => {
+  const result = parseAiStreamChunk('event: delta\r\ndata: {"text":"理芽"}\r\n\r\n');
+
+  assert.deepEqual(result.events, [{ type: 'delta', data: { text: '理芽' } }]);
+  assert.equal(result.remainder, '');
+});
+
+test('parseAiStreamChunk parses no-space SSE field syntax', () => {
+  const result = parseAiStreamChunk('event:delta\nretry:1000\ndata:{"text":"春猿火"}\n\n');
+
+  assert.deepEqual(result.events, [{ type: 'delta', data: { text: '春猿火' } }]);
+  assert.equal(result.remainder, '');
+});
+
 test('parseAiStreamChunk preserves incomplete frames as remainder', () => {
   const result = parseAiStreamChunk('event: delta\ndata: {"text"');
 
   assert.deepEqual(result.events, []);
   assert.equal(result.remainder, 'event: delta\ndata: {"text"');
+});
+
+test('parseAiStreamChunk completes a frame with previous remainder', () => {
+  const first = parseAiStreamChunk('event: delta\ndata: {"text"');
+  const second = parseAiStreamChunk(':"ヰ世界情緒"}\n\n', first.remainder);
+
+  assert.deepEqual(first.events, []);
+  assert.equal(first.remainder, 'event: delta\ndata: {"text"');
+  assert.deepEqual(second.events, [{ type: 'delta', data: { text: 'ヰ世界情緒' } }]);
+  assert.equal(second.remainder, '');
+});
+
+test('parseAiStreamChunk joins multiple data lines before parsing JSON', () => {
+  const result = parseAiStreamChunk('event: delta\ndata: {"text":\ndata: "幸祜"}\n\n');
+
+  assert.deepEqual(result.events, [{ type: 'delta', data: { text: '幸祜' } }]);
+  assert.equal(result.remainder, '');
 });
 
 test('parseAiStreamChunk returns an error event for invalid JSON frames', () => {
