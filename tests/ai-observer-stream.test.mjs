@@ -50,6 +50,13 @@ test('parseAiStreamChunk parses CRLF-delimited frames', () => {
   assert.equal(result.remainder, '');
 });
 
+test('parseAiStreamChunk parses CR-delimited frames', () => {
+  const result = parseAiStreamChunk('event: delta\rdata: {"text":"観測"}\r\r');
+
+  assert.deepEqual(result.events, [{ type: 'delta', data: { text: '観測' } }]);
+  assert.equal(result.remainder, '');
+});
+
 test('parseAiStreamChunk parses no-space SSE field syntax', () => {
   const result = parseAiStreamChunk('event:delta\nretry:1000\ndata:{"text":"春猿火"}\n\n');
 
