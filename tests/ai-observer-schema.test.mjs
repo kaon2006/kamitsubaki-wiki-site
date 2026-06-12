@@ -63,9 +63,21 @@ test('AI observer migration enforces unique anonymous session token ownership', 
 
 test('AI observer migration requires deletion requests to target exactly one owner', async () => {
   const sql = await readFile(migrationPath, 'utf8');
+  const deletionRequestsTable = sql.match(/CREATE TABLE IF NOT EXISTS deletion_requests \([\s\S]*?\n\);/)?.[0];
+
+  assert.ok(deletionRequestsTable);
 
   assert.match(
-    sql,
-    /CREATE TABLE IF NOT EXISTS deletion_requests \([\s\S]*CHECK \(\s*\(user_id IS NOT NULL AND anonymous_session_id IS NULL\)\s*OR \(user_id IS NULL AND anonymous_session_id IS NOT NULL\)\s*\)\s*\);/,
+    deletionRequestsTable,
+    /CHECK \(\s*\(user_id IS NOT NULL AND anonymous_session_id IS NULL\)\s*OR \(user_id IS NULL AND anonymous_session_id IS NOT NULL\)\s*\)/,
   );
+  assert.match(
+    deletionRequestsTable,
+    /FOREIGN KEY \(user_id\) REFERENCES users\(id\) ON DELETE RESTRICT/,
+  );
+  assert.match(
+    deletionRequestsTable,
+    /FOREIGN KEY \(anonymous_session_id\) REFERENCES anonymous_sessions\(id\) ON DELETE RESTRICT/,
+  );
+  assert.doesNotMatch(deletionRequestsTable, /ON DELETE SET NULL/);
 });

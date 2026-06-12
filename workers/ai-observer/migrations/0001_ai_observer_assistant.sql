@@ -141,8 +141,8 @@ CREATE TABLE IF NOT EXISTS deletion_requests (
   status TEXT NOT NULL DEFAULT 'completed',
   created_at TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP,
   completed_at TEXT,
-  FOREIGN KEY (user_id) REFERENCES users(id) ON DELETE SET NULL,
-  FOREIGN KEY (anonymous_session_id) REFERENCES anonymous_sessions(id) ON DELETE SET NULL,
+  FOREIGN KEY (user_id) REFERENCES users(id) ON DELETE RESTRICT,
+  FOREIGN KEY (anonymous_session_id) REFERENCES anonymous_sessions(id) ON DELETE RESTRICT,
   CHECK (
     (user_id IS NOT NULL AND anonymous_session_id IS NULL)
     OR (user_id IS NULL AND anonymous_session_id IS NOT NULL)
