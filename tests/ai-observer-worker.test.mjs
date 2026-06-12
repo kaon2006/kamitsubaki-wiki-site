@@ -37,6 +37,7 @@ function createEnv(overrides = {}) {
     TURNSTILE_SECRET: 'turnstile-secret',
     TURNSTILE_SITE_KEY: 'site-key',
     AI_OBSERVER_RETRIEVAL: 'off',
+    AI_OBSERVER_ALLOWED_ORIGINS: 'http://127.0.0.1:4321,http://localhost:4321',
     ...overrides,
   };
 }
@@ -65,6 +66,37 @@ test('bootstrap returns greeting, viewer, and Turnstile config', async () => {
   assert.match(env.AI_OBSERVER_DB.calls[0].sql, /INSERT INTO anonymous_sessions/);
   assert.match(env.AI_OBSERVER_DB.calls[0].binds[0], /^anon_/);
   assert.notEqual(env.AI_OBSERVER_DB.calls[0].binds[2], '203.0.113.42');
+});
+
+test('bootstrap returns credentialed CORS headers for allowed local frontend origins', async () => {
+  const response = await worker.fetch(
+    new Request('https://example.com/api/ai/bootstrap', {
+      headers: {
+        Origin: 'http://127.0.0.1:4321',
+      },
+    }),
+    createEnv(),
+    {},
+  );
+
+  assert.equal(response.headers.get('Access-Control-Allow-Origin'), 'http://127.0.0.1:4321');
+  assert.equal(response.headers.get('Access-Control-Allow-Credentials'), 'true');
+});
+
+test('options preflight does not allow unknown origins', async () => {
+  const response = await worker.fetch(
+    new Request('https://example.com/api/ai/chat', {
+      method: 'OPTIONS',
+      headers: {
+        Origin: 'https://evil.example',
+      },
+    }),
+    createEnv(),
+    {},
+  );
+
+  assert.equal(response.status, 204);
+  assert.equal(response.headers.get('Access-Control-Allow-Origin'), null);
 });
 
 test('chat persists a new anonymous session and returns a normalized event stream', async () => {

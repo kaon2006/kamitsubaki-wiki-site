@@ -8,6 +8,41 @@ import { createEncodedStream, streamResponse } from './stream.js';
 
 const SESSION_COOKIE = 'kfw_ai_session';
 
+function corsHeaders(request, env) {
+  const origin = request.headers.get('Origin');
+  if (!origin) {
+    return {};
+  }
+
+  const allowedOrigins = String(env.AI_OBSERVER_ALLOWED_ORIGINS ?? '')
+    .split(',')
+    .map((item) => item.trim())
+    .filter(Boolean);
+
+  if (!allowedOrigins.includes(origin)) {
+    return {};
+  }
+
+  return {
+    'Access-Control-Allow-Credentials': 'true',
+    'Access-Control-Allow-Origin': origin,
+    Vary: 'Origin',
+  };
+}
+
+function withCors(response, request, env) {
+  const headers = new Headers(response.headers);
+  for (const [key, value] of Object.entries(corsHeaders(request, env))) {
+    headers.set(key, value);
+  }
+
+  return new Response(response.body, {
+    status: response.status,
+    statusText: response.statusText,
+    headers,
+  });
+}
+
 function json(data, init = {}) {
   return Response.json(data, {
     ...init,
@@ -32,17 +67,18 @@ function getRequestIp(request) {
   return request.headers.get('CF-Connecting-IP') || request.headers.get('X-Forwarded-For') || 'unknown';
 }
 
-function createCookie(value) {
-  return `${SESSION_COOKIE}=${encodeURIComponent(value)}; Path=/; HttpOnly; Secure; SameSite=Lax; Max-Age=31536000`;
+function createCookie(value, env) {
+  const secureFlag = env.COOKIE_SECURE === 'off' ? '' : '; Secure';
+  return `${SESSION_COOKIE}=${encodeURIComponent(value)}; Path=/; HttpOnly${secureFlag}; SameSite=Lax; Max-Age=31536000`;
 }
 
-function withSessionCookie(response, session) {
+function withSessionCookie(response, session, env) {
   if (!session.isNew) {
     return response;
   }
 
   const headers = new Headers(response.headers);
-  headers.set('Set-Cookie', createCookie(session.sessionToken));
+  headers.set('Set-Cookie', createCookie(session.sessionToken, env));
   return new Response(response.body, {
     status: response.status,
     statusText: response.statusText,
@@ -76,7 +112,7 @@ async function handleBootstrap(request, env) {
 
   const headers = {};
   if (session.isNew) {
-    headers['Set-Cookie'] = createCookie(session.sessionToken);
+    headers['Set-Cookie'] = createCookie(session.sessionToken, env);
   }
 
   return json(
@@ -170,16 +206,16 @@ async function handleChat(request, env) {
           limit: 6,
         });
 
-  return withSessionCookie(streamResponse(createMockObserverStream({ message, locale, sources })), session);
+  return withSessionCookie(streamResponse(createMockObserverStream({ message, locale, sources })), session, env);
 }
 
-function handleOptions() {
+function handleOptions(request, env) {
   return new Response(null, {
     status: 204,
     headers: {
+      ...corsHeaders(request, env),
       'Access-Control-Allow-Headers': 'Content-Type, X-AI-Observer-Recent-Count',
       'Access-Control-Allow-Methods': 'GET, POST, DELETE, OPTIONS',
-      'Access-Control-Allow-Origin': '*',
     },
   });
 }
@@ -189,17 +225,17 @@ export default {
     const url = new URL(request.url);
 
     if (request.method === 'OPTIONS') {
-      return handleOptions();
+      return handleOptions(request, env);
     }
 
     if (url.pathname === '/api/ai/bootstrap' && request.method === 'GET') {
-      return handleBootstrap(request, env, ctx);
+      return withCors(await handleBootstrap(request, env, ctx), request, env);
     }
 
     if (url.pathname === '/api/ai/chat' && request.method === 'POST') {
-      return handleChat(request, env, ctx);
+      return withCors(await handleChat(request, env, ctx), request, env);
     }
 
-    return json({ error: { code: 'not_found', message: 'Not found' } }, { status: 404 });
+    return withCors(json({ error: { code: 'not_found', message: 'Not found' } }, { status: 404 }), request, env);
   },
 };
