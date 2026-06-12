@@ -147,6 +147,49 @@ pnpm build
 - `pnpm check`：运行 Astro 诊断并校验 Content Collections schema。
 - `pnpm build`：生成静态站点并确认所有路由能构建。
 
+## AI Observer Worker
+
+AI 聊天功能按“静态网页 + 独立后端接口”实现：Astro 站点仍然可以静态部署，`workers/ai-observer/` 里的 Cloudflare Worker 负责聊天接口、匿名/登录身份关联、D1 记录、Turnstile 校验和后续联网检索入口。
+
+当前 Worker 已包含 Phase 1 的 mock 流式回答、匿名会话 cookie、IP/省级地区问候、防滥用判定和 D1 schema。真实模型和联网检索可以在同一接口后续替换 provider，不需要重做前端聊天框。
+
+首次创建 Cloudflare 资源：
+
+```bash
+cd workers/ai-observer
+pnpm dlx wrangler d1 create kamitsubaki-ai-observer
+```
+
+把命令返回的 `database_id` 写入 `workers/ai-observer/wrangler.toml`，然后执行迁移：
+
+```bash
+pnpm dlx wrangler d1 migrations apply kamitsubaki-ai-observer --remote
+```
+
+设置后端 secret：
+
+```bash
+pnpm dlx wrangler secret put SESSION_HASH_SECRET
+pnpm dlx wrangler secret put IP_HASH_SECRET
+pnpm dlx wrangler secret put TURNSTILE_SECRET
+```
+
+本地运行 Worker：
+
+```bash
+cd workers/ai-observer
+pnpm dlx wrangler dev
+```
+
+部署 Worker：
+
+```bash
+cd workers/ai-observer
+pnpm dlx wrangler deploy
+```
+
+上线后，把静态站点的 `PUBLIC_AI_OBSERVER_API_BASE` 指向 Worker 域名，例如 `https://kamitsubaki-ai-observer.example.workers.dev`。
+
 ## GitHub PR 与 CI 流程
 
 1. 从 `main` 创建或同步你的分支。
