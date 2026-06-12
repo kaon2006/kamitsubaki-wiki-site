@@ -147,50 +147,25 @@ pnpm build
 - `pnpm check`：运行 Astro 诊断并校验 Content Collections schema。
 - `pnpm build`：生成静态站点并确认所有路由能构建。
 
-## AI Observer Worker
+## AI Observer API
 
-AI 聊天功能按“静态网页 + 独立后端接口”实现：Astro 站点仍然可以静态部署，`workers/ai-observer/` 里的 Cloudflare Worker 负责聊天接口、匿名/登录身份关联、D1 记录、Turnstile 校验和后续联网检索入口。
+AI 聊天功能按“静态网页 + 独立后端接口”实现：这个公开仓库只保留 Astro 前端、聊天框 UI、流式显示逻辑和内容文案。私有后端仓库负责 AI 接口、检索、身份关联、持久化和防滥用逻辑。
 
-当前 Worker 已包含 Phase 1 的 mock 流式回答、匿名会话 cookie、IP/省级地区问候、防滥用判定和 D1 schema。真实模型和联网检索可以在同一接口后续替换 provider，不需要重做前端聊天框。
+前端通过环境变量连接后端：
 
-联网检索由 Worker 内的白名单检索层控制，当前只会请求 Wikipedia、Moegirlpedia、神椿官方域名及其明确配置的官方入口，不会把用户输入当作任意 URL 代理访问。
-
-首次创建 Cloudflare 资源：
+本地联调：
 
 ```bash
-cd workers/ai-observer
-pnpm dlx wrangler d1 create kamitsubaki-ai-observer
+PUBLIC_AI_OBSERVER_API_BASE=http://127.0.0.1:8787 pnpm dev --host 127.0.0.1
 ```
 
-把命令返回的 `database_id` 写入 `workers/ai-observer/wrangler.toml`，然后执行迁移：
+生产部署时，在静态站点环境变量中设置：
 
-```bash
-pnpm dlx wrangler d1 migrations apply kamitsubaki-ai-observer --remote
+```env
+PUBLIC_AI_OBSERVER_API_BASE=https://your-backend-worker.example
 ```
 
-设置后端 secret：
-
-```bash
-pnpm dlx wrangler secret put SESSION_HASH_SECRET
-pnpm dlx wrangler secret put IP_HASH_SECRET
-pnpm dlx wrangler secret put TURNSTILE_SECRET
-```
-
-本地运行 Worker：
-
-```bash
-cd workers/ai-observer
-pnpm dlx wrangler dev
-```
-
-部署 Worker：
-
-```bash
-cd workers/ai-observer
-pnpm dlx wrangler deploy
-```
-
-上线后，把静态站点的 `PUBLIC_AI_OBSERVER_API_BASE` 指向 Worker 域名，例如 `https://kamitsubaki-ai-observer.example.workers.dev`。
+浏览器只会调用后端公开 API：`GET /api/ai/bootstrap` 和 `POST /api/ai/chat`。不要在这个前端仓库中提交后端源码、模型密钥、数据库配置或服务端规则。
 
 ## GitHub PR 与 CI 流程
 
