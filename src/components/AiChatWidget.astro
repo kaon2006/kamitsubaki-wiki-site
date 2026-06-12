@@ -1,0 +1,83 @@
+---
+type AiChatCopy = {
+  title: string;
+  status: string;
+  buttonLabel: string;
+  closeLabel: string;
+  minimizeLabel: string;
+  inputLabel: string;
+  inputPlaceholder: string;
+  sendLabel: string;
+  bubbleIdle: string;
+  bubbleThinking: string;
+  greeting: string;
+  fallbackOffline: string;
+  emptyResponse: string;
+  challengeFallback: string;
+  streamErrorFallback: string;
+  quickPrompts: string[];
+};
+
+const { lang = 'zh', copy } = Astro.props as { lang?: string; copy: AiChatCopy };
+const apiBase = import.meta.env.PUBLIC_AI_OBSERVER_API_BASE || '';
+---
+
+<aside
+  class="ai-chat"
+  data-ai-chat
+  data-api-base={apiBase}
+  data-locale={lang}
+  data-copy={JSON.stringify(copy)}
+  aria-label={copy.title}
+>
+  <div class="ai-chat__bubble" data-ai-bubble aria-hidden="true">{copy.bubbleIdle}</div>
+  <button class="ai-chat__orb" type="button" data-ai-toggle aria-label={copy.buttonLabel} aria-expanded="false">
+    <span class="ai-chat__orb-ring"></span>
+    <span class="ai-chat__orb-core">
+      <svg viewBox="0 0 24 24" aria-hidden="true">
+        <path d="M12 3.75v16.5M3.75 12h16.5M6.2 6.2l11.6 11.6M17.8 6.2 6.2 17.8" />
+      </svg>
+    </span>
+  </button>
+
+  <section class="ai-chat__panel" data-ai-panel aria-hidden="true">
+    <header class="ai-chat__header">
+      <div>
+        <p>{copy.status}</p>
+        <h2>{copy.title}</h2>
+      </div>
+      <div class="ai-chat__actions">
+        <button type="button" data-ai-minimize aria-label={copy.minimizeLabel}>
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 12h14" /></svg>
+        </button>
+        <button type="button" data-ai-close aria-label={copy.closeLabel}>
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="m6 6 12 12M18 6 6 18" /></svg>
+        </button>
+      </div>
+    </header>
+
+    <div class="ai-chat__messages" data-ai-messages role="log" aria-live="polite">
+      <article class="ai-message ai-message--assistant">
+        <p>{copy.greeting}</p>
+      </article>
+    </div>
+
+    <div class="ai-chat__quick" data-ai-quick>
+      {copy.quickPrompts.map((prompt) => (
+        <button type="button" data-ai-prompt={prompt}>{prompt}</button>
+      ))}
+    </div>
+
+    <form class="ai-chat__form" data-ai-form>
+      <label class="sr-only" for="ai-chat-input">{copy.inputLabel}</label>
+      <textarea id="ai-chat-input" data-ai-input rows="1" maxlength="5000" placeholder={copy.inputPlaceholder}></textarea>
+      <button type="submit" data-ai-submit aria-label={copy.sendLabel}>
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 12h13M13 6l6 6-6 6" /></svg>
+      </button>
+    </form>
+  </section>
+</aside>
+
+<script>
+  import '../scripts/aiChatWidget.js';
+</script>
