@@ -128,7 +128,7 @@
     ],
     "modelModeLabel": "模型",
     "customModelLabel": "自定义",
-    "customModelPlaceholder": "例如 gpt-4.1-mini",
+    "customModelPlaceholder": "例如 model-id",
     "thinkingModeLabel": "思考",
     "modelModes": [
       {

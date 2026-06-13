@@ -128,7 +128,7 @@
     ],
     "modelModeLabel": "Model",
     "customModelLabel": "Custom",
-    "customModelPlaceholder": "e.g. gpt-4.1-mini",
+    "customModelPlaceholder": "e.g. model-id",
     "thinkingModeLabel": "Thinking",
     "modelModes": [
       {
