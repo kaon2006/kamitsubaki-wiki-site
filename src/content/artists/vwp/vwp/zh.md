@@ -1,0 +1,134 @@
+---
+locale: "zh"
+translationKey: "vwp"
+code: "G1"
+romanizedName: "V.W.P"
+categoryOrder: 0
+itemOrder: 0
+meta: "GROUP: VIRTUAL WITCH PHENOMENON"
+debutDate: "2019-01-01"
+profileTagline: "由五位「数字魔女」组成的虚拟艺术家团体，以强大的人声驱动音乐与跨媒体叙事在神椿体系中占据核心位置。"
+designCredits: []
+affiliations:
+  - "KAMITSUBAKI STUDIO"
+  - "PHENOMENON RECORD"
+officialLinks:
+  - label: "KAMITSUBAKI 官方 V.W.P 页面"
+    href: "https://kamitsubaki.jp/artist/v-w-p/"
+  - label: "YouTube"
+    href: "https://www.youtube.com/channel/UCfiSo8tO3WPU-8YOgr4Ba6g"
+  - label: "X (Twitter)"
+    href: "https://twitter.com/VWP_virtual"
+  - label: "Bilibili"
+    href: "https://space.bilibili.com/1636327445"
+  - label: "Weibo"
+    href: "https://weibo.com/u/7573179727"
+featuredEntries:
+  - label: "花譜 / KAF"
+    href: "/zh/artists/vwp/kaf"
+    kind: "artist"
+  - label: "理芽 / Rim"
+    href: "/zh/artists/vwp/rim"
+    kind: "artist"
+  - label: "春猿火 / HARUSARUHI"
+    href: "/zh/artists/vwp/harusaruhi"
+    kind: "artist"
+  - label: "ヰ世界情緒 / ISEKAIJOUCHO"
+    href: "/zh/artists/vwp/isekaijoucho"
+    kind: "artist"
+  - label: "幸祜 / KOKO"
+    href: "/zh/artists/vwp/koko"
+    kind: "artist"
+theme:
+  name: "V.W.P Witch Ensemble"
+  accentColor: "#9b59b6"
+  mutedColor: "#6c3483"
+  surfaceColor: "#0d0a14"
+  highlightColor: "#f0e6ff"
+  palette:
+    - label: "魔女紫"
+      value: "#9B59B6"
+    - label: "深紫"
+      value: "#6C3483"
+    - label: "暗夜"
+      value: "#0D0A14"
+    - label: "柔光白"
+      value: "#F0E6FF"
+statusLabel: "STATUS"
+status: "ACTIVE"
+image: "https://placehold.co/1200x800/111/333?text=V.W.P"
+name: "V.W.P -Virtual Witch Phenomenon-"
+categoryTitle: "虚拟世代的魔女们"
+categorySubtitle: "VIRTUAL WITCH PHENOMENON"
+seo:
+  keywords:
+    - "V.W.P"
+    - "Virtual Witch Phenomenon"
+    - "KAMITSUBAKI STUDIO"
+    - "花譜"
+    - "理芽"
+    - "春猿火"
+    - "ヰ世界情緒"
+    - "幸祜"
+---
+
+## 概述
+
+V.W.P（Virtual Witch Phenomenon）是 KAMITSUBAKI STUDIO 旗下的核心虚拟艺术家团体，由花譜（KAF）、理芽（Rim）、春猿火（HARUSARUHI）、ヰ世界情緒（ISEKAIJOUCHO）、幸祜（KOKO）五位「数字魔女」组成。
+
+作为神椿体系中最具代表性的团体活动，V.W.P 不仅是一个音乐组合，更是一个围绕「魔女」意象展开的跨媒体叙事框架。五位成员各自拥有独立的个人活动，但在 V.W.P 名义下，她们共同构建了一个关于命运、观测与魔女觉醒的宏大故事。
+
+## 角色与创作定位
+
+V.W.P 的歌曲体系分为三种类型：
+
+- **系谱曲**（Lineage Songs）：由カンザキイオリ作词作曲，是 V.W.P 的核心叙事线。五位成员各自的系谱曲定义了她们在魔女世界观中的角色定位。
+- **派生曲**（Derivative Songs）：由不同成员的两人或三人组合演唱，通过轮换搭配探索成员之间的化学反应。
+- **扩声曲**（Expansion Songs）：引入外部创作者作曲，为 V.W.P 的音乐版图带来新的风格维度。
+
+这种三轨并行的创作结构，使得 V.W.P 既能保持叙事连贯性，又能持续拓展音乐边界。
+
+## 活动历程
+
+- 2019 年起：五位成员陆续开始个人活动，逐步形成 V.W.P 的雏形。
+- 2021 年：V.W.P 正式结成，发布系谱曲系列。
+- 2023 年 3 月：1st ONE-MAN LIVE「Phenomenon」。
+- 2024 年 1 月：2nd ONE-MAN LIVE「Phenomenon II」于代代木第一体育馆举办。
+- 2024 年：1st Album「運命」发行。
+- 2026 年 1 月 21 日：3rd Album「反転」发行。
+- 2026 年 2 月：4th ONE-MAN LIVE「Phenomenon IV -反転運命-」于 Pia Arena MM 举办——团体史上最大规模公演。
+- 2026 年 3 月末：五位成员进入「INTERVAL」充电期，各自磨练技能，以「魔女再诞」为再开目标。
+
+## 代表作品与相关条目
+
+- 专辑：「運命」「反転」
+- 单曲：「同盟」「切札」「感情」「秘密」等
+- 系谱曲系列：定义各成员角色的核心叙事歌曲
+- 派生曲系列：成员两两组合的化学反应实验
+
+推荐搭配阅读五位成员的个人条目：
+
+- [花譜 / KAF](/zh/artists/vwp/kaf)
+- [理芽 / Rim](/zh/artists/vwp/rim)
+- [春猿火 / HARUSARUHI](/zh/artists/vwp/harusaruhi)
+- [ヰ世界情緒 / ISEKAIJOUCHO](/zh/artists/vwp/isekaijoucho)
+- [幸祜 / KOKO](/zh/artists/vwp/koko)
+
+## 相关企划 / 关联设定
+
+V.W.P 与神椿体系中的「魔女」世界观直接相关。五位成员各自代表不同的魔女属性，她们的系谱曲与派生曲共同构成了神椿叙事的核心骨架。团体活动与「神椿市建设中。」等跨媒体企划也有深度关联。
+
+2026 年 3 月末进入的「INTERVAL」充电期，标志着 V.W.P 第一章的结束与新阶段的准备。成员们在各自精进之后，将以「魔女再诞」的形式重新集结。
+
+## 参考资料
+
+- KAMITSUBAKI STUDIO 官方 V.W.P 页面：<https://kamitsubaki.jp/artist/v-w-p/>
+- 中文维基：V.W.P：<https://zh.wikipedia.org/wiki/V.W.P>
+
+## 外部链接
+
+- KAMITSUBAKI STUDIO V.W.P 页面：<https://kamitsubaki.jp/artist/v-w-p/>
+- YouTube：<https://www.youtube.com/channel/UCfiSo8tO3WPU-8YOgr4Ba6g>
+- X (Twitter)：<https://twitter.com/VWP_virtual>
+- Bilibili：<https://space.bilibili.com/1636327445>
+- Weibo：<https://weibo.com/u/7573179727>

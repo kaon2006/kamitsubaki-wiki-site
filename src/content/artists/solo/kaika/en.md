@@ -1,0 +1,96 @@
+---
+locale: "en"
+translationKey: "kaika"
+code: "11"
+romanizedName: "Kaika"
+categoryOrder: 2
+itemOrder: 5
+meta: "DEBUT: 2024"
+debutDate: "2024-01-14"
+profileTagline: "A new-generation virtual singer-songwriter and a new branching point of KAF, channeling impulsive feelings into song."
+designCredits: []
+affiliations:
+  - "KAMITSUBAKI STUDIO"
+officialLinks:
+  - label: "Official Site"
+    href: "https://kaika.kamitsubaki.jp/"
+  - label: "X (Twitter)"
+    href: "https://x.com/qurux2_flower"
+  - label: "YouTube"
+    href: "https://www.youtube.com/@curling_flower_"
+  - label: "TikTok"
+    href: "https://www.tiktok.com/@virtual_kaika"
+featuredEntries:
+  - label: "KAF"
+    href: "/en/artists/vwp/kaf"
+    kind: "artist"
+theme:
+  name: "Kaika Rose"
+  accentColor: "#e8788a"
+  mutedColor: "#b85568"
+  surfaceColor: "#1a0d10"
+  highlightColor: "#ffedf0"
+  palette:
+    - label: "Rose Pink"
+      value: "#E8788A"
+    - label: "Deep Rose"
+      value: "#B85568"
+    - label: "Dark Berry"
+      value: "#1A0D10"
+    - label: "Soft White"
+      value: "#FFEDF0"
+statusLabel: "STATUS"
+status: "ACTIVE"
+image: "https://placehold.co/1200x800/111/333?text=Kaika"
+name: "Kaika"
+categoryTitle: "Solo Artists / Units"
+categorySubtitle: "SOLO ARTISTS & UNITS"
+seo:
+  keywords:
+    - "Kaika"
+    - "廻花"
+    - "KAMITSUBAKI STUDIO"
+    - "KAF"
+---
+
+## Overview
+
+Kaika (廻花) is a new-generation virtual singer-songwriter under KAMITSUBAKI STUDIO, described as "a new branching point of KAF." She debuted on January 14, 2024, at KAF's 4th ONE-MAN LIVE "Kaika" held at Yoyogi National Gymnasium, emerging as a distinct artistic identity that channels impulsive, unfiltered feelings directly into song. Her concept represents a fork in KAF's creative lineage — a new flower blooming from the same root but growing in its own direction.
+
+With a vocal style that leans into raw emotional expression, Kaika occupies a unique space within the Kamitsubaki ecosystem: part singer-songwriter, part character narrative. Her work explores immediacy and instinct, contrasting with the more literary or philosophical approaches of other V.W.P members.
+
+## Role and Creative Position
+
+Kaika's identity is built on the idea of "branching" — she is explicitly framed as a new divergence from KAF, carrying forward elements of KAF's artistic DNA while developing her own voice. The name 廻花 ("circling flower") evokes cyclical growth and return, suggesting that even as she branches out, the connection to her origin remains. Her creative direction emphasizes directness: capturing feelings as they arise, before they can be rationalized or refined.
+
+## Activity History
+
+- January 14, 2024: Debuted at KAF's 4th ONE-MAN LIVE "Kaika" at Yoyogi National Gymnasium.
+- August 25, 2024: Performed at YouTube Music Weekend 8.0.
+- Released debut album *Umareru mae kara kimi wo shitteru* ("I've Known You Since Before You Were Born").
+- Released singles: "Stand By Me," "Higurashi no Uta," "Teddy Bear," "Kaika."
+- July 19, 2025: Held solo exhibition "KuruKuru."
+
+## Representative Works
+
+- 1st Album: *Umareru mae kara kimi wo shitteru*
+- Singles: "Stand By Me," "Higurashi no Uta," "Teddy Bear," "Kaika"
+
+See also:
+
+- [KAF](/en/artists/vwp/kaf)
+
+## Related Projects / Setting
+
+Kaika's origin is directly tied to KAF's artistic narrative — she emerged from KAF's creative universe as a branching identity, making her one of the most narratively integrated solo acts in the Kamitsubaki roster. Her solo exhibition "KuruKuru" further expanded her presence into visual art and physical space, reflecting the studio's tendency to blur boundaries between music, character, and experiential art.
+
+## References
+
+- Kaika official site: <https://kaika.kamitsubaki.jp/>
+
+## External Links
+
+- Official Site: <https://kaika.kamitsubaki.jp/>
+- X (Twitter): <https://x.com/qurux2_flower>
+- YouTube: <https://www.youtube.com/@curling_flower_>
+- TikTok: <https://www.tiktok.com/@virtual_kaika>

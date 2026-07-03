@@ -23,7 +23,6 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 
   const cursor = document.getElementById('cursor');
-  const hoverElements = document.querySelectorAll('a, button, summary, [data-hoverable]');
 
   if (cursor && window.matchMedia('(pointer: fine)').matches) {
     document.addEventListener('mousemove', (event) => {
@@ -31,9 +30,18 @@ document.addEventListener('DOMContentLoaded', () => {
       cursor.style.top = `${event.clientY}px`;
     });
 
-    hoverElements.forEach((element) => {
-      element.addEventListener('mouseenter', () => cursor.classList.add('hovering'));
-      element.addEventListener('mouseleave', () => cursor.classList.remove('hovering'));
+    // Use event delegation to handle dynamically loaded elements (like AI Chat)
+    document.addEventListener('mouseover', (event) => {
+      const hoverable = event.target instanceof Element && event.target.closest('a, button, summary, [data-hoverable], [role="button"], input[type="button"], input[type="submit"]');
+      if (hoverable) {
+        cursor.classList.add('hovering');
+      } else {
+        cursor.classList.remove('hovering');
+      }
+    });
+
+    document.addEventListener('mouseleave', () => {
+      cursor.classList.remove('hovering');
     });
   } else if (cursor) {
     cursor.style.display = 'none';
@@ -104,5 +112,22 @@ document.addEventListener('DOMContentLoaded', () => {
     updateReadingProgress();
     window.addEventListener('scroll', updateReadingProgress, { passive: true });
     window.addEventListener('resize', updateReadingProgress);
+  }
+
+  // Preload artist hover images in the background on idle to prevent latency/flash
+  const preloadArtistImages = () => {
+    artistRows.forEach((row) => {
+      const imgUrl = row.getAttribute('data-img');
+      if (imgUrl) {
+        const img = new Image();
+        img.src = imgUrl;
+      }
+    });
+  };
+
+  if ('requestIdleCallback' in window) {
+    window.requestIdleCallback(() => preloadArtistImages());
+  } else {
+    window.setTimeout(preloadArtistImages, 1500);
   }
 });
