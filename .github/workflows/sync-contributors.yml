@@ -1,0 +1,44 @@
+name: Sync contributors
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - 'src/content/**'
+      - 'scripts/sync-contributors.mjs'
+      - '.github/workflows/sync-contributors.yml'
+
+jobs:
+  sync:
+    name: Sync contribution history
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout full history
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: 11.1.1
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Sync contributors
+        run: |
+          if [ -z "$CONTRIBUTOR_SYNC_TOKEN" ]; then
+            echo "CONTRIBUTOR_SYNC_TOKEN is not configured; skipping contributor sync."
+            exit 0
+          fi
+          pnpm contributors:sync
+        env:
+          CONTRIBUTORS_API_BASE: ${{ vars.CONTRIBUTORS_API_BASE || 'https://kamitsubaki-ai-observer.linkth1rstyg.workers.dev' }}
+          CONTRIBUTOR_SYNC_TOKEN: ${{ secrets.CONTRIBUTOR_SYNC_TOKEN }}
+          CONTRIBUTORS_COMMIT_BASE_URL: ${{ vars.CONTRIBUTORS_COMMIT_BASE_URL || format('https://github.com/{0}/commit', github.repository) }}

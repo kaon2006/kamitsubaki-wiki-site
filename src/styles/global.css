@@ -1948,6 +1948,259 @@ input[type="reset"] {
   50% { opacity: 1; }
 }
 
+.contributor-roster {
+  position: relative;
+  overflow: hidden;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 8px;
+  background:
+    linear-gradient(135deg, rgba(137, 245, 223, 0.08), transparent 34%),
+    rgba(255, 255, 255, 0.035);
+  box-shadow: 0 24px 70px rgba(0, 0, 0, 0.22);
+  backdrop-filter: blur(16px);
+}
+
+.contributor-roster--summary {
+  max-width: 80rem;
+  margin: -3rem auto 6rem;
+  padding: 0;
+}
+
+.contributor-roster--entry {
+  margin-top: 1rem;
+}
+
+.contributor-roster__header {
+  display: flex;
+  gap: 1rem;
+  align-items: flex-end;
+  justify-content: space-between;
+  padding: 1rem;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+  background: rgba(0, 0, 0, 0.14);
+}
+
+.contributor-roster__header h2 {
+  margin: 0.18rem 0 0;
+  font-family: var(--font-serif, ui-serif), serif;
+  font-size: 1.05rem;
+  line-height: 1.25;
+  letter-spacing: 0.08em;
+  color: rgba(255, 255, 255, 0.92);
+}
+
+.contributor-roster__header p {
+  max-width: 20rem;
+  margin: 0;
+  font-size: 0.72rem;
+  line-height: 1.65;
+  color: rgba(255, 255, 255, 0.52);
+}
+
+.contributor-roster__kicker {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+  font-size: 0.6rem;
+  line-height: 1.4;
+  letter-spacing: 0.22em;
+  color: rgba(137, 245, 223, 0.72);
+}
+
+.contributor-roster__state,
+.contributor-roster__empty {
+  padding: 1.25rem;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+  font-size: 0.68rem;
+  letter-spacing: 0.12em;
+  color: rgba(255, 255, 255, 0.48);
+}
+
+.contributor-roster__content {
+  padding: 1rem;
+}
+
+.contributor-roster__stats {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 0.6rem;
+  margin-bottom: 1rem;
+}
+
+.contributor-roster__stats div {
+  min-width: 0;
+  padding: 0.75rem;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 6px;
+  background: rgba(0, 0, 0, 0.18);
+}
+
+.contributor-roster__stats strong {
+  display: block;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+  font-size: 1.1rem;
+  line-height: 1.1;
+  color: rgba(255, 255, 255, 0.9);
+}
+
+.contributor-roster__stats span {
+  display: block;
+  margin-top: 0.25rem;
+  font-size: 0.65rem;
+  line-height: 1.4;
+  color: rgba(255, 255, 255, 0.42);
+}
+
+.contributor-roster__grid {
+  display: grid;
+  grid-template-columns: minmax(0, 0.86fr) minmax(0, 1.14fr);
+  gap: 1rem;
+}
+
+.contributor-roster--entry .contributor-roster__grid {
+  grid-template-columns: 1fr;
+}
+
+.contributor-roster__grid h3 {
+  margin: 0 0 0.65rem;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+  font-size: 0.62rem;
+  line-height: 1.4;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: rgba(255, 255, 255, 0.42);
+}
+
+.contributor-roster__people {
+  display: grid;
+  gap: 0.55rem;
+}
+
+.contributor-roster__person {
+  display: grid;
+  grid-template-columns: 2rem minmax(0, 1fr);
+  gap: 0.62rem;
+  align-items: center;
+  min-height: 2.75rem;
+  padding: 0.42rem;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 6px;
+  background: rgba(255, 255, 255, 0.035);
+  color: inherit;
+  text-decoration: none;
+  transition: border-color 180ms ease, background 180ms ease;
+}
+
+.contributor-roster__person:hover {
+  border-color: rgba(137, 245, 223, 0.34);
+  background: rgba(137, 245, 223, 0.06);
+}
+
+.contributor-roster__avatar {
+  display: grid;
+  place-items: center;
+  width: 2rem;
+  height: 2rem;
+  overflow: hidden;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.08);
+  color: rgba(255, 255, 255, 0.78);
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+  font-size: 0.62rem;
+}
+
+.contributor-roster__avatar img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.contributor-roster__identity {
+  min-width: 0;
+}
+
+.contributor-roster__identity strong {
+  display: block;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  font-size: 0.78rem;
+  line-height: 1.35;
+  color: rgba(255, 255, 255, 0.86);
+}
+
+.contributor-roster__identity small {
+  display: block;
+  margin-top: 0.12rem;
+  overflow-wrap: anywhere;
+  font-size: 0.64rem;
+  line-height: 1.35;
+  color: rgba(255, 255, 255, 0.44);
+}
+
+.contributor-roster__recent {
+  display: grid;
+  gap: 0.55rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.contributor-roster__recent li {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  gap: 0.45rem;
+  padding: 0.72rem;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 6px;
+  background: rgba(0, 0, 0, 0.14);
+}
+
+.contributor-roster__recent-main {
+  min-width: 0;
+}
+
+.contributor-roster__recent-main strong {
+  display: block;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  font-size: 0.76rem;
+  line-height: 1.4;
+  color: rgba(255, 255, 255, 0.84);
+}
+
+.contributor-roster__recent-main span,
+.contributor-roster__recent-meta {
+  font-size: 0.62rem;
+  line-height: 1.45;
+  color: rgba(255, 255, 255, 0.42);
+}
+
+.contributor-roster__recent-meta {
+  display: flex;
+  gap: 0.6rem;
+  align-items: center;
+  justify-content: space-between;
+  min-width: 0;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+}
+
+.contributor-roster__recent-meta span {
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.contributor-roster__recent-meta a {
+  flex: 0 0 auto;
+  color: rgba(137, 245, 223, 0.76);
+  text-decoration: none;
+}
+
+.contributor-roster__recent-meta a:hover {
+  color: rgba(255, 255, 255, 0.92);
+}
+
 
 @media (max-width: 639px) {
   html {
@@ -2136,6 +2389,28 @@ input[type="reset"] {
 
   .wiki-guide-prose :where(h3) {
     font-size: 0.96rem;
+  }
+
+  .contributor-roster--summary {
+    margin: -1rem 1rem 4rem;
+  }
+
+  .contributor-roster__header {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+
+  .contributor-roster__header p {
+    max-width: none;
+  }
+
+  .contributor-roster__stats,
+  .contributor-roster__grid {
+    grid-template-columns: 1fr;
+  }
+
+  .contributor-roster__recent-main strong {
+    white-space: normal;
   }
 }
 
