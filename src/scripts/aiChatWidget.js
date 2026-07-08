@@ -2,6 +2,7 @@ import katex from 'katex';
 import { micromark } from 'micromark';
 import { gfm, gfmHtml } from 'micromark-extension-gfm';
 import { math, mathHtml } from 'micromark-extension-math';
+import { readModelSettings, setSegmentedValue } from '../lib/aiChatControls.mjs';
 import { parseAiStreamChunk } from '../lib/aiStream.mjs';
 
 const widgets = document.querySelectorAll('[data-ai-chat]');
@@ -148,11 +149,11 @@ function createMessage(role, text = '') {
   return { message, content };
 }
 
-function createThinkingMessage(copy) {
+function startThinkingMessage(assistantMessage, copy) {
   const phrases = Array.isArray(copy.thinkingPhrases) && copy.thinkingPhrases.length
     ? copy.thinkingPhrases
     : [copy.bubbleThinking, copy.status].filter(Boolean);
-  const { message, content } = createMessage('assistant');
+  const { message, content } = assistantMessage;
   message.classList.add('ai-message--thinking');
   content.classList.remove('ai-markdown');
   content.innerHTML = `
@@ -177,7 +178,12 @@ function createThinkingMessage(copy) {
     }, 1600);
     message.dataset.thinkingTimer = String(timer);
   }
+}
 
+function createThinkingMessage(copy) {
+  const assistantMessage = createMessage('assistant');
+  startThinkingMessage(assistantMessage, copy);
+  const { message, content } = assistantMessage;
   return { message, content };
 }
 
@@ -340,16 +346,6 @@ function toggleHistory(root, expanded) {
   }
 }
 
-function readModelSettings(root) {
-  const modelChoice = root.querySelector('[data-ai-model-choice]');
-  const thinkingMode = root.querySelector('[data-ai-thinking-mode]');
-
-  return {
-    modelChoice: modelChoice instanceof HTMLElement ? modelChoice.dataset.value || 'auto' : 'auto',
-    thinkingMode: thinkingMode instanceof HTMLElement ? thinkingMode.dataset.value || 'auto' : 'auto',
-  };
-}
-
 function compactText(value, maxLength) {
   return String(value || '')
     .replace(/\s+/g, ' ')
@@ -412,22 +408,6 @@ function collectPageContext(root) {
     kind,
     locale: root.dataset.locale || document.documentElement.lang || 'zh',
   };
-}
-
-function setSegmentedValue(group, value) {
-  if (!(group instanceof HTMLElement)) {
-    return;
-  }
-
-  group.dataset.value = value;
-  group.querySelectorAll('button[role="radio"]').forEach((button) => {
-    if (!(button instanceof HTMLButtonElement)) {
-      return;
-    }
-    const isActive = button.dataset.aiModelOption === value || button.dataset.aiThinkingOption === value;
-    button.classList.toggle('is-active', isActive);
-    button.setAttribute('aria-checked', String(isActive));
-  });
 }
 
 function insertTextareaNewline(input) {
@@ -540,6 +520,31 @@ function loadTurnstile() {
   return turnstileLoader;
 }
 
+function showChallengeTray(root, container) {
+  const tray = root.querySelector('[data-ai-challenge-tray]');
+  const mount = root.querySelector('[data-ai-challenge-mount]');
+  if (!(tray instanceof HTMLElement) || !(mount instanceof HTMLElement)) {
+    return false;
+  }
+
+  mount.replaceChildren(container);
+  tray.hidden = false;
+  root.classList.add('is-challenge-open');
+  return true;
+}
+
+function hideChallengeTray(root) {
+  const tray = root.querySelector('[data-ai-challenge-tray]');
+  const mount = root.querySelector('[data-ai-challenge-mount]');
+  if (mount instanceof HTMLElement) {
+    mount.replaceChildren();
+  }
+  if (tray instanceof HTMLElement) {
+    tray.hidden = true;
+  }
+  root.classList.remove('is-challenge-open');
+}
+
 async function requestTurnstileToken(root, content, copy, options = {}) {
   const siteKey = root.dataset.turnstileSiteKey || '';
   if (!siteKey) {
@@ -550,27 +555,39 @@ async function requestTurnstileToken(root, content, copy, options = {}) {
     const turnstile = await loadTurnstile();
     const container = document.createElement('div');
     container.className = 'ai-message__challenge';
-    const anchor = content instanceof HTMLElement ? content : root;
-    if (anchor === root) {
-      root.append(container);
-    } else {
-      anchor.after(container);
+    const usesTray = showChallengeTray(root, container);
+    if (!usesTray) {
+      const anchor = content instanceof HTMLElement ? content : root;
+      if (anchor === root) {
+        root.append(container);
+      } else {
+        anchor.after(container);
+      }
     }
 
     return await new Promise((resolve) => {
       turnstile.render(container, {
         sitekey: siteKey,
+        theme: 'dark',
         action: options.action || 'ai_chat',
         callback(token) {
           root.dataset.turnstileToken = token;
-          container.remove();
+          if (usesTray) {
+            hideChallengeTray(root);
+          } else {
+            container.remove();
+          }
           if (options.updateContent !== false && content instanceof HTMLElement) {
             setMessageMarkdown(content, copy.challengeReady || content.textContent || '');
           }
           resolve(token);
         },
         'error-callback'() {
-          container.remove();
+          if (usesTray) {
+            hideChallengeTray(root);
+          } else {
+            container.remove();
+          }
           resolve('');
         },
         'expired-callback'() {
@@ -676,18 +693,97 @@ function renderThreadList(root, threads) {
     menu.dataset.aiThreadMenuToggle = thread.id;
     menu.setAttribute('aria-label', 'Conversation actions');
     menu.setAttribute('aria-expanded', 'false');
-    menu.innerHTML = '<svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><circle cx="5" cy="12" r="1.5"/><circle cx="12" cy="12" r="1.5"/><circle cx="19" cy="12" r="1.5"/></svg>';
+    menu.innerHTML = '<svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><circle cx="5" cy="12" r="1.45"/><circle cx="12" cy="12" r="1.45"/><circle cx="19" cy="12" r="1.45"/></svg>';
 
     const actions = document.createElement('div');
     actions.className = 'ai-chat__thread-actions';
     actions.hidden = true;
-    actions.innerHTML = `<button type="button" data-ai-thread-rename></button><button type="button" data-ai-thread-delete></button>`;
-    actions.querySelector('[data-ai-thread-rename]').textContent = normalizeCopy(root).renameThreadLabel || '';
-    actions.querySelector('[data-ai-thread-delete]').textContent = normalizeCopy(root).deleteThreadLabel || '';
+    actions.setAttribute('aria-label', 'Conversation actions');
+    const copy = normalizeCopy(root);
+    const renameLabel = copy.renameThreadLabel || 'Rename';
+    const deleteLabel = copy.deleteThreadLabel || 'Delete';
+    actions.innerHTML = `
+      <div class="ai-chat__thread-action-view" data-ai-thread-action-view="choices">
+        <button type="button" data-ai-thread-rename></button>
+        <button type="button" data-ai-thread-delete></button>
+      </div>
+      <div class="ai-chat__thread-action-view ai-chat__thread-action-view--form" data-ai-thread-action-view="rename" hidden>
+        <input type="text" maxlength="80" data-ai-thread-rename-input>
+        <div class="ai-chat__thread-confirm-row">
+          <button type="button" data-ai-thread-action-cancel>[CANCEL]</button>
+          <button type="button" data-ai-thread-rename-confirm></button>
+        </div>
+      </div>
+      <div class="ai-chat__thread-action-view ai-chat__thread-action-view--confirm" data-ai-thread-action-view="delete" hidden>
+        <p data-ai-thread-delete-message></p>
+        <div class="ai-chat__thread-confirm-row">
+          <button type="button" data-ai-thread-action-cancel>[CANCEL]</button>
+          <button type="button" data-ai-thread-delete-confirm></button>
+        </div>
+      </div>
+    `;
+    const renameButton = actions.querySelector('[data-ai-thread-rename]');
+    const deleteButton = actions.querySelector('[data-ai-thread-delete]');
+    const renameConfirm = actions.querySelector('[data-ai-thread-rename-confirm]');
+    const deleteConfirm = actions.querySelector('[data-ai-thread-delete-confirm]');
+    const renameInput = actions.querySelector('[data-ai-thread-rename-input]');
+    const deleteMessage = actions.querySelector('[data-ai-thread-delete-message]');
+    if (renameButton instanceof HTMLButtonElement) {
+      renameButton.textContent = renameLabel;
+      renameButton.setAttribute('aria-label', renameLabel);
+      renameButton.title = renameLabel;
+    }
+    if (deleteButton instanceof HTMLButtonElement) {
+      deleteButton.textContent = deleteLabel;
+      deleteButton.setAttribute('aria-label', deleteLabel);
+      deleteButton.title = deleteLabel;
+    }
+    if (renameConfirm instanceof HTMLButtonElement) {
+      renameConfirm.textContent = renameLabel;
+    }
+    if (deleteConfirm instanceof HTMLButtonElement) {
+      deleteConfirm.textContent = deleteLabel;
+    }
+    if (renameInput instanceof HTMLInputElement) {
+      renameInput.setAttribute('aria-label', renameLabel);
+    }
+    if (deleteMessage instanceof HTMLElement) {
+      deleteMessage.textContent = copy.deleteThreadConfirm || '';
+    }
 
     row.append(button, menu, actions);
     list.append(row);
   }
+}
+
+function setThreadActionView(row, view) {
+  const actions = row?.querySelector('.ai-chat__thread-actions');
+  if (!(actions instanceof HTMLElement)) {
+    return;
+  }
+
+  actions.querySelectorAll('[data-ai-thread-action-view]').forEach((panel) => {
+    if (panel instanceof HTMLElement) {
+      panel.hidden = panel.dataset.aiThreadActionView !== view;
+    }
+  });
+}
+
+function closeThreadMenus(list, exceptRow = null) {
+  list.querySelectorAll('[data-thread-id]').forEach((row) => {
+    if (!(row instanceof HTMLElement) || row === exceptRow) {
+      return;
+    }
+    const actions = row.querySelector('.ai-chat__thread-actions');
+    const toggle = row.querySelector('[data-ai-thread-menu-toggle]');
+    if (actions instanceof HTMLElement) {
+      actions.hidden = true;
+      setThreadActionView(row, 'choices');
+    }
+    if (toggle instanceof HTMLButtonElement) {
+      toggle.setAttribute('aria-expanded', 'false');
+    }
+  });
 }
 
 function openHistoryDialog(root, { title, message = '', value = '', confirmLabel = '', showInput = false }) {
@@ -707,6 +803,12 @@ function openHistoryDialog(root, { title, message = '', value = '', confirmLabel
   if (input instanceof HTMLInputElement) {
     input.hidden = !showInput;
     input.value = value;
+    input.onkeydown = (event) => {
+      if (showInput && event.key === 'Enter' && !event.isComposing) {
+        event.preventDefault();
+        dialog.close('confirm');
+      }
+    };
   }
   if (confirm instanceof HTMLButtonElement) confirm.textContent = confirmLabel;
   if (dialog.open) dialog.close('cancel');
@@ -725,14 +827,8 @@ function openHistoryDialog(root, { title, message = '', value = '', confirmLabel
   });
 }
 
-async function renameThread(root, threadId, currentTitle, copy) {
-  const title = await openHistoryDialog(root, {
-    title: copy.renameThreadLabel || '',
-    value: currentTitle || '',
-    confirmLabel: copy.renameThreadLabel || '',
-    showInput: true,
-  });
-  if (!title?.trim()) {
+async function renameThread(root, threadId, title) {
+  if (!threadId || !title?.trim()) {
     return;
   }
   const response = await fetch(`${root.dataset.apiBase}/api/ai/threads/${encodeURIComponent(threadId)}`, {
@@ -746,13 +842,8 @@ async function renameThread(root, threadId, currentTitle, copy) {
   }
 }
 
-async function deleteThread(root, threadId, copy) {
-  const confirmed = await openHistoryDialog(root, {
-    title: copy.deleteThreadLabel || '',
-    message: copy.deleteThreadConfirm || '',
-    confirmLabel: copy.deleteThreadLabel || '',
-  });
-  if (!confirmed) {
+async function deleteThread(root, threadId) {
+  if (!threadId) {
     return;
   }
   const response = await fetch(`${root.dataset.apiBase}/api/ai/threads/${encodeURIComponent(threadId)}`, {
@@ -935,8 +1026,10 @@ async function readStream(response, assistantMessage, messages, copy, root) {
   }
 
   if (needsChallenge && root) {
-    await requestTurnstileToken(root, content, copy);
+    return { needsChallenge: true };
   }
+
+  return { needsChallenge: false };
 }
 
 function applyLauncherPosition(position) {
@@ -1135,23 +1228,83 @@ function initWidget(root) {
     if (menuToggle instanceof HTMLButtonElement) {
       const actions = row?.querySelector('.ai-chat__thread-actions');
       if (actions instanceof HTMLElement) {
-        actions.hidden = !actions.hidden;
+        closeThreadMenus(threadList, row instanceof HTMLElement ? row : null);
+        const shouldOpen = actions.hidden;
+        actions.hidden = !shouldOpen;
+        if (shouldOpen) {
+          setThreadActionView(row, 'choices');
+        }
         menuToggle.setAttribute('aria-expanded', String(!actions.hidden));
       }
       return;
     }
     if (target?.closest('[data-ai-thread-rename]')) {
       const currentTitle = row?.querySelector('[data-ai-thread-id] span')?.textContent || '';
-      renameThread(root, threadId, currentTitle, copy).catch(() => {});
+      const input = row?.querySelector('[data-ai-thread-rename-input]');
+      setThreadActionView(row, 'rename');
+      if (input instanceof HTMLInputElement) {
+        input.value = currentTitle;
+        input.focus({ preventScroll: true });
+        input.select();
+      }
+      return;
+    }
+    if (target?.closest('[data-ai-thread-rename-confirm]')) {
+      const input = row?.querySelector('[data-ai-thread-rename-input]');
+      const nextTitle = input instanceof HTMLInputElement ? input.value : '';
+      renameThread(root, threadId, nextTitle).catch(() => {});
       return;
     }
     if (target?.closest('[data-ai-thread-delete]')) {
-      deleteThread(root, threadId, copy).catch(() => {});
+      setThreadActionView(row, 'delete');
+      return;
+    }
+    if (target?.closest('[data-ai-thread-delete-confirm]')) {
+      deleteThread(root, threadId).catch(() => {});
+      return;
+    }
+    if (target?.closest('[data-ai-thread-action-cancel]')) {
+      const actions = row?.querySelector('.ai-chat__thread-actions');
+      const toggle = row?.querySelector('[data-ai-thread-menu-toggle]');
+      if (actions instanceof HTMLElement) {
+        actions.hidden = true;
+        setThreadActionView(row, 'choices');
+      }
+      if (toggle instanceof HTMLButtonElement) {
+        toggle.setAttribute('aria-expanded', 'false');
+      }
       return;
     }
     const button = target?.closest('[data-ai-thread-id]');
     if (button instanceof HTMLButtonElement) {
+      closeThreadMenus(threadList);
       loadThreadDetail(root, button.dataset.aiThreadId || '').catch(() => {});
+    }
+  });
+
+  threadList?.addEventListener('keydown', (event) => {
+    const target = event.target instanceof Element ? event.target : null;
+    if (!(target instanceof HTMLInputElement) || !target.matches('[data-ai-thread-rename-input]')) {
+      return;
+    }
+    const row = target.closest('[data-thread-id]');
+    const threadId = row instanceof HTMLElement ? row.dataset.threadId || '' : '';
+    if (event.key === 'Enter' && !event.isComposing) {
+      event.preventDefault();
+      renameThread(root, threadId, target.value).catch(() => {});
+    }
+    if (event.key === 'Escape') {
+      event.preventDefault();
+      const actions = row?.querySelector('.ai-chat__thread-actions');
+      const toggle = row?.querySelector('[data-ai-thread-menu-toggle]');
+      if (actions instanceof HTMLElement) {
+        actions.hidden = true;
+        setThreadActionView(row, 'choices');
+      }
+      if (toggle instanceof HTMLButtonElement) {
+        toggle.setAttribute('aria-expanded', 'false');
+        toggle.focus();
+      }
     }
   });
 
@@ -1231,26 +1384,18 @@ function initWidget(root) {
     scrollMessages(messages);
     setThinking(root, copy, true);
 
-    try {
-      setMessageMarkdown(assistantMessage.content, copy.bubbleThinking || copy.thinking || '');
-      const turnstileToken = await requestTurnstileToken(root, assistantMessage.content, copy, {
-        action: 'ai_chat',
-      });
-      if (!turnstileToken) {
-        finishThinkingMessage(assistantMessage);
-        setMessageMarkdown(assistantMessage.content, copy.challengeFallback || copy.streamErrorFallback || '');
-        return;
-      }
-
+    const requestChat = (turnstileToken = '') => {
       const body = {
         message,
         locale,
-        turnstileToken,
         threadId: root.dataset.currentThreadId || undefined,
         pageContext: collectPageContext(root),
         ...readModelSettings(root),
       };
-      const response = await fetch(`${apiBase}/api/ai/chat`, {
+      if (turnstileToken) {
+        body.turnstileToken = turnstileToken;
+      }
+      return fetch(`${apiBase}/api/ai/chat`, {
         method: 'POST',
         credentials: 'include',
         headers: {
@@ -1259,9 +1404,38 @@ function initWidget(root) {
         },
         body: JSON.stringify(body),
       });
+    };
+
+    try {
+      let turnstileToken = '';
+      if (root.dataset.viewerKind !== 'user') {
+        turnstileToken = await requestTurnstileToken(root, assistantMessage.content, copy, {
+          action: 'ai_chat',
+        });
+        if (!turnstileToken) {
+          finishThinkingMessage(assistantMessage);
+          setMessageMarkdown(assistantMessage.content, copy.challengeFallback || copy.streamErrorFallback || '');
+          return;
+        }
+      }
+
+      let response = await requestChat(turnstileToken);
       delete root.dataset.turnstileToken;
 
-      await readStream(response, assistantMessage, messages, copy, root);
+      let result = await readStream(response, assistantMessage, messages, copy, root);
+      if (result.needsChallenge && root.dataset.viewerKind === 'user') {
+        const retryToken = await requestTurnstileToken(root, assistantMessage.content, copy, {
+          action: 'ai_chat',
+          updateContent: false,
+        });
+        if (retryToken) {
+          startThinkingMessage(assistantMessage, copy);
+          scrollMessages(messages);
+          response = await requestChat(retryToken);
+          delete root.dataset.turnstileToken;
+          result = await readStream(response, assistantMessage, messages, copy, root);
+        }
+      }
       if (root.dataset.viewerKind === 'user') {
         loadThreadList(root).catch(() => {});
       }

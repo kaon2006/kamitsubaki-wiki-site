@@ -6,6 +6,7 @@ import SiteFooter from '../../../components/SiteFooter.astro';
 import WikiInfoBox from '../../../components/WikiInfoBox.astro';
 import WikiArticleHeader from '../../../components/WikiArticleHeader.astro';
 import TableOfContents from '../../../components/TableOfContents.astro';
+import ContributorRoster from '../../../components/ContributorRoster.astro';
 import { buildArtistDisplayData, getLocalizedSite } from '../../../lib/homeData.mjs';
 import { buildLocaleLinks, defaultLocale, supportedLocales } from '../../../lib/i18n.mjs';
 import { buildArticleMetadata } from '../../../lib/metadata.mjs';
@@ -196,7 +197,7 @@ const themeStyle = [
             </details>
           )}
 
-          <article class="wiki-prose prose prose-invert max-w-none">
+          <article class="wiki-reader wiki-prose prose prose-invert max-w-none">
             <Content />
           </article>
         </main>
@@ -207,6 +208,7 @@ const themeStyle = [
         hasArticleBody ? 'lg:col-span-3' : 'lg:col-start-2',
       ]}>
         <WikiInfoBox data={articleData} labels={articleLabels} />
+        <ContributorRoster mode="entry" locale={localeCode} collection="artists" entryId={id} />
       </aside>
       
     </div>

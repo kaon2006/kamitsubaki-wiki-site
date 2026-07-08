@@ -1,6 +1,7 @@
 ---
 import AboutSection from '../../components/AboutSection.astro';
 import ArtistDatabase from '../../components/ArtistDatabase.astro';
+import ContributorRoster from '../../components/ContributorRoster.astro';
 import Hero from '../../components/Hero.astro';
 import LogSection from '../../components/LogSection.astro';
 import ProjectsSection from '../../components/ProjectsSection.astro';
@@ -48,6 +49,7 @@ const metadata = buildHomeMetadata(homeContent, locale);
       section={homeContent.sections.database}
       locale={locale}
     />
+    <ContributorRoster mode="summary" locale={locale} />
     <ProjectsSection projects={projects} section={homeContent.sections.projects} />
     <LogSection logEntries={logEntries} section={homeContent.sections.log} />
     <SiteFooter footer={homeContent.footer} />
