@@ -231,6 +231,10 @@ test('logged-in history exposes rename, delete, clear, and restored source contr
   assert.match(script, /renameThread/);
   assert.match(script, /deleteThread/);
   assert.match(script, /clearAllThreads/);
+  assert.match(script, /showAuthNote/);
+  assert.match(script, /renderThreadList\(root, \[\]\)/);
+  assert.match(script, /loadThreadList\(root\)\.catch\(\(\) => \{\}\)/);
+  assert.match(script, /copy\.authErrorFallback \|\| copy\.fallbackOffline/);
   assert.match(script, /data-ai-thread-menu-toggle/);
   assert.match(script, /data-ai-thread-rename/);
   assert.match(script, /data-ai-thread-delete/);

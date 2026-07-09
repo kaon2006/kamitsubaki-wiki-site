@@ -459,6 +459,14 @@ function updateAuthState(root, copy, viewer) {
   }
 }
 
+function showAuthNote(root, message) {
+  const note = root.querySelector('[data-ai-auth-note]');
+  if (note instanceof HTMLElement) {
+    note.hidden = false;
+    note.textContent = message || '';
+  }
+}
+
 async function bootstrap(root) {
   const apiBase = root.dataset.apiBase || '';
   if (!apiBase) {
@@ -876,11 +884,17 @@ async function clearAllThreads(root, copy) {
     headers: { Accept: 'application/json' },
   });
   if (!response.ok) {
+    showAuthNote(root, copy.authErrorFallback || copy.fallbackOffline || '');
     return;
   }
   root.dataset.currentThreadId = '';
+  renderThreadList(root, []);
   clearMessages(root);
-  await loadThreadList(root);
+  const messages = root.querySelector('[data-ai-messages]');
+  if (messages instanceof HTMLElement) {
+    messages.append(createMessage('assistant', copy.greeting || '').message);
+  }
+  loadThreadList(root).catch(() => {});
 }
 
 async function loadThreadList(root) {
