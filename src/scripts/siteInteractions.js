@@ -130,4 +130,46 @@ document.addEventListener('DOMContentLoaded', () => {
   } else {
     window.setTimeout(preloadArtistImages, 1500);
   }
+
+  // ── Artist category expand/collapse ──
+  const artistList = document.getElementById('artist-list');
+  if (artistList instanceof HTMLElement) {
+    artistList.addEventListener('click', (event) => {
+      const button = event.target instanceof Element && event.target.closest('.artist-expand-btn');
+      if (!button) return;
+
+      const categoryId = button.getAttribute('data-category-id');
+      if (!categoryId) return;
+
+      const categoryContainer = document.getElementById(categoryId);
+      if (!categoryContainer) return;
+
+      const collapsedRows = categoryContainer.querySelectorAll('.artist-row-collapsed');
+      const isExpanded = button.getAttribute('aria-expanded') === 'true';
+
+      if (isExpanded) {
+        collapsedRows.forEach((row) => {
+          row.classList.add('hidden');
+        });
+        button.setAttribute('aria-expanded', 'false');
+        requestAnimationFrame(() => {
+          button.scrollIntoView({ behavior: 'smooth', block: 'center' });
+        });
+      } else {
+        collapsedRows.forEach((row, index) => {
+          row.classList.remove('hidden');
+          row.style.opacity = '0';
+          row.style.transform = 'translateY(24px)';
+          row.style.transitionDelay = `${index * 0.05}s`;
+          requestAnimationFrame(() => {
+            requestAnimationFrame(() => {
+              row.style.opacity = '';
+              row.style.transform = '';
+            });
+          });
+        });
+        button.setAttribute('aria-expanded', 'true');
+      }
+    });
+  }
 });
