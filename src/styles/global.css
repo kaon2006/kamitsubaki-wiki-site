@@ -685,6 +685,228 @@ input[type="reset"] {
   color: rgba(255, 255, 255, 0.35);
 }
 
+/* --- Social Contact Dock --- */
+.social-contact {
+  position: fixed;
+  right: 2rem;
+  bottom: 6rem;
+  z-index: 39;
+  display: grid;
+  justify-items: end;
+  font-family: var(--font-mono);
+  pointer-events: none;
+}
+
+.social-contact__toggle {
+  position: relative;
+  display: inline-flex;
+  width: 3.2rem;
+  height: 3.2rem;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  border-radius: 0;
+  background: rgba(3, 3, 3, 0.92);
+  color: rgba(255, 255, 255, 0.58);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.44);
+  pointer-events: auto;
+  transition:
+    border-color 220ms ease,
+    background-color 220ms ease,
+    color 220ms ease,
+    box-shadow 220ms ease;
+}
+
+.social-contact__toggle:hover,
+.social-contact__toggle:focus-visible,
+.social-contact.is-open .social-contact__toggle {
+  border-color: rgba(255, 255, 255, 0.48);
+  background: #000;
+  color: rgba(255, 255, 255, 0.9);
+  box-shadow: 0 0 18px rgba(137, 245, 223, 0.08);
+}
+
+.social-contact__toggle > span {
+  position: absolute;
+  top: -0.45rem;
+  left: -0.3rem;
+  color: rgba(255, 255, 255, 0.22);
+  font-size: 0.62rem;
+  letter-spacing: 0.1em;
+  pointer-events: none;
+}
+
+.social-contact__toggle svg {
+  width: 1.45rem;
+  height: 1.45rem;
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: 1.4;
+}
+
+.social-contact__panel {
+  width: min(20rem, calc(100vw - 2rem));
+  margin-bottom: 0.85rem;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  background:
+    linear-gradient(180deg, rgba(255, 255, 255, 0.045), rgba(255, 255, 255, 0.012)),
+    rgba(5, 6, 7, 0.94);
+  box-shadow: 0 22px 64px rgba(0, 0, 0, 0.42);
+  backdrop-filter: blur(20px) saturate(130%);
+  color: rgba(255, 255, 255, 0.78);
+  pointer-events: auto;
+}
+
+.social-contact__head {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 1rem;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+  padding: 1rem 1rem 0.85rem;
+}
+
+.social-contact__head p {
+  margin: 0 0 0.35rem;
+  color: rgba(255, 255, 255, 0.34);
+  font-size: 0.6rem;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+}
+
+.social-contact__head h2 {
+  margin: 0;
+  color: rgba(255, 255, 255, 0.9);
+  font-family: var(--font-serif);
+  font-size: 1.05rem;
+  font-weight: 500;
+  letter-spacing: 0.08em;
+}
+
+.social-contact__head button {
+  display: grid;
+  width: 2rem;
+  height: 2rem;
+  flex: 0 0 auto;
+  place-items: center;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  background: rgba(255, 255, 255, 0.025);
+  color: rgba(255, 255, 255, 0.56);
+  transition:
+    border-color 180ms ease,
+    color 180ms ease,
+    background-color 180ms ease;
+}
+
+.social-contact__head button:hover,
+.social-contact__head button:focus-visible {
+  border-color: rgba(255, 255, 255, 0.36);
+  background: rgba(255, 255, 255, 0.06);
+  color: rgba(255, 255, 255, 0.9);
+}
+
+.social-contact__head svg {
+  width: 1rem;
+  height: 1rem;
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-width: 1.5;
+}
+
+.social-contact__helper {
+  margin: 0;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.065);
+  padding: 0.8rem 1rem;
+  color: rgba(255, 255, 255, 0.48);
+  font-size: 0.72rem;
+  line-height: 1.7;
+}
+
+.social-contact__list {
+  display: grid;
+  gap: 0.35rem;
+  padding: 0.6rem;
+}
+
+.social-contact__link {
+  display: grid;
+  grid-template-columns: 2.35rem minmax(0, 1fr);
+  gap: 0.7rem;
+  align-items: center;
+  border: 1px solid transparent;
+  padding: 0.62rem;
+  color: rgba(255, 255, 255, 0.7);
+  text-decoration: none;
+  transition:
+    border-color 180ms ease,
+    background-color 180ms ease,
+    color 180ms ease;
+}
+
+.social-contact__link:hover,
+.social-contact__link:focus-visible {
+  border-color: color-mix(in srgb, var(--wiki-accent-color) 32%, rgba(255, 255, 255, 0.12));
+  background: rgba(255, 255, 255, 0.04);
+  color: rgba(255, 255, 255, 0.92);
+}
+
+.social-contact__link.is-featured {
+  border-color: color-mix(in srgb, var(--wiki-accent-color) 24%, rgba(255, 255, 255, 0.1));
+  background: color-mix(in srgb, var(--wiki-accent-color) 7%, transparent);
+}
+
+.social-contact__icon {
+  display: grid;
+  width: 2.35rem;
+  height: 2.35rem;
+  place-items: center;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  background: rgba(255, 255, 255, 0.025);
+}
+
+.social-contact__icon svg {
+  width: 1.2rem;
+  height: 1.2rem;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: 1.35;
+}
+
+.social-contact__text {
+  min-width: 0;
+}
+
+.social-contact__text strong,
+.social-contact__text small {
+  display: block;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.social-contact__text strong {
+  color: inherit;
+  font-size: 0.8rem;
+  letter-spacing: 0.06em;
+}
+
+.social-contact__text small {
+  margin-top: 0.2rem;
+  color: rgba(255, 255, 255, 0.42);
+  font-size: 0.68rem;
+}
+
+@media (max-width: 640px) {
+  .social-contact {
+    right: 1rem;
+    bottom: 5.55rem;
+  }
+}
+
 /* --- AI Chat Sidebar (Kamitsubaki HUD) --- */
 .ai-chat {
   --ai-bg: #030303;

@@ -95,7 +95,7 @@
       },
       {
         "label": "CONTACT",
-        "href": "#"
+        "href": "#social-contact"
       }
     ],
     "disclaimer": [
@@ -104,6 +104,78 @@
       "すべての公式権利は各権利者に帰属します。"
     ],
     "copyright": "© 2026 LinkTh1rsty All Rights Reserved"
+  },
+  "socialContact": {
+    "enabled": true,
+    "eyebrow": "SOCIAL LINK",
+    "title": "連絡・フォロー",
+    "buttonLabel": "ソーシャルリンクを開く",
+    "closeLabel": "ソーシャルリンクを閉じる",
+    "helper": "フォロー、フィードバック、資料追加を歓迎します。Bilibili、X、YouTube、Weibo、Discord、QQ などもここに追加できます。",
+    "maxVisible": 12,
+    "items": [
+      {
+        "label": "GitHub",
+        "href": "https://github.com/LinkTh1rsty/kamitsubaki-wiki-site",
+        "handle": "@LinkTh1rsty",
+        "icon": "github",
+        "featured": true
+      },
+      {
+        "label": "Feedback",
+        "href": "https://github.com/LinkTh1rsty/kamitsubaki-wiki-site/issues",
+        "handle": "Issues / Contact",
+        "icon": "link"
+      },
+      {
+        "label": "Contribute",
+        "href": "/ja/contribute/edit",
+        "handle": "Wiki を一緒に更新する",
+        "icon": "link"
+      },
+      {
+        "label": "Bilibili",
+        "href": "",
+        "handle": "Bilibili ページを設定",
+        "icon": "bilibili",
+        "enabled": false
+      },
+      {
+        "label": "X",
+        "href": "",
+        "handle": "X アカウントを設定",
+        "icon": "x",
+        "enabled": false
+      },
+      {
+        "label": "YouTube",
+        "href": "",
+        "handle": "YouTube チャンネルを設定",
+        "icon": "youtube",
+        "enabled": false
+      },
+      {
+        "label": "Weibo",
+        "href": "",
+        "handle": "Weibo ページを設定",
+        "icon": "weibo",
+        "enabled": false
+      },
+      {
+        "label": "Discord",
+        "href": "",
+        "handle": "招待リンクを設定",
+        "icon": "discord",
+        "enabled": false
+      },
+      {
+        "label": "QQ Group",
+        "href": "",
+        "handle": "グループリンクを設定",
+        "icon": "qq",
+        "enabled": false
+      }
+    ]
   },
   "aiChat": {
     "title": "AI 観測端末",

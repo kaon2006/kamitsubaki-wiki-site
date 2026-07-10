@@ -95,7 +95,7 @@
       },
       {
         "label": "CONTACT",
-        "href": "#"
+        "href": "#social-contact"
       }
     ],
     "disclaimer": [
@@ -104,6 +104,78 @@
       "所有官方权利归其各自所有者所有。"
     ],
     "copyright": "© 2026 LinkTh1rsty All Rights Reserved"
+  },
+  "socialContact": {
+    "enabled": true,
+    "eyebrow": "SOCIAL LINK",
+    "title": "联系与关注",
+    "buttonLabel": "打开社交平台联系入口",
+    "closeLabel": "关闭社交平台联系入口",
+    "helper": "欢迎关注、反馈、投稿补充资料。这里可以继续添加 B 站、X、YouTube、微博、Discord、QQ群等平台。",
+    "maxVisible": 12,
+    "items": [
+      {
+        "label": "GitHub",
+        "href": "https://github.com/LinkTh1rsty/kamitsubaki-wiki-site",
+        "handle": "@LinkTh1rsty",
+        "icon": "github",
+        "featured": true
+      },
+      {
+        "label": "反馈与联系",
+        "href": "https://github.com/LinkTh1rsty/kamitsubaki-wiki-site/issues",
+        "handle": "Issues / Contact",
+        "icon": "link"
+      },
+      {
+        "label": "贡献入口",
+        "href": "/zh/contribute/edit",
+        "handle": "一起完善百科",
+        "icon": "link"
+      },
+      {
+        "label": "Bilibili",
+        "href": "",
+        "handle": "填写你的 B 站主页",
+        "icon": "bilibili",
+        "enabled": false
+      },
+      {
+        "label": "X",
+        "href": "",
+        "handle": "填写你的 X 账号",
+        "icon": "x",
+        "enabled": false
+      },
+      {
+        "label": "YouTube",
+        "href": "",
+        "handle": "填写你的 YouTube 频道",
+        "icon": "youtube",
+        "enabled": false
+      },
+      {
+        "label": "微博",
+        "href": "",
+        "handle": "填写你的微博主页",
+        "icon": "weibo",
+        "enabled": false
+      },
+      {
+        "label": "Discord",
+        "href": "",
+        "handle": "填写邀请链接",
+        "icon": "discord",
+        "enabled": false
+      },
+      {
+        "label": "QQ群",
+        "href": "",
+        "handle": "填写群链接或公告页",
+        "icon": "qq",
+        "enabled": false
+      }
+    ]
   },
   "aiChat": {
     "title": "AI 观测端",

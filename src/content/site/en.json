@@ -95,7 +95,7 @@
       },
       {
         "label": "CONTACT",
-        "href": "#"
+        "href": "#social-contact"
       }
     ],
     "disclaimer": [
@@ -104,6 +104,78 @@
       "All official rights belong to their respective owners."
     ],
     "copyright": "© 2026 LinkTh1rsty All Rights Reserved"
+  },
+  "socialContact": {
+    "enabled": true,
+    "eyebrow": "SOCIAL LINK",
+    "title": "Contact & Follow",
+    "buttonLabel": "Open social contact links",
+    "closeLabel": "Close social contact links",
+    "helper": "Follow the project, send feedback, or help add sources. Bilibili, X, YouTube, Weibo, Discord, QQ, and more can be added here.",
+    "maxVisible": 12,
+    "items": [
+      {
+        "label": "GitHub",
+        "href": "https://github.com/LinkTh1rsty/kamitsubaki-wiki-site",
+        "handle": "@LinkTh1rsty",
+        "icon": "github",
+        "featured": true
+      },
+      {
+        "label": "Feedback",
+        "href": "https://github.com/LinkTh1rsty/kamitsubaki-wiki-site/issues",
+        "handle": "Issues / Contact",
+        "icon": "link"
+      },
+      {
+        "label": "Contribute",
+        "href": "/en/contribute/edit",
+        "handle": "Improve the wiki together",
+        "icon": "link"
+      },
+      {
+        "label": "Bilibili",
+        "href": "",
+        "handle": "Add your Bilibili page",
+        "icon": "bilibili",
+        "enabled": false
+      },
+      {
+        "label": "X",
+        "href": "",
+        "handle": "Add your X account",
+        "icon": "x",
+        "enabled": false
+      },
+      {
+        "label": "YouTube",
+        "href": "",
+        "handle": "Add your YouTube channel",
+        "icon": "youtube",
+        "enabled": false
+      },
+      {
+        "label": "Weibo",
+        "href": "",
+        "handle": "Add your Weibo page",
+        "icon": "weibo",
+        "enabled": false
+      },
+      {
+        "label": "Discord",
+        "href": "",
+        "handle": "Add an invite link",
+        "icon": "discord",
+        "enabled": false
+      },
+      {
+        "label": "QQ Group",
+        "href": "",
+        "handle": "Add a group link",
+        "icon": "qq",
+        "enabled": false
+      }
+    ]
   },
   "aiChat": {
     "title": "AI Observer",

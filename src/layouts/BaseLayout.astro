@@ -1,6 +1,7 @@
 ---
 import { getCollection } from 'astro:content';
 import AiChatWidget from '../components/AiChatWidget.astro';
+import SocialContactWidget from '../components/SocialContactWidget.astro';
 import '../styles/global.css';
 
 type PageMetadata = {
@@ -42,6 +43,7 @@ const siteEntries = await getCollection('site');
 const defaultSiteEntry = siteEntries.find((entry) => entry.data.locale === 'zh');
 const siteEntry = siteEntries.find((entry) => entry.data.locale === lang) ?? defaultSiteEntry;
 const aiChatCopy = siteEntry?.data.aiChat;
+const socialContactCopy = siteEntry?.data.socialContact;
 ---
 
 <!doctype html>
@@ -97,6 +99,7 @@ const aiChatCopy = siteEntry?.data.aiChat;
     <div class="cursor-dot hidden md:block" id="cursor"></div>
 
     <slot />
+    {socialContactCopy && <SocialContactWidget copy={socialContactCopy} />}
     {aiChatCopy && <AiChatWidget lang={lang} copy={aiChatCopy} />}
 
     <script>

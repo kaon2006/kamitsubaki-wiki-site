@@ -65,3 +65,15 @@ test('localized site config exposes language switcher labels and page chrome', a
   assert.equal(zh.sections.database.heading, '01. DATABASE');
   assert.equal(zh.footer.disclaimer.length > 0, true);
 });
+
+test('localized site config exposes configurable social contact links', async () => {
+  for (const locale of locales) {
+    const site = await readJson(`../src/content/site/${locale}.json`);
+    const contactLink = site.footer.links.find((link) => link.label === 'CONTACT');
+
+    assert.equal(contactLink.href, '#social-contact');
+    assert.equal(site.socialContact.enabled, true);
+    assert.equal(site.socialContact.items.some((item) => item.icon === 'github' && item.featured), true);
+    assert.equal(site.socialContact.items.some((item) => item.enabled === false && item.icon === 'bilibili'), true);
+  }
+});
