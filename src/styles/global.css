@@ -127,17 +127,30 @@ input[type="reset"] {
 }
 
 .reveal-up {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+html.has-js .reveal-up {
   opacity: 0;
-  transform: translateY(40px);
+  transform: translate3d(0, 1.65rem, 0);
   transition:
-    opacity 0.85s cubic-bezier(0.16, 1, 0.3, 1),
-    transform 0.85s cubic-bezier(0.16, 1, 0.3, 1);
+    opacity 0.72s cubic-bezier(0.16, 1, 0.3, 1),
+    transform 0.72s cubic-bezier(0.16, 1, 0.3, 1);
   will-change: opacity, transform;
 }
 
-.reveal-up.active {
+html.has-js .reveal-up.active {
   opacity: 1;
-  transform: translateY(0);
+  transform: translate3d(0, 0, 0);
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .hero-center {
+    transform: translate3d(0, var(--hero-parallax-y, 0), 0);
+    transition: transform 120ms linear;
+    will-change: transform;
+  }
 }
 
 .marquee-container {
@@ -300,6 +313,30 @@ input[type="reset"] {
 
 .site-nav__menu {
   position: relative;
+}
+
+.site-nav__link {
+  position: relative;
+}
+
+.site-nav__link::after {
+  position: absolute;
+  right: 0;
+  bottom: -0.45rem;
+  left: 0;
+  height: 1px;
+  background: currentColor;
+  content: '';
+  opacity: 0.56;
+  transform: scaleX(0);
+  transform-origin: right center;
+  transition: transform 260ms cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.site-nav__link:hover::after,
+.site-nav__link:focus-visible::after {
+  transform: scaleX(1);
+  transform-origin: left center;
 }
 
 .site-nav__menu summary {
@@ -699,6 +736,11 @@ input[type="reset"] {
     linear-gradient(180deg, rgba(255, 255, 255, 0.03), rgba(255, 255, 255, 0.01)),
     rgba(9, 10, 11, 0.54);
   box-shadow: 0 14px 42px rgba(0, 0, 0, 0.14);
+  transition:
+    border-color 280ms ease,
+    box-shadow 280ms ease,
+    transform 280ms cubic-bezier(0.16, 1, 0.3, 1);
+  will-change: transform;
 }
 
 .wiki-card::before {
@@ -714,6 +756,19 @@ input[type="reset"] {
   background:
     linear-gradient(135deg, rgba(255, 255, 255, 0.04), transparent 48%),
     rgba(255, 255, 255, 0.012);
+  transform: translate3d(-1.2%, 0, 0);
+  transition: opacity 320ms ease, transform 520ms cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+@media (hover: hover) and (pointer: fine) {
+  .wiki-card:hover {
+    transform: translate3d(0, -0.22rem, 0);
+    box-shadow: 0 22px 54px rgba(0, 0, 0, 0.26);
+  }
+
+  .wiki-card:hover .wiki-card__wash {
+    transform: translate3d(0, 0, 0);
+  }
 }
 
 .wiki-toc .toc-list a[data-active="true"] {
@@ -835,7 +890,8 @@ input[type="reset"] {
     border-color 220ms ease,
     background-color 220ms ease,
     color 220ms ease,
-    box-shadow 220ms ease;
+    box-shadow 220ms ease,
+    transform 220ms cubic-bezier(0.16, 1, 0.3, 1);
 }
 
 .social-contact__toggle:hover,
@@ -845,6 +901,11 @@ input[type="reset"] {
   background: #000;
   color: rgba(255, 255, 255, 0.9);
   box-shadow: 0 0 18px rgba(137, 245, 223, 0.08);
+}
+
+.social-contact__toggle:hover,
+.social-contact__toggle:focus-visible {
+  transform: translate3d(0, -2px, 0);
 }
 
 .social-contact__toggle > span {
@@ -878,6 +939,17 @@ input[type="reset"] {
   backdrop-filter: blur(20px) saturate(130%);
   color: rgba(255, 255, 255, 0.78);
   pointer-events: auto;
+  opacity: 0;
+  transform: translate3d(0, 0.75rem, 0) scale(0.985);
+  transform-origin: right bottom;
+  transition:
+    opacity 220ms ease,
+    transform 260ms cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.social-contact.is-open .social-contact__panel {
+  opacity: 1;
+  transform: translate3d(0, 0, 0) scale(1);
 }
 
 .social-contact__head {
@@ -964,7 +1036,8 @@ input[type="reset"] {
   transition:
     border-color 180ms ease,
     background-color 180ms ease,
-    color 180ms ease;
+    color 180ms ease,
+    transform 180ms ease;
 }
 
 .social-contact__link:hover,
@@ -972,6 +1045,7 @@ input[type="reset"] {
   border-color: color-mix(in srgb, var(--wiki-accent-color) 32%, rgba(255, 255, 255, 0.12));
   background: rgba(255, 255, 255, 0.04);
   color: rgba(255, 255, 255, 0.92);
+  transform: translate3d(0.22rem, 0, 0);
 }
 
 .social-contact__link.is-featured {

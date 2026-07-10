@@ -10,10 +10,25 @@ document.addEventListener('DOMContentLoaded', () => {
       return;
     }
 
+    const prefersReducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    let closeTimer;
+
     const setOpen = (nextOpen) => {
-      widget.classList.toggle('is-open', nextOpen);
-      panel.hidden = !nextOpen;
+      window.clearTimeout(closeTimer);
+
+      if (nextOpen) {
+        panel.hidden = false;
+        widget.classList.remove('is-open');
+        window.requestAnimationFrame(() => widget.classList.add('is-open'));
+      } else {
+        widget.classList.remove('is-open');
+        closeTimer = window.setTimeout(() => {
+          panel.hidden = true;
+        }, prefersReducedMotion ? 0 : 240);
+      }
+
       toggle.setAttribute('aria-expanded', String(nextOpen));
+      panel.setAttribute('aria-hidden', String(!nextOpen));
     };
 
     toggle.addEventListener('click', () => {
