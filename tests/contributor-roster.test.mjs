@@ -188,3 +188,55 @@ test('contributor workflow fails loudly when sync configuration is missing', asy
   assert.match(workflow, /GITHUB_TOKEN:\s*\$\{\{ secrets\.GITHUB_TOKEN \}\}/);
   assert.match(workflow, /GITHUB_REPOSITORY:\s*\$\{\{ github\.repository \}\}/);
 });
+
+test('GitHub identity resolver enriches contributors, caches commits, and falls back safely', async () => {
+  const { createGithubIdentityResolver } = await import('../scripts/github-contributor-identity.mjs');
+  const calls = [];
+  const resolver = createGithubIdentityResolver({
+    token: 'token',
+    repository: 'owner/repo',
+    fetchImpl: async (url, options) => {
+      calls.push({ url, options });
+      return {
+        ok: true,
+        json: async () => ({ author: { login: 'Aqaz', avatar_url: 'https://avatars.example/aqaz', html_url: 'https://github.com/Aqaz' } }),
+      };
+    },
+  });
+  const fallback = contributorFromFixture('Aqaz');
+
+  const first = await resolver('abc123', fallback);
+  const second = await resolver('abc123', fallback);
+
+  assert.equal(calls.length, 1);
+  assert.match(calls[0].url, /repos\/owner\/repo\/commits\/abc123/);
+  assert.match(calls[0].options.headers.Authorization, /^Bearer /);
+  assert.equal(first.contributor.id, 'github:aqaz');
+  assert.equal(first.contributor.githubLogin, 'Aqaz');
+  assert.equal(first.contributor.profileUrl, 'https://github.com/Aqaz');
+  assert.deepEqual(second, first);
+  assert.doesNotMatch(JSON.stringify(first), /@|email/i);
+
+  const failingResolver = createGithubIdentityResolver({
+    token: 'token',
+    repository: 'owner/repo',
+    fetchImpl: async () => ({ ok: false }),
+  });
+  assert.deepEqual(await failingResolver('missing', fallback), fallback);
+});
+
+test('contributor sync submits an enriched replacement snapshot', async () => {
+  const script = await readProjectFile('../scripts/sync-contributors.mjs');
+  assert.match(script, /createGithubIdentityResolver/);
+  assert.match(script, /replaceSource:\s*true/);
+  assert.match(script, /GITHUB_TOKEN/);
+  assert.match(script, /GITHUB_REPOSITORY/);
+  assert.match(script, /identityEnriched/);
+});
+
+function contributorFromFixture(displayName) {
+  return {
+    contributor: { id: 'git:private', displayName, isBot: false },
+    identity: { provider: 'git_email', providerKey: 'hashed', emailHash: 'hashed' },
+  };
+}

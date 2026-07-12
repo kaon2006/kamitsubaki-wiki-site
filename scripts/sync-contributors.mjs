@@ -1,8 +1,11 @@
 import { execFileSync } from 'node:child_process';
 import { collectContributionEvents } from './contributor-history.mjs';
+import { createGithubIdentityResolver } from './github-contributor-identity.mjs';
 
 const apiBase = process.env.CONTRIBUTORS_API_BASE || process.env.PUBLIC_AI_OBSERVER_API_BASE;
 const syncToken = process.env.CONTRIBUTOR_SYNC_TOKEN;
+const githubToken = process.env.GITHUB_TOKEN || '';
+const githubRepository = process.env.GITHUB_REPOSITORY || '';
 const commitBaseUrl = process.env.CONTRIBUTORS_COMMIT_BASE_URL || 'https://github.com/linkth1rsty/kamitsubaki-wiki-site/commit';
 const contentRoots = [
   'src/content/artists',
@@ -34,7 +37,18 @@ async function main() {
     throw new Error('Set CONTRIBUTOR_SYNC_TOKEN before syncing contributors.');
   }
 
-  const events = collectEvents();
+  const collectedEvents = collectEvents();
+  const resolveGithubIdentity = createGithubIdentityResolver({
+    token: githubToken,
+    repository: githubRepository,
+  });
+  let identityEnriched = 0;
+  const events = await Promise.all(collectedEvents.map(async (event) => {
+    const fallback = { contributor: event.contributor, identity: event.identity };
+    const resolved = await resolveGithubIdentity(event.commitSha, fallback);
+    if (resolved.contributor.id !== fallback.contributor.id) identityEnriched += 1;
+    return { ...event, ...resolved };
+  }));
   const response = await fetch(new URL('/api/admin/contributors/sync', apiBase), {
     method: 'POST',
     headers: {
@@ -43,6 +57,7 @@ async function main() {
     },
     body: JSON.stringify({
       source: 'git-history',
+      replaceSource: true,
       events,
     }),
   });
@@ -52,7 +67,7 @@ async function main() {
     throw new Error(`Contributor sync failed with ${response.status}: ${JSON.stringify(body)}`);
   }
 
-  console.log(`Synced ${body.accepted ?? events.length} contribution events from ${body.contributors ?? 0} contributors.`);
+  console.log(`Synced ${body.accepted ?? events.length} contribution events from ${body.contributors ?? 0} contributors; ${identityEnriched} events enriched by GitHub.`);
 }
 
 main().catch((error) => {
