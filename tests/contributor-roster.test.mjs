@@ -181,6 +181,7 @@ test('contributor workflow fails loudly when sync configuration is missing', asy
   const workflow = await readProjectFile('../.github/workflows/sync-contributors.yml');
 
   assert.match(workflow, /workflow_dispatch:/);
+  assert.match(workflow, /schedule:[\s\S]*cron:\s*['"]17 3 \* \* \*['"]/);
   assert.match(workflow, /permissions:[\s\S]*contents:\s*read/);
   assert.match(workflow, /::error::CONTRIBUTOR_SYNC_TOKEN/);
   assert.match(workflow, /exit 1/);
