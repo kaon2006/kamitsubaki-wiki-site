@@ -234,6 +234,29 @@ test('contributor sync submits an enriched replacement snapshot', async () => {
   assert.match(script, /identityEnriched/);
 });
 
+test('GitHub identity resolver falls back to the associated pull request author', async () => {
+  const { createGithubIdentityResolver } = await import('../scripts/github-contributor-identity.mjs');
+  const urls = [];
+  const resolver = createGithubIdentityResolver({
+    token: 'token',
+    repository: 'owner/repo',
+    fetchImpl: async (url) => {
+      urls.push(url);
+      if (url.endsWith('/commits/merge123')) return { ok: true, json: async () => ({ author: null }) };
+      return {
+        ok: true,
+        json: async () => ([{ user: { login: 'MoriSakiTsu', avatar_url: 'https://avatars.example/mori', html_url: 'https://github.com/MoriSakiTsu' } }]),
+      };
+    },
+  });
+
+  const resolved = await resolver('merge123', contributorFromFixture('Aqaz'));
+  assert.equal(resolved.contributor.id, 'github:morisakitsu');
+  assert.equal(resolved.contributor.displayName, 'Aqaz');
+  assert.equal(urls.length, 2);
+  assert.match(urls[1], /commits\/merge123\/pulls/);
+});
+
 function contributorFromFixture(displayName) {
   return {
     contributor: { id: 'git:private', displayName, isBot: false },
