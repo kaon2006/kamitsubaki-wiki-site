@@ -8,7 +8,8 @@ itemOrder: 1
 meta: "ORIGIN: KAF"
 debutDate: "2021-07-07"
 profileTagline: "A CeVIO AI musical isotope built from KAF's vocal data, designed as a creative partner that expands the possibilities of vocal synthesis for creators."
-designCredits: []
+designCredits:
+  - "Character Design: PALOW."
 affiliations:
   - "KAMITSUBAKI STUDIO"
   - "Musical Isotope Project"
@@ -25,6 +26,15 @@ featuredEntries:
     kind: "artist"
   - label: "SEKAI"
     href: "/en/artists/isotopes/sekai"
+    kind: "artist"
+  - label: "RIME"
+    href: "/en/artists/isotopes/rime"
+    kind: "artist"
+  - label: "COKO"
+    href: "/en/artists/isotopes/coko"
+    kind: "artist"
+  - label: "HARU"
+    href: "/en/artists/isotopes/haru"
     kind: "artist"
 theme:
   name: "KAFU Bloom"

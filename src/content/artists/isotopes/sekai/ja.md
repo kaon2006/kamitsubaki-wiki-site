@@ -8,7 +8,8 @@ itemOrder: 2
 meta: "ORIGIN: ISEKAIJOUCHO"
 debutDate: "2022-04-29"
 profileTagline: "ヰ世界情緒の歌声データをベースに生成された CeVIO AI 音楽的同位体。原歌声の透明感と物物語性を継承。"
-designCredits: []
+designCredits:
+  - "キャラクターデザイン：れおえん"
 affiliations:
   - "KAMITSUBAKI STUDIO"
   - "音楽的同位体プロジェクト"
@@ -25,6 +26,15 @@ featuredEntries:
     kind: "artist"
   - label: "可不 / KAFU"
     href: "/ja/artists/isotopes/kafu"
+    kind: "artist"
+  - label: "裏命 / RIME"
+    href: "/ja/artists/isotopes/rime"
+    kind: "artist"
+  - label: "狐子 / COKO"
+    href: "/ja/artists/isotopes/coko"
+    kind: "artist"
+  - label: "羽累 / HARU"
+    href: "/ja/artists/isotopes/haru"
     kind: "artist"
 theme:
   name: "SEKAI Ethereal"

@@ -8,7 +8,8 @@ itemOrder: 2
 meta: "ORIGIN: ISEKAIJOUCHO"
 debutDate: "2022-04-29"
 profileTagline: "A CeVIO AI musical isotope built from ISEKAIJOUCHO's vocal data, inheriting the transparency and narrative quality of the original voice."
-designCredits: []
+designCredits:
+  - "Character Design: Leoen"
 affiliations:
   - "KAMITSUBAKI STUDIO"
   - "Musical Isotope Project"
@@ -25,6 +26,15 @@ featuredEntries:
     kind: "artist"
   - label: "KAFU"
     href: "/en/artists/isotopes/kafu"
+    kind: "artist"
+  - label: "RIME"
+    href: "/en/artists/isotopes/rime"
+    kind: "artist"
+  - label: "COKO"
+    href: "/en/artists/isotopes/coko"
+    kind: "artist"
+  - label: "HARU"
+    href: "/en/artists/isotopes/haru"
     kind: "artist"
 theme:
   name: "SEKAI Ethereal"

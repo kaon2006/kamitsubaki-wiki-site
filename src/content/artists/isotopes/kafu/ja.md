@@ -8,7 +8,8 @@ itemOrder: 1
 meta: "ORIGIN: KAF"
 debutDate: "2021-07-07"
 profileTagline: "花譜の歌声データをベースに生成された CeVIO AI 音楽的同位体。クリエイターの「創作パートナー」として歌声合成の可能性を広げる。"
-designCredits: []
+designCredits:
+  - "キャラクターデザイン：PALOW."
 affiliations:
   - "KAMITSUBAKI STUDIO"
   - "音楽的同位体プロジェクト"
@@ -25,6 +26,15 @@ featuredEntries:
     kind: "artist"
   - label: "星界 / SEKAI"
     href: "/ja/artists/isotopes/sekai"
+    kind: "artist"
+  - label: "裏命 / RIME"
+    href: "/ja/artists/isotopes/rime"
+    kind: "artist"
+  - label: "狐子 / COKO"
+    href: "/ja/artists/isotopes/coko"
+    kind: "artist"
+  - label: "羽累 / HARU"
+    href: "/ja/artists/isotopes/haru"
     kind: "artist"
 theme:
   name: "KAFU Bloom"
