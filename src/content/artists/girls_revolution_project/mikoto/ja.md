@@ -1,0 +1,14 @@
+---
+locale: ja
+translationKey: mikoto
+code: G4
+romanizedName: MIKOTO
+categoryOrder: 4
+itemOrder: 4
+statusLabel: STATUS
+status: ACTIVE
+image: https://placehold.co/1200x800/111/333?text=MIKOTO
+name: 美古途
+categoryTitle: 少女革命计划
+categorySubtitle: GIRLS REVOLUTION PROJECT
+---
