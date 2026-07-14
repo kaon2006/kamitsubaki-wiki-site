@@ -88,16 +88,21 @@ document.addEventListener('DOMContentLoaded', () => {
     cursor.style.display = 'none';
   }
 
-  const artistRows = document.querySelectorAll('.artist-row');
   const bgContainer = document.getElementById('artist-bg-container');
   const bgImg = document.getElementById('artist-bg-img');
+  const artistList = document.getElementById('artist-list');
 
-  artistRows.forEach((row) => {
-    row.addEventListener('mouseenter', () => {
-      if (!(bgContainer instanceof HTMLElement) || !(bgImg instanceof HTMLImageElement)) {
-        return;
-      }
+  // Track which row the mouse is currently inside to prevent redundant triggers
+  let currentHoverRow = null;
 
+  if (artistList && bgContainer instanceof HTMLElement && bgImg instanceof HTMLImageElement) {
+    // Use mouseover/mouseout on the artist-list container for event delegation
+    // This ensures all .artist-row elements (including those revealed by the expand button) work
+    artistList.addEventListener('mouseover', (event) => {
+      const row = event.target instanceof Element ? event.target.closest('.artist-row') : null;
+      if (!row || row === currentHoverRow) return;
+
+      currentHoverRow = row;
       bgImg.src = row.getAttribute('data-img') ?? '';
       bgContainer.style.opacity = '1';
       setTimeout(() => {
@@ -105,15 +110,27 @@ document.addEventListener('DOMContentLoaded', () => {
       }, 50);
     });
 
-    row.addEventListener('mouseleave', () => {
-      if (!(bgContainer instanceof HTMLElement) || !(bgImg instanceof HTMLImageElement)) {
-        return;
-      }
-
+    artistList.addEventListener('mouseleave', () => {
+      currentHoverRow = null;
       bgContainer.style.opacity = '0';
       bgImg.style.transform = 'scale(0.95)';
     });
-  });
+
+    // Also reset when the mouse moves out of an artist-row but stays within the list
+    artistList.addEventListener('mouseout', (event) => {
+      if (!currentHoverRow) return;
+      const related = event.relatedTarget;
+      // If the mouse moved to an element that is NOT inside any .artist-row, hide the bg
+      if (related instanceof Element) {
+        const nextRow = related.closest('.artist-row');
+        if (!nextRow) {
+          currentHoverRow = null;
+          bgContainer.style.opacity = '0';
+          bgImg.style.transform = 'scale(0.95)';
+        }
+      }
+    });
+  }
 
   const heroParallaxElements = document.querySelectorAll('[data-hero-parallax]');
 
@@ -160,7 +177,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
   // Preload artist hover images in the background on idle to prevent latency/flash
   const preloadArtistImages = () => {
-    artistRows.forEach((row) => {
+    const rowsToPreload = document.querySelectorAll('.artist-row');
+    rowsToPreload.forEach((row) => {
       const imgUrl = row.getAttribute('data-img');
       if (imgUrl) {
         const img = new Image();
@@ -176,7 +194,6 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 
   // ── Artist category expand/collapse ──
-  const artistList = document.getElementById('artist-list');
   if (artistList instanceof HTMLElement) {
     artistList.addEventListener('click', (event) => {
       const button = event.target instanceof Element && event.target.closest('.artist-expand-btn');
