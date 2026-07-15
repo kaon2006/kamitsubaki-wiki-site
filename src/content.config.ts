@@ -266,6 +266,17 @@ const songs = defineCollection({
   }),
 });
 
+const syntaxGuide = defineCollection({
+  loader: glob({ pattern: '{zh,ja,en}.md', base: './src/content/contribute/syntax-guide' }),
+  schema: z.object({
+    locale,
+    translationKey: z.string(),
+    title: z.string(),
+    description: z.string().optional(),
+    seo,
+  }),
+});
+
 const editGuide = defineCollection({
   loader: glob({ pattern: '{zh,ja,en}.md', base: './src/content/contribute/edit-guide' }),
   schema: z.object({
@@ -350,4 +361,5 @@ export const collections = {
   logs,
   editGuide,
   songs,
+  syntaxGuide,
 };

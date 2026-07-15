@@ -1,0 +1,29 @@
+---
+import { getCollection, render } from 'astro:content';
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import SiteNav from '../../../components/SiteNav.astro';
+import { getLocalizedSite } from '../../../lib/homeData.mjs';
+import { buildLocaleLinks, defaultLocale, supportedLocales } from '../../../lib/i18n.mjs';
+
+export async function getStaticPaths() {
+  return supportedLocales.map((locale) => ({ params: { locale } }));
+}
+
+const { locale } = Astro.params;
+const localeCode = locale as 'zh' | 'ja' | 'en';
+
+const siteEntries = await getCollection('site');
+const guideEntries = await getCollection('syntaxGuide');
+
+const homeContent = getLocalizedSite(siteEntries, localeCode, defaultLocale);
+const entry = guideEntries.find(e => e.data.locale === localeCode);
+const { Content } = await render(entry!);
+
+const localeLinks = buildLocaleLinks(homeContent, localeCode, '/contribute/syntax-guide');
+---
+<BaseLayout title={entry?.data.title} lang={localeCode}>
+  <SiteNav navItems={homeContent.navItems} localeLinks={localeLinks} homeHref={`/${localeCode}/`} />
+  <main class="mx-auto max-w-4xl px-5 py-24 prose prose-invert">
+    <Content />
+  </main>
+</BaseLayout>
