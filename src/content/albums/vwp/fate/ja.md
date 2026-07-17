@@ -14,6 +14,7 @@ categoryTitle: アルバム
 categorySubtitle: Albums
 categoryOrder: 1
 itemOrder: 1
+code: KTR-0105
 image: https://placehold.co/1200x800/0a0a12/a0a0b0?text=FATE
 officialLinks:
   - label: KAMITSUBAKI STUDIO 公式紹介ページ
