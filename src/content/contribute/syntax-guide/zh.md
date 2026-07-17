@@ -129,8 +129,8 @@ ruby字语法如下：<br>
 
 ```html
 <details>
-  <summary>Write the title that is normally visible here. Click it to expand.</summary>
-  Write the content that is normally hidden here. It will appear after expansion.
+  <summary>在这里输入不需要隐藏的内容（点击这行文字展开）</summary>
+  在此输入需要被隐藏的内容，再次点击标题即可收起。
 </details>
 ```
 <br>
@@ -238,4 +238,4 @@ ruby字语法如下：<br>
 |`itemOrder`|数字|否|歌曲在分类内的排序值|
 |`image`|字符串|否|歌曲封面、单曲封面或专辑图片路径|
 |`seo`|公共 SEO 对象|否|搜索和分享信息|
-- 关于具体的填写示例，可在本站GitHub仓库寻找已填写完毕的词条内容进行查看。
+- ***关于具体的填写示例，可在本站GitHub仓库寻找已填写完毕的词条内容进行查看。***
