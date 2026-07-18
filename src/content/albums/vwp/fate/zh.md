@@ -15,7 +15,7 @@ categorySubtitle: Albums
 categoryOrder: 1
 itemOrder: 1
 code: KTR-0105
-image: https://placehold.co/1200x800/0a0a12/a0a0b0?text=FATE
+image: /images/fate-vwp-1400x1400.jpg
 officialLinks:
   - label: 神椿工作室 官方介绍页
     href: https://kamitsubaki.jp/discography/v-w-p/3082/
