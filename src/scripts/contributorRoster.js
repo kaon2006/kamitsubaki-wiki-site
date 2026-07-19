@@ -36,8 +36,23 @@ function renderAvatar(contributor) {
     : `<span>${escapeHtml(initials(name))}</span>`;
 }
 
-function renderContributor(contributor, copy, mode) {
+function sameLogin(contributor, login) {
+  const candidate = contributor.githubLogin || String(contributor.id || '').replace(/^github:/, '');
+  return candidate && login && candidate.toLowerCase() === login.toLowerCase();
+}
+
+function renderBreakdown(contributor, copy) {
+  return `
+    <span class="contributor-roster__breakdown">
+      <span>${escapeHtml(copy.contentContributions)} <strong>${Number(contributor.contentContributionCount || 0)}</strong></span>
+      <span>${escapeHtml(copy.functionalContributions)} <strong>${Number(contributor.functionalContributionCount || 0)}</strong></span>
+    </span>
+  `;
+}
+
+function renderContributor(contributor, copy, mode, ownerLogin = '') {
   const name = contributor.displayName || contributor.githubLogin || 'Contributor';
+  const isOwner = mode === 'summary' && sameLogin(contributor, ownerLogin);
   const rank = mode === 'summary'
     ? `<span class="contributor-roster__rank"><small>${escapeHtml(copy.rankLabel)}</small>#${String(contributor.rank || 0).padStart(2, '0')}</span>`
     : '';
@@ -45,8 +60,9 @@ function renderContributor(contributor, copy, mode) {
     ${rank}
     <span class="contributor-roster__avatar">${renderAvatar(contributor)}</span>
     <span class="contributor-roster__identity">
-      <strong>${escapeHtml(name)}</strong>
+      <strong>${escapeHtml(name)}${isOwner ? ` <span class="contributor-roster__owner-inline">${escapeHtml(copy.ownerBadge)}</span>` : ''}</strong>
       <small>${Number(contributor.contributionCount || 0)} ${escapeHtml(copy.contributions)}${contributor.entryCount ? ` · ${Number(contributor.entryCount)} ${escapeHtml(copy.entries)}` : ''}</small>
+      ${mode === 'summary' ? renderBreakdown(contributor, copy) : ''}
     </span>
     ${contributor.profileUrl ? '<span class="contributor-roster__profile-arrow" aria-hidden="true">↗</span>' : ''}
   `;
@@ -57,6 +73,27 @@ function renderContributor(contributor, copy, mode) {
   return `<${tag} class="contributor-roster__person"${link}>${body}</${tag}>`;
 }
 
+function renderOwner(owner, copy) {
+  const name = owner.displayName || owner.githubLogin || 'Site owner';
+  const profile = owner.profileUrl || (owner.githubLogin ? `https://github.com/${owner.githubLogin}` : '');
+  const body = `
+    <div class="contributor-roster__owner-avatar">${renderAvatar(owner)}</div>
+    <div class="contributor-roster__owner-copy">
+      <span>${escapeHtml(copy.ownerKicker)}</span>
+      <h3>${escapeHtml(copy.ownerTitle)}</h3>
+      <strong>${escapeHtml(name)} <small>${escapeHtml(copy.ownerBadge)}</small></strong>
+      <p>${escapeHtml(copy.ownerRole)}</p>
+    </div>
+    <div class="contributor-roster__owner-metrics">
+      <span><strong>${Number(owner.contributionCount || 0)}</strong>${escapeHtml(copy.contributions)}</span>
+      <span><strong>${Number(owner.functionalContributionCount || 0)}</strong>${escapeHtml(copy.functionalContributions)}</span>
+    </div>
+  `;
+  return profile
+    ? `<a class="contributor-roster__owner" href="${escapeHtml(profile)}" target="_blank" rel="noopener noreferrer">${body}<span class="contributor-roster__owner-arrow" aria-hidden="true">↗</span></a>`
+    : `<div class="contributor-roster__owner">${body}</div>`;
+}
+
 function renderLocales(event, copy) {
   return (event.locales || [])
     .map((locale) => `<span class="contributor-roster__locale">${escapeHtml(copy.localeLabels?.[locale] || locale.toUpperCase())}</span>`)
@@ -64,8 +101,11 @@ function renderLocales(event, copy) {
 }
 
 function renderActivity(event, copy, locale) {
-  const entryNames = (event.entryIds || []).map(readableEntry).filter(Boolean);
+  const entryNames = (event.entryIds || [])
+    .map((entryId) => copy.areaLabels?.[entryId] || readableEntry(entryId))
+    .filter(Boolean);
   const entryLabel = entryNames.join(' · ') || readableEntry(event.entryId || event.path) || copy.unknownSummary;
+  const collectionLabel = copy.collectionLabels?.[event.collection] || '';
   const name = event.contributor?.displayName || event.contributor?.githubLogin || 'Contributor';
   const commit = event.commitUrl
     ? `<a href="${escapeHtml(event.commitUrl)}" target="_blank" rel="noopener noreferrer">${escapeHtml(copy.commit)} ↗</a>`
@@ -74,7 +114,7 @@ function renderActivity(event, copy, locale) {
   return `
     <li class="contributor-roster__activity">
       <div class="contributor-roster__activity-main">
-        <strong>${escapeHtml(entryLabel)}</strong>
+        <strong>${collectionLabel ? `<span class="contributor-roster__type">${escapeHtml(collectionLabel)}</span>` : ''}${escapeHtml(entryLabel)}</strong>
         <div class="contributor-roster__locales">${renderLocales(event, copy)}</div>
       </div>
       <div class="contributor-roster__activity-meta">
@@ -101,21 +141,28 @@ function renderEmpty(root, copy) {
 
 function renderRoster(root, source, copy) {
   const mode = root.dataset.mode || 'summary';
-  const data = normalizeContributorData(source, { mode, recentLimit: mode === 'entry' ? 3 : 8 });
+  const data = normalizeContributorData(source, { mode, recentLimit: mode === 'entry' ? 3 : 10 });
   const { totals, topContributors, recent } = data;
   const locale = root.dataset.locale || 'zh';
+  const ownerLogin = root.dataset.ownerLogin || '';
   if (!topContributors.length && !recent.length) return renderEmpty(root, copy);
+  const owner = topContributors.find((contributor) => sameLogin(contributor, ownerLogin)) || {
+    displayName: ownerLogin,
+    githubLogin: ownerLogin,
+    profileUrl: ownerLogin ? `https://github.com/${ownerLogin}` : '',
+  };
 
   return `
     <div class="contributor-roster__stats" aria-label="${escapeHtml(copy.title)}">
       <div><strong>${Number(totals.contributors || 0)}</strong><span>${escapeHtml(copy.contributors)}</span></div>
       <div><strong>${Number(totals.contributions || 0)}</strong><span>${escapeHtml(copy.contributions)}</span></div>
-      ${mode === 'summary' ? `<div><strong>${Number(totals.entries || 0)}</strong><span>${escapeHtml(copy.entries)}</span></div>` : ''}
+      ${mode === 'summary' ? `<div><strong>${Number(totals.contentContributions || 0)}</strong><span>${escapeHtml(copy.contentContributions)}</span></div><div><strong>${Number(totals.functionalContributions || 0)}</strong><span>${escapeHtml(copy.functionalContributions)}</span></div>` : ''}
     </div>
+    ${mode === 'summary' ? renderOwner(owner, copy) : ''}
     <div class="contributor-roster__grid">
       <section class="contributor-roster__section contributor-roster__section--people">
         <div class="contributor-roster__section-heading"><h3>${escapeHtml(copy.topTitle)}</h3><span>${String(topContributors.length).padStart(2, '0')}</span></div>
-        <div class="contributor-roster__people">${topContributors.map((item) => renderContributor(item, copy, mode)).join('')}</div>
+        <div class="contributor-roster__people">${topContributors.map((item) => renderContributor(item, copy, mode, ownerLogin)).join('')}</div>
       </section>
       <section class="contributor-roster__section contributor-roster__section--activity">
         <div class="contributor-roster__section-heading"><h3>${escapeHtml(copy.recentTitle)}</h3><span>LIVE</span></div>
@@ -155,6 +202,9 @@ async function loadRoster(root) {
   if (mode === 'entry') {
     url.searchParams.set('collection', root.dataset.collection || '');
     url.searchParams.set('entryId', root.dataset.entryId || '');
+  } else {
+    url.searchParams.set('topLimit', '24');
+    url.searchParams.set('recentLimit', '24');
   }
 
   try {

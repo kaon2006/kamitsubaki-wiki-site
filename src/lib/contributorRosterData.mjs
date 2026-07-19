@@ -63,7 +63,15 @@ function normalizeContributors(contributors, recent) {
       ? uniqueRecentCommits.get(key) || reported
       : reported;
 
-    return { ...contributor, contributionCount, rank: index + 1 };
+    return {
+      ...contributor,
+      contributionCount,
+      contentContributionCount: Number(contributor.contentContributionCount || 0),
+      functionalContributionCount: Number(contributor.functionalContributionCount || 0),
+      entryCount: Number(contributor.entryCount || 0),
+      functionalAreaCount: Number(contributor.functionalAreaCount || 0),
+      rank: index + 1,
+    };
   });
 }
 
@@ -89,6 +97,9 @@ export function normalizeContributorData(data = {}, { mode = 'summary', recentLi
       contributors: Number(data.totals?.contributors || topContributors.length),
       contributions,
       entries: Number(data.totals?.entries || entryIds.length),
+      contentContributions: Number(data.totals?.contentContributions || 0),
+      functionalContributions: Number(data.totals?.functionalContributions || 0),
+      functionalAreas: Number(data.totals?.functionalAreas || 0),
     },
     topContributors,
     recent: normalizedRecent.slice(0, Math.max(0, limit)),

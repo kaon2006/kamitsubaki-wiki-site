@@ -7,28 +7,37 @@ const syncToken = process.env.CONTRIBUTOR_SYNC_TOKEN;
 const githubToken = process.env.GITHUB_TOKEN || '';
 const githubRepository = process.env.GITHUB_REPOSITORY || '';
 const commitBaseUrl = process.env.CONTRIBUTORS_COMMIT_BASE_URL || 'https://github.com/linkth1rsty/kamitsubaki-wiki-site/commit';
-const contentRoots = [
-  'src/content/artists',
-  'src/content/albums',
-  'src/content/songs',
-  'src/content/projects',
-  'src/content/logs',
-  'src/content/contribute',
-  'src/content/site',
-];
-function runGit(args) {
-  return execFileSync('git', args, { encoding: 'utf8' });
+const backendRepositoryPath = process.env.CONTRIBUTORS_BACKEND_REPO_PATH || '';
+const backendGithubRepository = process.env.CONTRIBUTORS_BACKEND_GITHUB_REPOSITORY || '';
+const backendCommitBaseUrl = process.env.CONTRIBUTORS_BACKEND_COMMIT_BASE_URL || '';
+
+function runGit(args, cwd = '.') {
+  return execFileSync('git', args, { cwd, encoding: 'utf8' });
 }
 
-function collectEvents() {
+function collectRepositoryEvents({ cwd = '.', repository = 'site', githubRepositoryName = '', baseUrl = commitBaseUrl }) {
   const output = runGit([
     'log',
     '--name-only',
     '--format=%x1e%H%x1f%an%x1f%ae%x1f%aI%x1f%s',
     '--',
-    ...contentRoots,
-  ]);
-  return collectContributionEvents(output, commitBaseUrl);
+    '.',
+  ], cwd);
+  return collectContributionEvents(output, baseUrl, { repository })
+    .map((event) => ({ ...event, githubRepository: githubRepositoryName }));
+}
+
+function collectEvents() {
+  const events = collectRepositoryEvents({ githubRepositoryName: githubRepository });
+  if (backendRepositoryPath && backendGithubRepository && backendCommitBaseUrl) {
+    events.push(...collectRepositoryEvents({
+      cwd: backendRepositoryPath,
+      repository: 'backend',
+      githubRepositoryName: backendGithubRepository,
+      baseUrl: backendCommitBaseUrl,
+    }));
+  }
+  return events;
 }
 
 async function main() {
@@ -40,16 +49,20 @@ async function main() {
   }
 
   const collectedEvents = collectEvents();
-  const resolveGithubIdentity = createGithubIdentityResolver({
-    token: githubToken,
-    repository: githubRepository,
-  });
+  const identityResolvers = new Map();
+  const resolverFor = (repository) => {
+    if (!identityResolvers.has(repository)) {
+      identityResolvers.set(repository, createGithubIdentityResolver({ token: githubToken, repository }));
+    }
+    return identityResolvers.get(repository);
+  };
   let identityEnriched = 0;
   const events = await Promise.all(collectedEvents.map(async (event) => {
+    const { githubRepository: eventRepository, ...publicEvent } = event;
     const fallback = { contributor: event.contributor, identity: event.identity };
-    const resolved = await resolveGithubIdentity(event.commitSha, fallback);
+    const resolved = await resolverFor(eventRepository || githubRepository)(event.commitSha, fallback);
     if (resolved.contributor.id !== fallback.contributor.id) identityEnriched += 1;
-    return { ...event, ...resolved };
+    return { ...publicEvent, ...resolved };
   }));
   const response = await fetch(new URL('/api/admin/contributors/sync', apiBase), {
     method: 'POST',

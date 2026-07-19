@@ -2,6 +2,9 @@ import { createHash } from 'node:crypto';
 
 const localePattern = /^(zh|ja|en)$/;
 
+export const CONTENT_CONTRIBUTION_COLLECTIONS = ['artists', 'albums', 'songs', 'projects', 'logs', 'contribute', 'site'];
+export const FUNCTIONAL_CONTRIBUTION_COLLECTIONS = ['development', 'documentation', 'design'];
+
 function sha256(value) {
   return createHash('sha256').update(String(value)).digest('hex');
 }
@@ -71,7 +74,56 @@ export function parseContentPath(path) {
   return entryId ? { collection, entryId, locale: match[1] } : null;
 }
 
-export function collectContributionEvents(output, commitBaseUrl) {
+export function parseFunctionalPath(path, { repository = 'site' } = {}) {
+  const normalized = String(path || '').replace(/^\.\//, '');
+  if (!normalized || normalized.startsWith('.contributor-sources/')) return null;
+
+  if (normalized.startsWith('.github/')) {
+    return { collection: 'development', entryId: 'automation', locale: null };
+  }
+  if (normalized.startsWith('tests/')) {
+    return { collection: 'development', entryId: 'quality', locale: null };
+  }
+  if (/^(README(?:\.[^.]+)?\.md|DEPLOYMENT\.md|WORK_REPORT[^/]*\.md)$/.test(normalized) || normalized.startsWith('docs/')) {
+    return { collection: 'documentation', entryId: repository === 'backend' ? 'backend-docs' : 'wiki-docs', locale: null };
+  }
+  if (normalized.startsWith('public/')) {
+    return { collection: 'design', entryId: 'site-assets', locale: null };
+  }
+
+  if (repository === 'backend') {
+    if (normalized.startsWith('migrations/')) {
+      return { collection: 'development', entryId: 'data-platform', locale: null };
+    }
+    if (normalized.startsWith('src/') || normalized.startsWith('content/')) {
+      return { collection: 'development', entryId: 'backend-services', locale: null };
+    }
+    if (/^(package\.json|pnpm-lock\.yaml|wrangler\.toml|\.dev\.vars\.example)$/.test(normalized)) {
+      return { collection: 'development', entryId: 'backend-tooling', locale: null };
+    }
+    return null;
+  }
+
+  if (/^src\/(components|pages|scripts|styles|layouts)\//.test(normalized)) {
+    return { collection: 'development', entryId: 'site-experience', locale: null };
+  }
+  if (normalized.startsWith('src/lib/') || normalized.startsWith('src/content.config') || normalized === 'astro.config.mjs') {
+    return { collection: 'development', entryId: 'content-platform', locale: null };
+  }
+  if (normalized.startsWith('scripts/')) {
+    return { collection: 'development', entryId: 'contributor-tooling', locale: null };
+  }
+  if (/^(package\.json|pnpm-lock\.yaml|tsconfig\.json)$/.test(normalized)) {
+    return { collection: 'development', entryId: 'site-tooling', locale: null };
+  }
+  return null;
+}
+
+export function parseContributionPath(path, options) {
+  return parseContentPath(path) || parseFunctionalPath(path, options);
+}
+
+export function collectContributionEvents(output, commitBaseUrl, { repository = 'site' } = {}) {
   const groups = new Map();
   const chunks = String(output || '').split('\x1e').filter(Boolean);
 
@@ -84,7 +136,7 @@ export function collectContributionEvents(output, commitBaseUrl) {
 
     const author = contributorFromAuthor(authorName, authorEmail);
     for (const path of lines) {
-      const parsed = parseContentPath(path);
+      const parsed = parseContributionPath(path, { repository });
       if (!parsed) {
         continue;
       }

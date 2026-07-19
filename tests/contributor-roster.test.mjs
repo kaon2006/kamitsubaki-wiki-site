@@ -44,8 +44,9 @@ test('contributor sync script derives safe identities from git history', async (
   const packageJson = JSON.parse(await readProjectFile('../package.json'));
 
   assert.equal(packageJson.scripts['contributors:sync'], 'node scripts/sync-contributors.mjs');
-  assert.match(script, /src\/content\/artists/);
-  assert.match(script, /src\/content\/site/);
+  assert.match(script, /collectRepositoryEvents/);
+  assert.match(script, /CONTRIBUTORS_BACKEND_REPO_PATH/);
+  assert.match(script, /CONTRIBUTORS_BACKEND_GITHUB_REPOSITORY/);
   assert.match(history, /users\\\.noreply\\\.github\\\.com/);
   assert.match(history, /https:\/\/github\.com\/\$\{githubLogin\}\.png\?size=96/);
   assert.match(history, /emailHash/);
@@ -133,13 +134,39 @@ test('git history collector aggregates locale files without exposing author emai
   assert.doesNotMatch(JSON.stringify(privateAuthor), /private@example\.com/);
 });
 
+test('git history collector classifies site and backend feature work', async () => {
+  const { parseFunctionalPath } = await import('../scripts/contributor-history.mjs');
+
+  assert.deepEqual(parseFunctionalPath('src/components/ContributorRoster.astro'), {
+    collection: 'development', entryId: 'site-experience', locale: null,
+  });
+  assert.deepEqual(parseFunctionalPath('.github/workflows/ci.yml'), {
+    collection: 'development', entryId: 'automation', locale: null,
+  });
+  assert.deepEqual(parseFunctionalPath('tests/contributors.test.mjs', { repository: 'backend' }), {
+    collection: 'development', entryId: 'quality', locale: null,
+  });
+  assert.deepEqual(parseFunctionalPath('src/storage.js', { repository: 'backend' }), {
+    collection: 'development', entryId: 'backend-services', locale: null,
+  });
+  assert.deepEqual(parseFunctionalPath('docs/architecture.md'), {
+    collection: 'documentation', entryId: 'wiki-docs', locale: null,
+  });
+  assert.deepEqual(parseFunctionalPath('public/images/example.jpg'), {
+    collection: 'design', entryId: 'site-assets', locale: null,
+  });
+});
+
 test('contributor roster exposes localized honor wall copy and contribution routes', async () => {
   const component = await readProjectFile('../src/components/ContributorRoster.astro');
 
-  assert.match(component, /一起维护这座观测站/);
-  assert.match(component, /この観測記録を一緒に育てる/);
-  assert.match(component, /Build this fan archive together/);
+  assert.match(component, /一起建设这座观测站/);
+  assert.match(component, /この観測拠点を一緒に築く/);
+  assert.match(component, /Build this observatory together/);
   assert.match(component, /rankLabel/);
+  assert.match(component, /data-owner-login/);
+  assert.match(component, /站长与主理人/);
+  assert.match(component, /功能贡献/);
   assert.match(component, /localeLabels/);
   assert.match(component, /retry/);
   assert.match(component, /error/);
@@ -154,10 +181,13 @@ test('contributor renderer builds honor wall cards, readable activity, and retry
 
   assert.match(script, /normalizeContributorData/);
   assert.match(script, /contributor-roster__rank/);
+  assert.match(script, /renderOwner/);
+  assert.match(script, /contributor-roster__breakdown/);
+  assert.match(script, /topLimit', '24/);
   assert.match(script, /contributor-roster__actions/);
   assert.match(script, /contributor-roster__locale/);
   assert.match(script, /contributor-roster__activity/);
-  assert.match(script, /recentLimit:\s*mode === 'entry' \? 3 : 8/);
+  assert.match(script, /recentLimit:\s*mode === 'entry' \? 3 : 10/);
   assert.match(script, /data-contributor-retry/);
   assert.match(script, /addEventListener\('click'/);
   assert.match(script, /delete root\.dataset\.contributorRosterStatus/);
@@ -168,6 +198,9 @@ test('contributor honor wall styles cover cards, actions, activity, focus, and m
   const css = await readProjectFile('../src/styles/global.css');
 
   assert.match(css, /\.contributor-roster__rank/);
+  assert.match(css, /\.contributor-roster__owner/);
+  assert.match(css, /\.contributor-roster__breakdown/);
+  assert.match(css, /\.contributor-roster__type/);
   assert.match(css, /\.contributor-roster__actions/);
   assert.match(css, /\.contributor-roster__action--primary/);
   assert.match(css, /\.contributor-roster__locale/);
@@ -188,6 +221,8 @@ test('contributor workflow fails loudly when sync configuration is missing', asy
   assert.doesNotMatch(workflow, /skipping contributor sync/);
   assert.match(workflow, /GITHUB_TOKEN:\s*\$\{\{ secrets\.GITHUB_TOKEN \}\}/);
   assert.match(workflow, /GITHUB_REPOSITORY:\s*\$\{\{ github\.repository \}\}/);
+  assert.match(workflow, /repository:\s*LinkTh1rsty\/kamitsubaki-wiki-site-backend/);
+  assert.match(workflow, /CONTRIBUTORS_BACKEND_REPO_PATH/);
 });
 
 test('GitHub identity resolver enriches contributors, caches commits, and falls back safely', async () => {
