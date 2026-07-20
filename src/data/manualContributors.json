@@ -1,13 +1,13 @@
 [
   {
     "id": "example-name",
-    "enabled": false,
+    "enabled": true,
     "collaboration": {
       "zh": "资料协力",
       "ja": "資料協力",
       "en": "Research support"
     },
-    "name": "贡献者名字",
+    "name": "占位贡献者",
     "avatar": "",
     "contacts": [
       {
@@ -20,14 +20,14 @@
       }
     ],
     "introduction": {
-      "zh": "这里填写贡献者介绍。",
-      "ja": "ここに紹介文を入力します。",
-      "en": "Add the contributor introduction here."
+      "zh": "这是一条用于预览卡片布局与展开动画的占位介绍，收到真实资料后可以直接在 JSON 中替换。",
+      "ja": "カードのレイアウトと展開アニメーションを確認するための仮プロフィールです。",
+      "en": "A placeholder profile for previewing the compact card and expansion animation."
     },
     "quote": {
-      "zh": "这里填写他的一句话。",
-      "ja": "ここにひとことを入力します。",
-      "en": "Add their words here."
+      "zh": "愿每一份微小的协力，都能让观测站看见更远的地方。",
+      "ja": "小さな協力の一つひとつが、観測拠点の視界を広げますように。",
+      "en": "May every small contribution help this observatory see a little farther."
     }
   }
 ]

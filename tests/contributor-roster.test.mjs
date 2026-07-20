@@ -189,10 +189,15 @@ test('manual collaborators use an independent local data file and summary-only s
   assert.match(component, /Special collaborators/);
   assert.match(component, /safeContactHref/);
   assert.match(component, /safeAvatarSrc/);
-  assert.match(component, /manual-contributors__person/);
+  assert.match(component, /data-manual-contributors/);
+  assert.match(component, /data-contributor-card/);
+  assert.match(component, /data-contributor-drawer/);
+  assert.match(component, /data-list-expanded/);
+  assert.match(component, /grid-template-rows: 0fr/);
+  assert.match(component, /manual-contributor-hint/);
   assert.match(component, /contacts\.map/);
   assert.equal(Array.isArray(data), true);
-  assert.equal(data[0].enabled, false);
+  assert.equal(data[0].enabled, true);
   assert.deepEqual(Object.keys(data[0]).sort(), ['avatar', 'collaboration', 'contacts', 'enabled', 'id', 'introduction', 'name', 'quote']);
   assert.equal(typeof data[0].collaboration.zh, 'string');
   assert.equal(typeof data[0].avatar, 'string');
