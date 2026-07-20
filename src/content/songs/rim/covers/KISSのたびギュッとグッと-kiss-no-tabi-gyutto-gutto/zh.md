@@ -22,7 +22,218 @@ image: /images/albums/rim/chocolate-live.jpg
 
 ## 歌词
 
-## 来源
+{{lyrics-controls::ja}}
 
-- [官方作品目录](https://kamitsubaki.jp/discography/rim/379/)
-- [VGMdb 理芽](https://vgmdb.net/artist/53598)
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+KISSのたびギュッとぐっと
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+幸せがよってたかった
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+気付かない内の光が
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+近づいて離れなくなるから
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+生きてくってことはさ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ありのままが育つこと
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+恥ずかしくはないからさ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+美しい君のことだから
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+気持ちも曲げるユリゲラー
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+どうか君の気持ちまで
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+戻してやってくれないか
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+照らされた生き様をね
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+KISSのたびギュッとぐっと
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+幸せがよってたかった
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+気付かない内の光が
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+近づいて離れなくなるから
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+足跡振り返ってみたら少し楽になった
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+KISSがまたギュッとぐっと
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+近づいて離れなくなってく
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+わたしを写したKISSが
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+頑張った甲斐があったって
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+顔してる内はまだ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+大丈夫だってこと なんだよ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+輝きを増した光は
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+誰しも照らされるから
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+KISSのたびギュッとぐっと
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+幸せを抱きしめてやるんだ
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あなたがまた止まりそうになった時も
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+誰か見てるはずだから
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+少しは 少しは
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+楽になったでしょ
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+KISSのたびギュッとぐっと
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+幸せがよってたかった
+</div>
+</div>
+
+</div>
+
+

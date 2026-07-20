@@ -27,8 +27,202 @@ image: /images/songs/rim/single-1800090256.jpg
 
 ## 歌词
 
-## 来源
+{{lyrics-controls::ja}}
 
-- [官方作品目录](https://kamitsubaki.jp/disco_category/rim/)
-- [Apple Music](https://music.apple.com/jp/album/%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%99%E3%82%A4%E3%83%93%E3%83%BC-redalice-remix-feat-rim/1800090256?i=1800090257&uo=4)
-- [VGMdb 理芽](https://vgmdb.net/artist/53598)
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+生活の大半が そう
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+くだらない妄想気味な感傷です
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あいつらの用意した
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+どんな朝日も怖いの
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あたしの身に流れる血は
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あなたみたいに綺麗じゃない
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+動けない 動けないんです
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+笑えない 笑えないんです
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+明日も晴れないの
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+蔑さげすんで 暴いて あたしを壊して
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+つまらないこと聞かないでよ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+この手を 脚を 視線を落として
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+全部 心の臓ぞうの奥の方で
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+反応に疼(うず)いてんの
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+（簡単な答えを捻り出して？）
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+（簡単な答えを捻り出して？）
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+（簡単な答えを捻り出して？）
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+（簡単な答えを捻り出して？）
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あたしの身に流れる血は
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あなたみたいに綺麗じゃない
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+動けない 動けないんです
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+笑えない 笑えないんです
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+明日も晴れないの
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+蔑んで 暴いて あたしを壊して
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+つまらないこと聞かないでよ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+この手を 脚を 視線を落として
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+全部 心の臓の奥の方で
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+反応に疼いてんの
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+クライベイビー
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+クライベイビー
+</div>
+</div>
+
+</div>
+
+

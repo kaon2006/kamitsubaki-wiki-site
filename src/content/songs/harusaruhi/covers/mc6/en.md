@@ -27,8 +27,40 @@ MC6 appears on CREAM PUFF LIVE 2 or a related official release. Entries are vers
 
 ## Lyrics
 
-## Sources
+{{lyrics-controls::ja}}
 
-- [Official discography](https://kamitsubaki.jp/disco_category/harusaruhi/)
-- [Apple Music](https://music.apple.com/jp/album/mc6/1688520470?i=1688520488&uo=4)
-- [VGMdb Harusaruhi](https://vgmdb.net/artist/48426)
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+お待たせしました
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+戻ってきました
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+それでは早速　次の歌を歌いたいと思います
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+きいてください
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+回らないトゥシューズ
+</div>
+</div>
+
+</div>
+
+

@@ -27,8 +27,232 @@ image: /images/songs/koko/single-1687478449.jpg
 
 ## 歌词
 
-## 来源
+{{lyrics-controls::ja}}
 
-- [官方作品目录](https://kamitsubaki.jp/discography/koko/816/)
-- [Apple Music](https://music.apple.com/jp/album/%E7%9E%91%E7%9B%AE/1687478449?i=1687478450&uo=4)
-- [VGMdb 幸祜](https://vgmdb.net/artist/53600)
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+君が愛を 愛を
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+私に教えたから
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+きりがないの ないの
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+この心の痛ましさは
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+全てのものに
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+平等に価値があれば良い
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+さすれば争いも 醜い結末も
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+きっと生まれてないから
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+虚しくなるの
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+黒い空 灰色の瓦礫
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+気怠く纏うのは そう
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+何もかも跳ね除ける冷血
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あとどれだけ傷付けば良い？
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+過ぎ去る日々に少しの愛着も持てずに
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+願いを抱いて
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+祈ってはいけないの
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+君がいないと嫌だよ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+なんて叶わない
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+妄言に過ぎない
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Spending all My time
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Just heading for the end
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+救いなどないの
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+I know the place
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+仮初めの幸福に縋り
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+こんなの馬鹿みたい
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+何で、どうして、君なんだろう
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+出逢いは彼方
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+意味がないの ないの
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ここにはいたくないよ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+君が食べて 食べて
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+この心の痛み全て
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Forgive me for losing enthusiasm
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+I'd better go over to that side
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+you know?
+</div>
+</div>
+
+</div>
+
+

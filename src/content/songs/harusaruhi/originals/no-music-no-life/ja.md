@@ -27,6 +27,116 @@ image: /images/albums/harusaruhi/spice-of-life.jpg
 
 ## 歌詞
 
+{{lyrics-controls::ja}}
+
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+思い出につくメロディー
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+カラオケ友達と
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+エモい気持ちになったり
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+時に激しくビートの上踊ったりyeah
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+まるで主人公みたいに
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+イヤホンつければガラリ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+変わりだす私だけの世界
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+No Music, No Life
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+彩りが増 してく
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+耳へと流れてく音の川
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+That’s part of my life
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+いつでもそばにいる
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+身体中を巡る音のblood
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+今日もどこかイヤホンと
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+yeah
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+今日もどこかイヤホンと
+</div>
+</div>
+
+<br />
+
+</div>
+
+
+
 ## 出典
 
 - [公式ディスコグラフィー](https://kamitsubaki.jp/disco_category/harusaruhi/)

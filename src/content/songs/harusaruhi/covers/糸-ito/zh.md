@@ -22,7 +22,148 @@ image: /images/albums/harusaruhi/cream-puff-live.jpg
 
 ## 歌词
 
-## 来源
+{{lyrics-controls::ja}}
 
-- [官方作品目录](https://kamitsubaki.jp/discography/harusaruhi/378/)
-- [VGMdb 春猿火](https://vgmdb.net/artist/48426)
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+なぜ めぐり逢うのかを
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+私たちは なにも知らない
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+いつ めぐり逢うのかを
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+私たちは いつも知らない
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+どこにいたの 生きてきたの
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+遠い空の下 ふたつの物語
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+縦の糸はあなた 横の糸は私
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+織りなす布は いつか誰かを
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+暖めうるかもしれない
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+なぜ 生きてゆくのかを
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+迷った日の跡の ささくれ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+夢追いかけ走って
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ころんだ日の跡の ささくれ
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+こんな糸が なんになるの
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+心許なくて ふるえてた風の中
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+縦の糸はあなた 横の糸は私
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+織りなす布は いつか誰かの
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+傷をかばうかもしれない
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+縦の糸はあなた 横の糸は私
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+逢うべき糸に 出逢えることを
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+人は 仕合わせと呼びます
+</div>
+</div>
+
+</div>
+
+

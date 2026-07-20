@@ -15,6 +15,7 @@ categoryOrder: 20
 itemOrder: 194
 code: "apple-1688520476"
 image: /images/albums/harusaruhi/cream-puff-live-2.jpg
+contentStatus: stub
 ---
 
 ## 作品简介

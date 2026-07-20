@@ -28,8 +28,236 @@ image: /images/songs/isekaijoucho/single-1678039164.jpg
 
 ## 歌词
 
-## 来源
+{{lyrics-controls::ja}}
 
-- [官方作品目录](https://kamitsubaki.jp/disco_category/isekaijoucho/)
-- [Apple Music](https://music.apple.com/jp/album/%E6%B3%A1%E6%B2%AB/1678039164?i=1678039165&uo=4)
-- [VGMdb ヰ世界情緒](https://vgmdb.net/artist/53599)
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ゆらゆら歪んでいく
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+泡沫 霞んでいく
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+夢の灯火
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+理想の戦果
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ゆらゆら歪んでいく
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+泡沫 沈んでいく
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+君の淘汰
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+理想の所為か
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+穿つ戦姫 災厄の日々が奪うのなら
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+死灰 戦場に朽ち果てる灯火
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+消えないで まだ消えないで 貴女よ（壊して 繋いで）
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+夢の下へ 義体 精巧に錆び喰らうようだ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+醒めないで まだ醒めないで 貴女よ（歪んだ 世界に）
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+魔女は祈る 視界 栄光に
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+君の詩を
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+消えないで まだ消えないで 貴女よ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+望んでた でも分かってた
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+日々の歯車 腐って見えた
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+支配 抵抗も叶わないの
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+或の日々にだって戻れないや
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+未完成ストーリー
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+『私と行こうか』
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ゆらゆら歪んでいく
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+泡沫 霞んでいく
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+夢の灯火
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+理想の戦果
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ゆらゆら歪んでいく
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+泡沫 沈んでいく
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+君の淘汰
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+理想の所為か
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+消えないで まだ消えないで 貴女よ（壊して 繋いで）
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+夢の下へ 義体 精巧に錆び喰らうようだ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+醒めないで まだ醒めないで 貴女よ（歪んだ 世界に）
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+魔女は祈る 視界 栄光に
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+君の詩を
+</div>
+</div>
+
+</div>
+
+

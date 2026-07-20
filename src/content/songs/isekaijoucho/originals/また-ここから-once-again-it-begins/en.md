@@ -27,8 +27,256 @@ image: /images/albums/isekaijoucho/virtual-ties.jpg
 
 ## Lyrics
 
-## Sources
+{{lyrics-controls::ja}}
 
-- [Official discography](https://kamitsubaki.jp/disco_category/isekaijoucho/)
-- [Apple Music](https://music.apple.com/jp/album/%E3%81%BE%E3%81%9F-%E3%81%93%E3%81%93%E3%81%8B%E3%82%89/1879736525?i=1879736528&uo=4)
-- [VGMdb Isekaijoucho](https://vgmdb.net/artist/53599)
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+はじまりはほんの小さな軌跡
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+素直に書き滑らせて
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+響いた絆で
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+新しい未来が始まる
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+風に消えた歌声は
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+もう、遠い記憶のようでいて
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ずっと胸の奥に光灯す光景
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+見つけてくれた瞬間全てに
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ありがとうを、伝えて
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+また新しい景色を、夢の続きを
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+一緒に見つけにいくよ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ひとりだけじゃ触れられない場所に
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+今なら届くといいな
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+散り始めた桜と潮の香り
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+また、ここから
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+未知なる場所に向かう線は
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+空に伸びる木々みたい
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+変わり撓(しな)り続けるから
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+自分ごと見失いそうになる
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ふと口ずさむメロディ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+そっと波音とともに
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+誰かに届いて、って静かに願ってた
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+振り返れば幼い
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ただ真っ白な頃に戻れるの
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+昨日みたいに
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あの店の軒先を吹き抜ける風
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+優しい想い出の道
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+変わることも、変わらずあることも
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+愛しいと思えるから
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+新しい始まりは、胸の中の
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+また、ここから
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+果てしなく散らばる夢を
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+星の海を渡るみたいに
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+知らない土地に降り立つみたいに
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あなたと
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+また新しい景色を、夢の続きを
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+一緒に見つけにいくよ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ひとりだけじゃ触れられない場所に
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+今なら届くといいな
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+散り始めた桜と潮の香り
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+また、ここから
+</div>
+</div>
+
+</div>
+
+

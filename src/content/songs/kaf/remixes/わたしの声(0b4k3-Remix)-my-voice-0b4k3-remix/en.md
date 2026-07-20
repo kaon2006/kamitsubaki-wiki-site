@@ -24,7 +24,79 @@ image: /images/songs/kaf/track-1706955684.jpg
 
 ## Lyrics
 
-This wiki does not reproduce full lyrics without confirmed permission. Consult the official video description or the licensed streaming service’s lyric feature; editors with contribution permission may add text using the lyric-format guide.
+{{lyrics-controls::ja}}
+
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+わたしの声 さようなら あの山の先の
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+深くねむる湖に 行ってしまった
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ひとのこころ傷つける 悲しい言葉を
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+口にしたくないと泣き 行ってしまった
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+おはよう こんにちは ごきげんはいかが
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ありふれたやりとりが いまは恋しい
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+わたしの声 消えたこと みんな喜んだ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+みんなわたしの言葉を 嫌ってるから
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+おいおいと泣きながら 去って行った声
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+残されたわたしは もう 泣くことできず
+</div>
+</div>
+
+</div>
+
+
 
 ## Sources
 

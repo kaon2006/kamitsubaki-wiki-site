@@ -15,6 +15,7 @@ categoryOrder: 10
 itemOrder: 532
 code: "apple-1830153009"
 image: /images/songs/harusaruhi/single-1830153002.jpg
+contentStatus: stub
 ---
 
 ## 作品简介

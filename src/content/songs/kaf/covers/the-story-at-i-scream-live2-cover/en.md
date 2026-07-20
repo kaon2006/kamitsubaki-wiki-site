@@ -25,7 +25,275 @@ image: /images/albums/kaf/i-scream-live-2.jpg
 
 ## Lyrics
 
-This wiki does not reproduce full lyrics without confirmed permission. Consult the official video description or the licensed streaming service’s lyric feature; editors with contribution permission may add text using the lyric-format guide.
+{{lyrics-controls::ja}}
+
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+I'm frosting
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+I don't need a man to make my life sweet
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Prince charming
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Just isn't the one that I think I need
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+You're thirsty
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+You think I give out all my shit for free
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+I'm bursting
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Out laughing at idiocy
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+I need a gingerbread man, the one I'll feed
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+The gingerbread man, the one I'll eat
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+One who's always crazy
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Never calls me baby
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+That's the one that I want
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+All you boys are not him, him
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Can't you see?
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+I only want the ones who never see me
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+But I'm happy
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+I love playing these games until my heart bleeds
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+It bleeds jelly
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Cause you don't want someone to eat your cookie
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Can someone please
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Find him for me, find him for me?
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+I need a gingerbread man, the one I'll feed
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+The gingerbread man, the one I'll eat
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+One who's always crazy
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Never calls me baby
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+That's the one that I want
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+All you boys are not him, him
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+I'm the icing covering his body
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+I wanna hold him so close, so tightly
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Baby how do I say this politely?
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Love me hard and don't be nice, please
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+I wanna feel your crumbs on my body
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+I want to break you in pieces like me
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Baby don't be so scared of biting
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Want to eat each other into nothing
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+I need a gingerbread man, the one I'll feed
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+The gingerbread man, the one I'll eat
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+One who's always crazy
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Never calls me baby
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+That's the one that I want
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+All you boys are not him, him
+</div>
+</div>
+
+</div>
+
+
 
 ## Sources
 

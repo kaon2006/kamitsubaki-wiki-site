@@ -27,6 +27,232 @@ image: /images/albums/rim/chocolate-live-3.jpg
 
 ## 歌詞
 
+{{lyrics-controls::ja}}
+
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+私以外私じゃないの
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+冴えない顔で泣いちゃった夜を重ねて
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+絶え間のない暮らしを今日も重ねた
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+良くなりそうな明日に期待する度に
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+何度も今日を鏡台の裏に隠した
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+映る私は何回も瞬きしては
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+変わる心に簡単に動揺したわ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+だけど意外と目を瞑った瞬間に
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+悪くないなって思いながら明日を悟ったんだ
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+私以外私じゃないの 当たり前だけどね
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+だから報われない気持ちも整理して
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+生きていたいの 普通でしょう？
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+殻を破った気になってる誰かの声がしたけど
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+殻にこもったはずだった 私はもうそこにはいない
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+私になってみてよ、ねえ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+私になってみたいんでしょ？
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+声にならない言葉で自分が煙に巻かれた
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+恥ずかしくて言えないけど
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+私にしか守れないものを
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+身を削って紡いだら
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+案外さ、悪くないかもよ
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+私以外私じゃないの 当たり前だけどね
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+だから報われない気持ちも整理して
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+生きていたいと思うのよ
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+私以外私じゃないの 誰も替われないわ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+今日を取り出して逃げないようにして
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+明日に投げ込んで目を開けたんだ
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+私以外私じゃないの どうやらあなたもそう
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+誰も替われないってことみたいね
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+背を向けて言い合った
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+だから私はもう怖くないんだ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+夜更け過ぎを待つわ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+今日も報われない気持ちを整理して 生きてたいって思うの
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+息を吸い込んだ
+</div>
+</div>
+
+</div>
+
+
+
 ## 出典
 
 - [公式ディスコグラフィー](https://kamitsubaki.jp/disco_category/rim/)

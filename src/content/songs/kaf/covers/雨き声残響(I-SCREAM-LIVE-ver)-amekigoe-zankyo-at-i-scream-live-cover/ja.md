@@ -25,7 +25,121 @@ image: /images/albums/kaf/i-scream-live.jpg
 
 ## 歌詞
 
-当サイトでは許諾を確認できない歌詞全文を転載しません。公式動画の説明欄または正規配信サービスの歌詞機能を参照してください。寄稿許諾をお持ちの場合は歌詞フォーマットガイドに沿って追加できます。
+{{lyrics-controls::ja}}
+
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+自分より下手くそな人 探して浸るの優越感
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+でもその度ちょっと自分を嫌って 次元遡って現実逃避
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+でも良いんじゃない？ 別に良いんじゃない？
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+無理に強がらなくても良いんじゃない？
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+下を見て強くなれるのも また人だからさ。
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+五月蠅い もううざい くらいにCryを掻き消す様な
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+世界なら 抗ってたいのに
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+降りだした空の泣き声は透明で
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+『わかんない、もうわかんないよ！』を何遍も。
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+僕達は存在証明に 毎日一生懸命で
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+こんな素晴らしい世界で まだ生きる意味を探してる
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+そりゃそうだろだって人間は 希望無しでは生きられないからさ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+みんな 心のどっかで 来世を信じてる。
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+昨日の僕守る為に 笑うくらいなら
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+泣いたっていいだろ？ ねぇ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+止まないの雨が 夏空を鮮明に描いたって
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+僕達は不完全で
+</div>
+</div>
+
+</div>
+
+
 
 ## 出典
 

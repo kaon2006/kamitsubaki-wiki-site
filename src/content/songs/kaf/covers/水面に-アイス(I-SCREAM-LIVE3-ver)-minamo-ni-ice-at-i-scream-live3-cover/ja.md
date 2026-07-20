@@ -25,7 +25,163 @@ image: /images/albums/kaf/i-scream-live-3.jpg
 
 ## 歌詞
 
-当サイトでは許諾を確認できない歌詞全文を転載しません。公式動画の説明欄または正規配信サービスの歌詞機能を参照してください。寄稿許諾をお持ちの場合は歌詞フォーマットガイドに沿って追加できます。
+{{lyrics-controls::ja}}
+
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あざやかに返る声が
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+引き金となり瞳孔が開いた
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+会いたい想いを伝えて
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+今にも溢れ落ちそうな
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+勇姿を影で観たいだけだ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ああ　今、　水面に
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+「愛す」が溢れて
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+いざ　いざ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+気持ち次第でオアシス
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+蚊に刺されることさえ清々しい
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+曖昧な態度が良くて
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+今さらお手本のような関係は
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+眼中にはないわ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ああ　今、　水面に
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+「アイス」が溢れて
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ひや　ひや
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ああ　今、　水面に
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+「愛す」が溢れて
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+いざ　いざ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ああ　今、　水面に
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+「アイス」が溢れて
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ひや　ひや
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ああ　今、　水面に
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+「愛す」が溢れて
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+いざ　いざ
+</div>
+</div>
+
+</div>
+
+
 
 ## 出典
 

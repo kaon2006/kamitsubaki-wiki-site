@@ -22,7 +22,160 @@ image: /images/albums/rim/chocolate-live.jpg
 
 ## Lyrics
 
-## Sources
+{{lyrics-controls::ja}}
 
-- [Official discography](https://kamitsubaki.jp/discography/rim/379/)
-- [VGMdb RIM](https://vgmdb.net/artist/53598)
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+街の入り口にはお牛のスカル飾り
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+法律は一番強い奴が決めりゃいいさ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+だけどやさしい気持ちがあふれていなくちゃ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+きっとみんなが反乱おこしてすぐに消える
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ショッキングな ブラッディピクチュアー
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+吐き気が してくる
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あたまを かかえて 地下鉄 乗り込む
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+コールドフィンガーガール コールドフィンガーガール
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+近未来のポリス駐禁切ってるぼくのロメオの
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+サーフライダドライバ回して時間軸ずれ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+レベルファイブの外出禁止令が出たら
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+峠あたりでキャンプしてるからおいでよ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+正しい生き方 正しい死に方って
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+いったい誰が知っているの いったい何が教えてくれるの
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+コールドフィンガーガール コールドフィンガーガール
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+コールドフィンガーガール コールドフィンガーガール Sit Down
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+She is so Rainy Heart. Madness Traffic Baby Blues 壁ぶち破れ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Love You
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ショッキングな ブラッディピクチュアー
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+吐き気が してくる
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あたまを かかえて 地下鉄 乗り込む
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+正しい生き方 正しい死に方って
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+いったい誰が知っているの いったい何が教えてくれるの
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+コールドフィンガーガール コールドフィンガーガール
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+コールドフィンガーガール コールドフィンガーガール
+</div>
+</div>
+
+</div>
+
+

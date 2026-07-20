@@ -28,7 +28,251 @@ image: /images/songs/kaf/track-1678454359.jpg
 
 ## 歌詞
 
-当サイトでは許諾を確認できない歌詞全文を転載しません。公式動画の説明欄または正規配信サービスの歌詞機能を参照してください。寄稿許諾をお持ちの場合は歌詞フォーマットガイドに沿って追加できます。
+{{lyrics-controls::ja}}
+
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+秘密の言葉で
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+もう世界が変わりそうな気がしてる
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+誰にも言えない
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+胸の高鳴り もう止まらない
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Hey!
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+嘘を重ねた生活の
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+隙間に隠れた
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+他の誰にもわからないような
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+痛みを分け合った
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+つまらない日々を過ごすのは
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+慣れたはずなのに
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+おどけた君の手のひらの温度で
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+思い出しちまった
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+秘密の言葉で
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+もう世界が変わりそうな気がしてる
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+動き出せばほら
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+もう止まらない 止められない
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+虚ろで安心の日々が
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+お似合いのはずだったのに
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+君を見つけた もうここからは
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+戻れない気がしてる
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+歪な心で
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+もう世界が壊れそうな夜を歩く
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あなたの言葉が
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ほんの少しだけ 道を照らす
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+うずくまってた昨日の夜が
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+とけ出して行くように
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+寝ぼけた顔が ずるい態度が
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+今日の朝を塗り替える
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+秘密の言葉で
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+もう世界が変わりそうな気がしてる
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+誰にも言えない
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+胸の高鳴り もう離さない
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+秘密の言葉で
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+もう世界が変わりそうな気がしてる
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+動き出せばほら
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+もう止まらない 止められない
+</div>
+</div>
+
+</div>
+
+
 
 ## 出典
 

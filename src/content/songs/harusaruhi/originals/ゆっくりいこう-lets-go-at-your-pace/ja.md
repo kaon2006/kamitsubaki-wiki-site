@@ -27,6 +27,124 @@ image: /images/albums/harusaruhi/spice-of-life.jpg
 
 ## 歌詞
 
+{{lyrics-controls::ja}}
+
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+人生ってまじ上がり下がり
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+思い悩んだときは一休み
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+今までも七転び八起き
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+いつか笑える泣いてたあの日
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+今はのんびり ご飯はコンビニ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+肩の力抜いていいこの道
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+自分のペースで心の灯火
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+守ることだけ 考えればいい
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Don’t worry
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+You’ll be happy
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+生まれてきたそれだけでラッキー
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+負けや勝ち よりも愛で
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+人は笑顔でいられるらしい
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Don’t worry
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+You’ll be happy
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+楽観でいい 君はもうラッキー
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+たまに恥かく日々だってアリ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ゆっくりいこう自分だけの旅yeah
+</div>
+</div>
+
+<br />
+
+</div>
+
+
+
 ## 出典
 
 - [公式ディスコグラフィー](https://kamitsubaki.jp/disco_category/harusaruhi/)

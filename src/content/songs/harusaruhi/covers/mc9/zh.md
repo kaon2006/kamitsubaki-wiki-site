@@ -27,8 +27,106 @@ image: /images/albums/harusaruhi/cream-puff-live-2.jpg
 
 ## 歌词
 
-## 来源
+{{lyrics-controls::ja}}
 
-- [官方作品目录](https://kamitsubaki.jp/disco_category/harusaruhi/)
-- [Apple Music](https://music.apple.com/jp/album/mc9/1688520470?i=1688520557&uo=4)
-- [VGMdb 春猿火](https://vgmdb.net/artist/48426)
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+*Epic begining*
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Hank hanking al over the place :)
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Shi sha uh
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+I ah ah ah
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Shi sha uh
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+I ah ah ah
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Shi sha uh
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+I ah ah ah
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Shi sha uh
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+I ah ah ah
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Shi sha uh
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+I ah ah ah
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Shi sha uh
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+I ah ah ah
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Shi sha uh
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+I ah ah ah
+</div>
+</div>
+
+</div>
+
+

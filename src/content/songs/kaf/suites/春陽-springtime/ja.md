@@ -25,7 +25,249 @@ image: /images/albums/kaf/suite.jpg
 
 ## 歌詞
 
-当サイトでは許諾を確認できない歌詞全文を転載しません。公式動画の説明欄または正規配信サービスの歌詞機能を参照してください。寄稿許諾をお持ちの場合は歌詞フォーマットガイドに沿って追加できます。
+{{lyrics-controls::ja}}
+
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ここから先の言葉は濡れてにじんで
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+重くなって読めないから
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+君が言ってよ 君が言ってよ
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+もう大人になったからさ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+から始まる君の話を
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ゆらぐ陽に透く肌の色は
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+昼間の幽霊みたいだ
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+遊ぶということ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+窓際の春陽
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+この先にないことだらけだ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+春風が吹いた
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ここから先の言葉は濡れてにじんで
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+重くなって読めないから
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+君が言ってよ 君が言ってよ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+二度と戻らない場所
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+何度も思い出してしまうなら
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+忘れないように 名前をつけておこうよ
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+浴衣姿で煙草
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ヒリついた日々に雨傘
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+フィルムで切り取る写真に
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+浅い煙を吐く
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+これから進むべき場所が不安になって
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+道案内も読めないから
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+秘密の花 淡い春に触れる
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+二度と起こらないこと
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+何度も思い出してしまうなら
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+忘れないように 名前をつけておこうよ
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+言って仕舞えば
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+逃げて仕舞えば簡単なこと
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+それでも行くなら
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+それでも行くなら
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ここから先の言葉は濡れてにじんで
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+重くなって読めないから
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+君が言ってよ 君が言ってよ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+二度と戻らない場所
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+何度も思い出してしまうなら
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+2人だけの 名前をつけておこうよ
+</div>
+</div>
+
+</div>
+
+
 
 ## 出典
 

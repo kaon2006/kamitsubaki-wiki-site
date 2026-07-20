@@ -27,8 +27,132 @@ image: /images/albums/koko/prayer-2.jpg
 
 ## 歌詞
 
-## 出典
+{{lyrics-controls::ja}}
 
-- [公式ディスコグラフィー](https://kamitsubaki.jp/disco_category/koko/)
-- [Apple Music](https://music.apple.com/jp/album/lullaby/1807217003?i=1807217015&uo=4)
-- [VGMdb 幸祜](https://vgmdb.net/artist/53600)
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ララバイラーラバイ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+お休みラーラバイ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ララバイラーラバイ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+グッナイ ラーラバイ Yeah!
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+(Get on it)
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+(Get on it)
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+(Get on it)
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+(Get on it)
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+(yeah!)
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+(Get on it)
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+(Get on it)
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+(Get on it)
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ララバイラーラバイ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+お休みラーラバイ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ララバイラーラバイ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+グッナイ ラララ Yeah!
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+(yeah!)
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+(yeah!)
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+おやすみなさいって
+</div>
+</div>
+
+</div>
+
+

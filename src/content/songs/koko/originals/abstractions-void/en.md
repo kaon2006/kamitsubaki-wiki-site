@@ -27,8 +27,322 @@ Abstractions Void appears on Abstractions Void or a related official release. En
 
 ## Lyrics
 
-## Sources
+{{lyrics-controls::ja}}
 
-- [Official discography](https://kamitsubaki.jp/disco_category/koko/)
-- [Apple Music](https://music.apple.com/jp/album/abstractions-void/1678056895?i=1678056896&uo=4)
-- [VGMdb KOKO](https://vgmdb.net/artist/53600)
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Now, something awakened within me begins to breathe
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+We couldn’t do anything.
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Oh no, was it a mistake?
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+I couldn’t keep it down
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Impulse was beyond imagination
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Particles flood from the wings as they fly away, clad in lights
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Why am I here?
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Why did I keep quiet?
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+What is my point?
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Where is my word?
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Why am I here?
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Why did I keep quiet?
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+What is my point?
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Where is my word?
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+This is what it is abstractions void
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Blankness is what I am.
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+There is no actual situation.
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Not even the definition can catch me
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Regression is the engraving
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+There is all reason being negated by the inevitable phenomenon
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Now, I give away again
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Now something gets awakened, and it’s all about to be proven
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+We need to think about what we can do to make it worthwhile
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Why am I here?
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Why did I keep quiet?
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+What is my point?
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Where is my word?
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Why am I here?
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Why did I keep quiet?
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+What is my point?
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Where is my word?
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+This is what it is abstractions void
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Blankness is what I am.
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+There is no actual situation.
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Not even the definition can catch me
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Regression is the engraving
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+There is all reason being negated by the inevitable phenomenon
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+遠吠えから覚えた　名前の呼び方
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+喉焦がす　奇を衒(てら)う
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+見当違いや思い違いの所為で
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+決壊した紲(きずな)を今
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+再び呼び戻す
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+It’s those words that fill the heart
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+I remember the glimmer you showed to me
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Only when it is poured out will this void be filled
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+This is what it is abstractions void
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Blankness is what I am.
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+There is no actual situation.
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Not even the definition can catch me
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Regression is the engraving
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+There is all reason being negated by the inevitable phenomenon
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Now, I give away again
+</div>
+</div>
+
+</div>
+
+

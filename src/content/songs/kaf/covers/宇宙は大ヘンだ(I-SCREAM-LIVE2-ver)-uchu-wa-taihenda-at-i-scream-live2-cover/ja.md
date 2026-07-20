@@ -28,7 +28,139 @@ image: /images/albums/kaf/i-scream-live-2.jpg
 
 ## 歌詞
 
-当サイトでは許諾を確認できない歌詞全文を転載しません。公式動画の説明欄または正規配信サービスの歌詞機能を参照してください。寄稿許諾をお持ちの場合は歌詞フォーマットガイドに沿って追加できます。
+{{lyrics-controls::ja}}
+
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ヘンとヘンを集めて もっとヘンにしましょう
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ヘンなヘンな宇宙は タイヘンだ!! ダ·ダ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+この広い宇宙は たまらなく不思議ね
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+でたらめな事件が 当り前のように起きる
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+それでも 驚いたりしては いけない
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+落ち着いて 話しあいましょう
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ちょっとちょっと 何よ何よ 何かヘンだわ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ちょっとちょっと 何よ何よ どうも少しヘンね
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ヘンでなけりゃ 楽しくない
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+済ましていたんじゃ 当り前すぎる
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ヘンとヘンを集めて もっとヘンにしましょう
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ヘンなヘンな宇宙は タイヘンだ!! ダ·ダ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ヘンになれば たのしくなる
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+心が弾けて 夜空へ飛びだす
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ヘンとヘンを集めて もっとヘンにしましょう
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ヘンなヘンな宇宙は タイヘンだ!! ダ·ダ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ヘンとヘンを集めて もっとヘンにしましょう
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ヘンなヘンな宇宙は タイヘンだ!! ダ·ダ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ヘンとヘンを集めて もっとヘンにしましょう
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ヘンなヘンな宇宙は
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+タイヘン タイヘン タイヘンだ!!
+</div>
+</div>
+
+</div>
+
+
 
 ## 出典
 

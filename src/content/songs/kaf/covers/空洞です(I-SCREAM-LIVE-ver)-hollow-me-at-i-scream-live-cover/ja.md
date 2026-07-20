@@ -25,7 +25,201 @@ image: /images/albums/kaf/i-scream-live.jpg
 
 ## 歌詞
 
-当サイトでは許諾を確認できない歌詞全文を転載しません。公式動画の説明欄または正規配信サービスの歌詞機能を参照してください。寄稿許諾をお持ちの場合は歌詞フォーマットガイドに沿って追加できます。
+{{lyrics-controls::ja}}
+
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ぼくの心をあなたは奪い去った
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+俺は空洞 でかい空洞
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+全て残らずあなたは奪い去った
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+俺は空洞 面白い
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+バカな子どもが ふざけて駆け抜ける
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+俺は空洞 でかい空洞
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+いいよ くぐりぬけてみな 穴の中
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+どうぞ 空洞
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+なぜか町には大事なものがない
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+それはムード 甘いムード
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+意味を求めて無意味なものがない
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+それはムード とろけそうな
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+入り組んだ路地であなたに出会いたい
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+それはムード 甘いムード
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+誰か 味見をしてみな 踊りたい
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+さあどうぞ ムード
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ぼくの心をあなたは奪い去った
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+俺は空洞 でかい空洞
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+全て残らずあなたは奪い去った
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+俺は空洞 面白い
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+バカな子どもが ふざけて駆け抜ける
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+俺は空洞 でかい空洞
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+いいよ くぐりぬけてみな 穴の中
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+さあどうぞ 空洞
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+空洞
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+空洞
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+空洞
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+空洞
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+空洞
+</div>
+</div>
+
+</div>
+
+
 
 ## 出典
 

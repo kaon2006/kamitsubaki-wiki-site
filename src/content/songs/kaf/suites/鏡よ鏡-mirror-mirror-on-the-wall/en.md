@@ -28,7 +28,191 @@ image: /images/songs/kaf/track-1688348280.jpg
 
 ## Lyrics
 
-This wiki does not reproduce full lyrics without confirmed permission. Consult the official video description or the licensed streaming service’s lyric feature; editors with contribution permission may add text using the lyric-format guide.
+{{lyrics-controls::ja}}
+
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+誰か言ったセリフが脳に
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+錆びついてしまって
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+立ち尽くした夢が泣いている
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ねぇ 進んだ時計の針が正確かって
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+どんな科学者さえも知らないの
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+鏡よ鏡 君の中で僕は何色？
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+色褪せぬ様に何度も塗り替わるから
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+答えを決め付けないで
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+誰か撒いたウワサになんか
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+縛られないって
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+平気な顔の裏では泣いていた
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+嗚呼 くすんだ過去に自分が囚われちゃう前に
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+こんなモノクロの迷路 抜け出すの
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+鏡よ鏡 君の前で僕は笑える？
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+色鮮やかにいつでも踊っていこう
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+未来を決め付けないで
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+近くにあるもの程触れられないのはきっと
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+魔法がかかっているのね 分かってる
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+どれだけ生き急いだら安心するかなんて
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+今はまだ見えなくて良い
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+鏡よ鏡 君の中で僕は何色？
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+色褪せぬ様に何度も塗り替わるから
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+答えを決め付けないで
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+鏡よ鏡 君に映る僕は何色？
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+色鮮やかに何度も塗り変わるのさ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+未来を決め付けないで
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+自分を決め付けないで
+</div>
+</div>
+
+</div>
+
+
 
 ## Sources
 

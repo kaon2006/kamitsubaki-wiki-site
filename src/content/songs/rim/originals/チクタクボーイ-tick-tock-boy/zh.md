@@ -27,8 +27,166 @@ image: /images/songs/rim/single-1689357731.jpg
 
 ## 歌词
 
-## 来源
+{{lyrics-controls::ja}}
 
-- [官方作品目录](https://kamitsubaki.jp/discography/rim/1544/)
-- [Apple Music](https://music.apple.com/jp/album/%E3%83%81%E3%82%AF%E3%82%BF%E3%82%AF%E3%83%9C%E3%83%BC%E3%82%A4/1689357731?i=1689357733&uo=4)
-- [VGMdb 理芽](https://vgmdb.net/artist/53598)
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あれやこれや むずかしい事
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ほったらかして 急ぐ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ワープホールへ フルスロットル
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+タイムアップが 迫る
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+要するに あの子に恋をして
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ヨーソロー 歴史を巻き戻す
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+チクタクボーイ 静かな夜を
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+チクタクボーイ 乗っ取って
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+天変地異と 世界の終わり
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+止めるスイッチ ピンポンダッシュ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あちらこちら ややこしい事
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ひっきりなしに 起こる
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+終末時計 残り一分
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ニーベンベルトが 開く
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+もうすぐで あの子が眠る場所
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+もうすぐで 嵐が来るという
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+要するに 二人は恋をして
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ヨーソロー 歴史を書き換える
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+チクタクボーイ 静かな夜を
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+チクタクボーイ 乗っ取って
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+天変地異と 世界の終わり
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+止めるスイッチ ピンポンダッシュ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+チクタクボーイ 時間がないの
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+チクタクボーイ 飛んでって
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+天上天下 まだ見ぬ君と
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ハッピーエンド ヒット&ラン
+</div>
+</div>
+
+</div>
+
+

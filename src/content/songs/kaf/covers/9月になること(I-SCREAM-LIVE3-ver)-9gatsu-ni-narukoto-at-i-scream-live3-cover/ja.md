@@ -25,7 +25,179 @@ image: /images/albums/kaf/i-scream-live-3.jpg
 
 ## 歌詞
 
-当サイトでは許諾を確認できない歌詞全文を転載しません。公式動画の説明欄または正規配信サービスの歌詞機能を参照してください。寄稿許諾をお持ちの場合は歌詞フォーマットガイドに沿って追加できます。
+{{lyrics-controls::ja}}
+
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+いらなくなったあの首振り固定の扇風機
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+買わなくなった安っぽい甘ったるいアイスキャンディー
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+8月になれば全て蘇る気がしたんだ 何もかもあたかも元通りになって
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+忘れたい筈のあの言葉だけは忘れない様に出来ている脳
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+変わっていったあの白昼夢の堂々巡り
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+さらっていった揺れの不安定気な観覧車
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+9月にさえなれば全て笑える気がしたんだ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+何もかも身も蓋も無い話になって
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+「南へと向かうあの人の影に私の足で追い付きたいの」
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+過ぎ去った夏が作り出した あの透き通ったあなたを思い出した
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+焼けた海岸線、割れた蛍光灯、汗ばんだ掌
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+過ぎ去った夏が作り出した ぶっきらぼうな夜を少し恥じた
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あなたへの想い、声、恋、遠い距離が重なって重なって
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+錆びついていたあの日乗り捨てた白い自転車
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+漕がなくなった分、背負うものも減ったジレンマ
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+過ぎ去った夏が作り出した あの透き通ったあなたを思い出した
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+焦げたチョコマフィン、溶けた銃口、モノクロのリタ・ヘイワース
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+過ぎ去った夏が作り出した ぶっきらぼうな夜を少し恥じた
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あなたへの想い、声、恋、遠い距離が重なって重なって
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+雨上がり蒸し返す空気、蝉の鳴き声
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+汗をかいた瓶サイダー、それとあなたの
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+過ぎ去った夏が作り出した あの透き通った肌を思い出した
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+泣けた海岸線、開けた心臓、繋がっていた点と点
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+過ぎ去った夏が作り出した ぶっきらぼうな夜を少し恥じた
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あなたへの遠い遠い遠い遠い距離が重なって重なって
+</div>
+</div>
+
+</div>
+
+
 
 ## 出典
 

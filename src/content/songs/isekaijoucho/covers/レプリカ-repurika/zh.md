@@ -22,7 +22,136 @@ image: /images/albums/isekaijoucho/candy-live.jpg
 
 ## 歌词
 
-## 来源
+{{lyrics-controls::ja}}
 
-- [官方作品目录](https://kamitsubaki.jp/discography/isekaijoucho/382/)
-- [VGMdb ヰ世界情緒](https://vgmdb.net/artist/53599)
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ひとしずく落ちた 水の感触
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+僕は泣いているのか 何をなくしたかわからないのに
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+それはもう二度と戻らない そんな気がするだけ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+人類の失敗は望んだこと つきまとう影に立ち向かう力を
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+武器を向けたその標的が 鏡に映った自分だなんて気づきもしなかった
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+にじんでる歩道橋のらくがき 置いてかれた自転車
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+誰かの帰りを待ってる
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+認めて ただ存在を
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+僕こそがオリジナル あるいはそのレプリカ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+僕らの証明はどこにある
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+人類の欠点は 見えもしないくせに 愛とか絆とか信じられること
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+僕の罪はうたがったこと 差し伸べられた君の右手 初めて見たヒカリ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ぶつかり 交わり 僕らは進化する
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+殻を打ち破る音を 唯一無二の産声を
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+さあ、響け
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+すべて終わるさいごの時に 僕は何を知り 誰を思うのだろう
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+選択肢はきっと何万通りもあって
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+でも欲しいのは 選べるのは たったひとつ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+人類の欠点は 見えもしないくせに 愛とか絆とか信じられること
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+僕の罪はためらったこと 差し伸べられた君の右手 初めて見たヒカリ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+僕らは
+</div>
+</div>
+
+</div>
+
+

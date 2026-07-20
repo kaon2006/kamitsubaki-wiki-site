@@ -27,8 +27,198 @@ bliss appears on prayer or a related official release. Entries are version-speci
 
 ## Lyrics
 
-## Sources
+{{lyrics-controls::ja}}
 
-- [Official discography](https://kamitsubaki.jp/disco_category/koko/)
-- [Apple Music](https://music.apple.com/jp/album/bliss/1688671440?i=1688671607&uo=4)
-- [VGMdb KOKO](https://vgmdb.net/artist/53600)
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+The overlapping hearts are in me
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+The thin raindrops are like tears
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+I still remember the feeling
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+He held hands even in the dark
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+If you have wings, please come back to me
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+To the world of sleep
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+The sound of destruction is roaring to plain
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+The priests are lining up in mourning
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Wishing to see you again, cry
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Atonement aria echoes in the cathedral
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+The crescent moon turned off the light
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Just looking at the lunar eclipse
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Every time I was lonely, I wanted you
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+My heart was in pain
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+You gave me the lost temperature
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+You knew the answer to love
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+If you have wings, please come back to me
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+To the world of song
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+The bridge of light is coming down from the sky
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+The priests are singing prayer songs
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+To me, this world looks cruel and beautiful
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Yeah, I was hoping for the truth
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+What I wanted to love was the connection
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Just looking at the lunar eclipse
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+I want to change the world with this song
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Even if wishing for happiness is a sin
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+To me, this world looks cruel and beautiful
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Atonement aria echoes in the cathedral
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+The crescent moon turned off the light
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Just looking at the lunar eclipse
+</div>
+</div>
+
+</div>
+
+

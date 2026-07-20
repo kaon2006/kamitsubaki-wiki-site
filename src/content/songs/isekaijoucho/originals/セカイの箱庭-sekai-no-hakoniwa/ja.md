@@ -27,6 +27,214 @@ image: /images/songs/isekaijoucho/single-1757778011.jpg
 
 ## 歌詞
 
+{{lyrics-controls::ja}}
+
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+雨を花達へ 渇きを満たしましょう
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+愛しさを捧げる
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+誰も踏み込めない 私の箱庭で世界を彩る
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+花と風に揺れ ワルツを踊りましょう
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+喜びを奏でる
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+誰も邪魔できない 私の箱庭だ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+孤独に枯れてく
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+何処か気付かぬ振りしてた 最果てなど此処には無いと
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+孤独など慣れた筈なのにな
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+「寂しいよ」
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+私だけのこの世界で 何を希望にして生きればいい
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+穢れなどない 綺麗過ぎた世界
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+箱庭で
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+空も偽物ね 光を探しましょう
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+温もりを求める
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+誰も見つけられない 孤独の箱庭だ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+世界は残酷ね
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+何処か出口がある筈と 信じて私は歩くの
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+箱庭の世界は息苦しい
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+偽纏う
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+この世界に感情はあるのか
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+花と私 綺麗な檻
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+この孤独に終わりは来るのか
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+偽りの空を見てる
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+私だけのこの世界は あまりにも静寂な檻ね
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+自由を偽る 不自由な世界なの
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+嗚呼
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+私だけのこの世界で 何を希望にして生きればいい
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+穢れなどない 綺麗過ぎた世界
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+箱庭で
+</div>
+</div>
+
+</div>
+
+
+
 ## 出典
 
 - [公式ディスコグラフィー](https://kamitsubaki.jp/disco_category/isekaijoucho/)

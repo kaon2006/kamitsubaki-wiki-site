@@ -27,6 +27,284 @@ image: /images/albums/isekaijoucho/candy-live-2.jpg
 
 ## 歌詞
 
+{{lyrics-controls::ja}}
+
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+とべ、起こせ！ 願うは事故
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+一世一代さあ何賭とす？ 自問自答
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+勝つか負けるか ドローなんてないわ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+幕開けるわ
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+カッチンして ラッキーマニー どっちもむりー...（Cigar Cigar）
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+引けるか否か
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+自分次第だな
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+余裕で！ 振り切り全BETだぜいイェイ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+そこどけ！ そうこのエースかっさらうのはアタシだ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Stay もういい 勝ったなら平常心
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ねプレイボーイ行け
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Don't get in my way じゃあね黙って
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ワンツースリー ワンツースリー ワンツースリー
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Sit down, Sit down
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ワンツースリー ワンツースリー ワンツースリー
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+はーもうフリーズキメてや
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+投げるのは賽さ？ 才さい？ か匙か？
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+そんな小さい尺さしじゃはかれない
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+でしょう そうでしょう セイ・グッド・バイ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あっちこっちそっちどっち？ nothing,nothing病む
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+道なき道より 闇々やみやみ嫌
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+空回りしそう でもまだ止めないで
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あーのまれそう 声々、それぞれに
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Get one's way!
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+アンタはここまで
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+後ろだけ見とけ
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+カッチンして ラッキーマニー どっちもむりー！（Cigar Cigar）
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+引けるか否か
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+自分次第だな
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+余裕で！ 振り切り全BETだぜいイェイ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+そこどけ！ そうこのエースかっさらうのはアタシだ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Stay もういい 勝ったなら平常心
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ねプレイボーイ行け
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Don't get in my way じゃあね黙って
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ワンツースリー ワンツースリー ワンツースリー
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Sit down, Sit down
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ワンツースリー ワンツースリー ワンツースリー
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+まさかの倍倍
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ワンツースリー ワンツースリー ワンツースリー
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Sit down, Sit down
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ワンツースリー ワンツースリー ワンツースリー
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Sit down, Sit down
+</div>
+</div>
+
+</div>
+
+
+
 ## 出典
 
 - [公式ディスコグラフィー](https://kamitsubaki.jp/disco_category/isekaijoucho/)

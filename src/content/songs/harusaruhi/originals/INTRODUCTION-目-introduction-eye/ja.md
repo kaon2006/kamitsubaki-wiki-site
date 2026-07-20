@@ -15,6 +15,7 @@ categoryOrder: 10
 itemOrder: 116
 code: "apple-1688156579"
 image: /images/albums/harusaruhi/shingan.jpg
+contentStatus: stub
 ---
 
 ## 作品概要

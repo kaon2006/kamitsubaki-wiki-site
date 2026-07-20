@@ -27,8 +27,140 @@ image: /images/songs/koko/single-1800089804.jpg
 
 ## Lyrics
 
-## Sources
+{{lyrics-controls::ja}}
 
-- [Official discography](https://kamitsubaki.jp/disco_category/koko/)
-- [Apple Music](https://music.apple.com/jp/album/%E7%99%BD%E6%98%BC%E5%A4%A2-massive-new-krew-remix-feat-koko/1800089804?i=1800089805&uo=4)
-- [VGMdb KOKO](https://vgmdb.net/artist/53600)
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+春の日だまり
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+窓から 庭にでてみると
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ビルのてっぺんまでが 菜の花畑
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+桃いろの 巨大な蝶が
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+海の方まで 飛んでいったが
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+誰も笑うものは なかった
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+虫けらどもの 舞踏会
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+琉拍いろの 光にあふれ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+少年達は 西の空へと
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+昇天する菜の花畑
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+昇天する菜の花畑
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+虫けらどもの 舞踏会
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+琉拍いろの 光にあふれ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+少年達は 西の空へと
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+昇天する菜の花畑
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+昇天する菜の花畑
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+昇天する菜の花畑
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+昇天する菜の花畑
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+昇天する菜の花畑
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+昇天する菜の花畑
+</div>
+</div>
+
+</div>
+
+

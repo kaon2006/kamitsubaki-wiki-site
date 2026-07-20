@@ -27,7 +27,275 @@ image: /images/albums/kaf/maho-gamma.jpg
 
 ## 歌詞
 
-当サイトでは許諾を確認できない歌詞全文を転載しません。公式動画の説明欄または正規配信サービスの歌詞機能を参照してください。寄稿許諾をお持ちの場合は歌詞フォーマットガイドに沿って追加できます。
+{{lyrics-controls::ja}}
+
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+もっと弾けようぜ 暴れようぜ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+実にクールにさ
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+きっと戻れないぜ 止まれないぜ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+がむしゃらにエスコート
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+待ち望んでた世界はいつだって危険だらけだ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+覚醒するなら今しかないだろう？
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+周りなんか気にしないさ
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+すれ違う視線の誰もが気づいてんだ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+今じゃもうアンチな自分がお題目さ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+だからこそこの手ならきっと届くだろう
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+負けられないあいつには
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+蠢く情熱が僕に言うんだ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+どうしてここがいいんだろうな？
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+アブノーマルな日常
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+待ち望んでた世界はいつだって不安だらけだ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+困難が待ちきれないって顔してる
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+はち切れんばかりに嘲笑
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+哀れだって言うのかい？
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+無様だって言うのかい？
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+まあいいさそんなの気にしてられないや
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+差別なんて弱い奴がするもんだ
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+守りたいものがあるのさ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+揺れ出す心臓を鷲掴むんだ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あいつも僕が守るんだ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+アブノーマルな日常
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+自分だけ違うとかどうでもいいだろ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+大切なのは素直でいること
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+何一つ失うものか
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+諦めてたまるものか
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Come on, come on, come on, baby!
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+負けられないあいつには
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+蠢く情熱が僕に言うんだ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+どうしてここがいいんだろうな？
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+アブノーマルな日常
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+後悔なんてしてないぜ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+負けられないあいつには
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+諦めるのは今じゃないぜ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+収まらない鼓動が言うんだ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+立ち止まるのはまだ早いぜ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+場違いなら笑ってこうぜ
+</div>
+</div>
+
+</div>
+
+
 
 ## 出典
 

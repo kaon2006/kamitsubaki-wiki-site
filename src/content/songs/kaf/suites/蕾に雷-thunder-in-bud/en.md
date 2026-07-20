@@ -28,7 +28,205 @@ image: /images/songs/kaf/track-1689187557.jpg
 
 ## Lyrics
 
-This wiki does not reproduce full lyrics without confirmed permission. Consult the official video description or the licensed streaming service’s lyric feature; editors with contribution permission may add text using the lyric-format guide.
+{{lyrics-controls::ja}}
+
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+(Five, six)
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+木だけのものじゃないから 避雷針は
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+肺をくらやみに馴染ませ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+思い出すの 舞台
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+プレートリバーブの空が胸骨を満たす 僕は
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+減る、減ろう
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+髪から なまえが憑いたときから
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+爪ゆく 雷のほうに見惚れて
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+僕は恋をしている 筈で
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+血の中には何もなくていい 筈で
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+電より早いものがある 筈で
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+僕が恣に呪って確かめる 筈で
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+(雷蕾雷蕾雷蕾雷蕾)
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+誰かいるのは分かってた筈 なら
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+向うを照らしてほしい ね
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+こどものころに観たホラー映画の
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+電気が未だ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+(Five, six)
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+(木だけのものじゃないから わたしたちは)
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+(龍の稜線から はみ出し 踊り出した額)
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+(病みばなの歯たちが齧る草木を)
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+(ひらく 僕が)
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+光と 細い肌のびりがずれてきて
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+雷を枯らすときまで
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+僕は恋をしている 筈で
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+髪は少しも動かせない 筈で
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+爪達は少しも騒ぎ出さない 筈で
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+僕は薄い暗闇しか分からない 筈で
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+(Five, six)
+</div>
+</div>
+
+</div>
+
+
 
 ## Sources
 

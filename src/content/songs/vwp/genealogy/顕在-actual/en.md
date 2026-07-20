@@ -20,6 +20,7 @@ categoryOrder: 30
 itemOrder: 408
 code: "apple-1735849457"
 image: /images/albums/vwp/awakening.jpg
+contentStatus: stub
 ---
 
 ## Overview

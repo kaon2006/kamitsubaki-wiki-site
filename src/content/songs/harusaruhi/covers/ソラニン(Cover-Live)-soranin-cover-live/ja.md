@@ -27,8 +27,154 @@ image: /images/albums/harusaruhi/cream-puff-live-4.jpg
 
 ## 歌詞
 
-## 出典
+{{lyrics-controls::ja}}
 
-- [公式ディスコグラフィー](https://kamitsubaki.jp/disco_category/harusaruhi/)
-- [Apple Music](https://music.apple.com/jp/album/%E3%82%BD%E3%83%A9%E3%83%8B%E3%83%B3-cover-live/1833427142?i=1833427307&uo=4)
-- [VGMdb 春猿火](https://vgmdb.net/artist/48426)
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+思い違いは空のかなた
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+さよならだけの人生か
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ほんの少しの未来は見えたのに
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+さよならなんだ
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+昔 住んでた小さな部屋は
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+今は他人が住んでんだ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+君に言われた ひどい言葉も
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+無駄な気がした毎日も
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あの時こうしてれば あの日に戻れれば
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あの頃の僕にはもう 戻れないよ
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+たとえばゆるい幸せがだらっと続いたとする
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+きっと悪い種が芽を出して
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+もう さよならなんだ
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+寒い冬の冷えた缶コーヒーと
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+虹色の長いマフラーと
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+小走りで路地裏を抜けて思い出してみる
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+たとえばゆるい幸せがだらっと続いたとする
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+きっと悪い種が芽を出して
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+もう さよならなんだ
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+さよなら それもいいさ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+どこかで元気でやれよ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+僕もどーにかやるさそうするよ
+</div>
+</div>
+
+</div>
+
+

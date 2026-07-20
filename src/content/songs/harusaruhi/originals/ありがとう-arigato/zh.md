@@ -27,8 +27,110 @@ image: /images/albums/harusaruhi/spice-of-life.jpg
 
 ## 歌词
 
-## 来源
+{{lyrics-controls::ja}}
 
-- [官方作品目录](https://kamitsubaki.jp/disco_category/harusaruhi/)
-- [Apple Music](https://music.apple.com/jp/album/%E3%81%82%E3%82%8A%E3%81%8B-%E3%81%A8%E3%81%86/1866810856?i=1866811150&uo=4)
-- [VGMdb 春猿火](https://vgmdb.net/artist/48426)
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+yeah
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+さみしい夜に差し込む光
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+重たい鎧おろして座り
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+画面に埋まる愛の言葉に
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+今日も心が救われてく
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+I don’t know about you
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+なのに心通じ合う
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+見つけてくれてありがとう
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+You know, I sing because of you
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+I’m here because of you
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+だから今歌えるの
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+You know, I sing because of you
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+君がそばにいる
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ひとりじゃないから
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+sing because of you
+</div>
+</div>
+
+<br />
+
+</div>
+
+

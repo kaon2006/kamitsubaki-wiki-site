@@ -27,8 +27,300 @@ image: /images/albums/harusaruhi/spice-of-life.jpg
 
 ## 歌词
 
-## 来源
+{{lyrics-controls::ja}}
 
-- [官方作品目录](https://kamitsubaki.jp/disco_category/harusaruhi/)
-- [Apple Music](https://music.apple.com/jp/album/%E6%B0%97%E3%81%8C%E7%8B%82%E3%81%84%E3%81%9D%E3%81%86/1866810856?i=1866810860&uo=4)
-- [VGMdb 春猿火](https://vgmdb.net/artist/48426)
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あー  まじでクレイジー
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+目まぐるしいな気づけば0時
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ぱーっとしない心レイニー
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+追われるタスク失う精気
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あー  なにもうまくいかねー
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+重荷になった「もっと頑張れ」
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あー 顔に出てる疲れ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+頭によぎる嫌な考え
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+もう劣等感 劣等感 劣等感
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+メンタルbreak down, break down, break down
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+まじ寝とらん寝とらんから
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+元気でないじゃん
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+今日は休み
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+It’s OK, It’s OK 今日はbad day
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+いつかくる心に晴れ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+It’s OK, It’s OK 今日はbad day
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ダメな日はダメでもOK
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+It’s OK, It’s OK, It’s OK
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+It’s OK, It’s OK 今日はbad day
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+It’s OK, It’s OK, It’s OK
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+It’s OK, It’s OK 今日はbad day
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+It’s OK 今日はbad day
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+刻々迫る やることリスト
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+後でやるは未来の自分へのリスク
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+心臓はドクドク 後悔するいつも
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+宿題ためる習性は一生
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+もう寝なきゃね0時
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+スクロールして現実逃避
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ぼーっと気付けば寝息立てて
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+朝に失う正気
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+もう劣等感 劣等感 劣等感
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+メンタルbreak down, break down, break down
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+まじ終わらん終わらんわ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+もう投げ出して
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+今日も休み！
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+It’s OK, It’s OK 今日はbad day
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+いつかくる心に晴れ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+It’s OK, It’s OK 今日はbad day
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ダメな日はダメでもOK
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+It’s OK, It’s OK, It’s OK
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+It’s OK, It’s OK 今日はbad day
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+It’s OK, It’s OK, It’s OK
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+It’s OK, It’s OK 今日はbad day
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+It’s OK, It’s OK, It’s OK
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+It’s OK, It’s OK 今日はbad day
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+It’s OK, It’s OK, It’s OK
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+It’s OK, It’s OK 今日はbad day
+</div>
+</div>
+
+<br />
+
+<br />
+
+</div>
+
+

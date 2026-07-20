@@ -23,7 +23,196 @@ image: /images/albums/rim/chocolate-live.jpg
 
 ## 歌詞
 
-## 出典
+{{lyrics-controls::ja}}
 
-- [公式ディスコグラフィー](https://kamitsubaki.jp/discography/rim/379/)
-- [VGMdb 理芽](https://vgmdb.net/artist/53598)
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+DADALADALADIDA
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+DADADIDALA
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+AH AH
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+食べなくちゃ 食べなくちゃ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+嫌なこと 忘れさせて？
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+いかないで、ねえいかないで？
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+君の体温と、心臓
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+アイ アイ アイラブユーと
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+アイ アイ アイヘイチュー
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+君のすべてが
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あたしならいいのに
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+満たされない、満たされない
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+満たされない、のは、フィーリング、
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+愛されたい、愛されたい
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+愛されたいのは機密事項！
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+吐かなくちゃ もう吐かなくちゃ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+さめざめ泣いても終電だ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+可愛くない、可愛くない
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+可愛くないから、消えたい？
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+現在開発中の
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+アンケート調査ツール
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+「あたしのすべてが
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あの子ならいいのに」
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+満たされない、満たされない
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+満たされない、のは、フィーリング、
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+理解されない、理解されたい
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+理解されないのは地球規模
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+満たされたい、満たされたい
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+満たされない、から、嫌い
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+愛されたい、愛されたい
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+愛されたいのは地球規模！
+</div>
+</div>
+
+</div>
+
+

@@ -22,7 +22,70 @@ image: /images/albums/harusaruhi/cream-puff-live.jpg
 
 ## 歌詞
 
-## 出典
+{{lyrics-controls::ja}}
 
-- [公式ディスコグラフィー](https://kamitsubaki.jp/discography/harusaruhi/378/)
-- [VGMdb 春猿火](https://vgmdb.net/artist/48426)
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Ere mela mela mela mela mela mela
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Ere mela mela mela mela mela mela
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Ere mela mela mela mela mela mela
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Ere mela mela mela mela
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Ere mela belu chela atbelu
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Bekerbet yemiyawukut sew agenagnun
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Slesu fikiren yemteykew alegn
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Mela mela sewoch hulu mela mela mela belu mela mela sewoch huluu mela mela
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Chela atbelu mela mela
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Sewoch hulu mela mela mela belu sewoch hulu mela belugn
+</div>
+</div>
+
+</div>
+
+

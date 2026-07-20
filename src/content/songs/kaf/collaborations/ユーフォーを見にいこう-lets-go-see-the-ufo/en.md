@@ -28,7 +28,169 @@ image: /images/songs/kaf/track-1848786354.jpg
 
 ## Lyrics
 
-This wiki does not reproduce full lyrics without confirmed permission. Consult the official video description or the licensed streaming service’s lyric feature; editors with contribution permission may add text using the lyric-format guide.
+{{lyrics-controls::ja}}
+
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+灰になったままの古い校舎跡
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+情熱から火が立っちまった
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+繋いだフリしてすぐに離すような
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ドキドキなら今も嫌いさ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あーあ、滅茶苦茶に踊れたらなぁ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+高架の下でずっと内緒にしてた
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+秘密基地を忘れちまった
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+大事なことは今もなんとなくあるけど
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+生活から溢れていった
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あーあ、破茶滅茶に腕を振ったんなら
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+空も、灯りも、ビルの窓も
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+全部まっくろに染まれば
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+僕らだけになれば
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+今だけここでは
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+何をしてもいいよ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+それでも
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+どこへも行けずにいたんだ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ずっと鳴っている鉄を揺らす音が
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+エレキの船に乗っかって
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+どこまでもぼくら
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あーあ、ふざけた踊りのまんまで
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あーあ、めためたになみだ流せたんなら
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+誰もいないのは少し寂しいから
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+なんか唐突に言うけどUFOを見に行こう
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+キラキラ光ってる船が飛ぶなら
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+少しはマシでしょう？
+</div>
+</div>
+
+</div>
+
+
 
 ## Sources
 

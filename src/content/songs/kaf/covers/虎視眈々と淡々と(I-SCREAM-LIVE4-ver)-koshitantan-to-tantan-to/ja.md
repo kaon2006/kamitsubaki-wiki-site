@@ -25,7 +25,169 @@ image: /images/albums/kaf/i-scream-live-4.jpg
 
 ## 歌詞
 
-当サイトでは許諾を確認できない歌詞全文を転載しません。公式動画の説明欄または正規配信サービスの歌詞機能を参照してください。寄稿許諾をお持ちの場合は歌詞フォーマットガイドに沿って追加できます。
+{{lyrics-controls::ja}}
+
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+におい 形 味 色
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+温度 重さ 時間 場所
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+英語 社会 理科 図工
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+音楽 国語 放課後
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+まぜて けんけんぱ 転んだ いっせーの
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+はないちもんめ だあれ？ 鬼さんこちら
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+君の中には小さなピカソが住んでいるんだろ？
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+頭の中をはしゃいで無邪気に遊んでいるんだろ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+君の中には小さなピカソが住んでいるんだろ？
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+暗くて怖い夜道も遊びに変えてしまうんだろ？
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+怒る 笑う 泣く 寝る
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+がまん はずむ よろこぶ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+砂場 レンガ ブランコ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+シーソー とんぼ 自転車
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+まぜて けんけんぱ 転んだ いっせーの
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+はないちもんめ だあれ？ 鬼さんこちら
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+君の中には小さなピカソが住んでいるんだろ？
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+時間の中を泳いで上手に進んで行くんだよ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+君の中には小さなピカソが住んでいるんだろ？
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ズルくて怖い夜道も笑いとばして行くんだよ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+君の中には小さなピカソが住んでいるんだろ？
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+時間の中を泳いで上手に進んで行くんだよ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+君の中には小さなピカソが住んでいるんだろ？
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ズルくて怖い夜道も笑いとばして行くんだよ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+僕の中にも小さなピカソが住んでいるんだよ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+劇薬のような毎日を本当は望んでいるんだよ
+</div>
+</div>
+
+</div>
+
+
 
 ## 出典
 

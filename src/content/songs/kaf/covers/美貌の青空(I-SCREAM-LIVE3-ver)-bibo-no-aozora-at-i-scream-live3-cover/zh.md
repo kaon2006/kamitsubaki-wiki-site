@@ -25,6 +25,162 @@ image: /images/albums/kaf/i-scream-live-3.jpg
 
 ## 歌词
 
-## 来源
+{{lyrics-controls::ja}}
 
-- [Apple Music](https://music.apple.com/jp/album/%E7%BE%8E%E8%B2%8C%E3%81%AE%E9%9D%92%E7%A9%BA-at-i-scream-live3-cover/1774457837?i=1774458084&uo=4)
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+眼差しの不実さと
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+気高さに溺れていた
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+狂おしい夏だった
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+青空も 声も
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+小さな死のように
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+これ以上愛さない
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+禁じる愛おしさで
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+瞳は 傷口と知る魂の
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+別々の惑星に
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+僕たちは棲む双生児さ
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+野獣の優雅さで
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+沈黙を舌で味わう
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+罌粟のように
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+切なさで胸を傷めながら
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+君の 可憐な 喉笛から
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あふれ出した 虹の涯は
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+美貌の青空
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+狂おしい夏だった
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+手に触れる すべて
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+欠片の死のように
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+君の血が透き通る
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+野蛮な 瞳 見ては
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+途方に暮れる 真夏の楽園
+</div>
+</div>
+
+</div>
+
+

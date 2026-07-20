@@ -28,7 +28,269 @@ image: /images/songs/kaf/track-1689187750.jpg
 
 ## 歌詞
 
-当サイトでは許諾を確認できない歌詞全文を転載しません。公式動画の説明欄または正規配信サービスの歌詞機能を参照してください。寄稿許諾をお持ちの場合は歌詞フォーマットガイドに沿って追加できます。
+{{lyrics-controls::ja}}
+
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+果たして this is 呪いなの？
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+喘ぐノスタルジー もどかしい
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+焼きつく eye の裏側に囚われた
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+僕のハート
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+放課後 maybe 目が合えば
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+跳ねるメロディ 苦しい
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+記憶は 今日も
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+鮮明に君を描いていくよ
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+埃まみれのまま生きている化石みたい
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+リセットして出会えたら
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+群青の日々に
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+メーデー 目舞う青さにリマインド
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+巣食らう午後
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ねぇ ねぇ 眠る間際に会おう
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+銘々 巡る涙は 星になり 流れるだろう
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+君を忘れるまで
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+流線形のように 流線形のように
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+透明な牢獄 回らない時計
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+チグハグな心と身体が
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+乖離して行く 糸を引いて行く
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+いつまででも どこまででも
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+届かない ワン ツー 空回る
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+人生そんなばっか
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+残り香ジャーニー
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+もう一度 あの色に戻れたならって
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+埃まみれのまま生きている化石みたい
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+リセットして出会えたら
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+群青の君に
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+メーデー 眩暈 焦燥
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+グラインド 膨らむ齟齬
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ねぇ ねぇ 願う夜を越えて
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+銘々 巡る涙は 星になり 流れるだろう
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+君を忘れるまで
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+流線形のように
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+メーデー 目舞う青さにリマインド
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+巣食らう午後
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ねぇ ねぇ 夢見だって会えたら
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+銘々 巡る涙は 星になり 輝くだろう
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+君を忘れるまで
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+流線形のように 流線形のように
+</div>
+</div>
+
+</div>
+
+
 
 ## 出典
 

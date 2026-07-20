@@ -28,7 +28,251 @@ image: /images/albums/kaf/i-scream-live-2.jpg
 
 ## 歌詞
 
-当サイトでは許諾を確認できない歌詞全文を転載しません。公式動画の説明欄または正規配信サービスの歌詞機能を参照してください。寄稿許諾をお持ちの場合は歌詞フォーマットガイドに沿って追加できます。
+{{lyrics-controls::ja}}
+
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あんまりそわそわしないで
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あなたはいつでもキョロキョロ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+よそ見をするのはやめてよ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+私が誰よりいちばん
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+好きよ 好きよ 好きよ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+好きよ 好きよ 好きよ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+好きよ 好きよ 好きよ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+好きよ 好きよ 好きよ
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+星達が輝く夜ふけ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+夢見るの あなたの全て
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+愛しても あなたは知らんぷりで
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+今ごろは誰かに夢中
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あぁ 男の人って
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+いくつも愛を持っているのね
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あぁ あちこちにバラまいて
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+私を悩ませるわ
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あんまりソワソワしないで
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あなたはいつでもキョロキョロ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+よそ見をするのはやめてよ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+私が誰よりいちばん
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あぁ 男の人って
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+何人 好きな人がほしいの
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あぁ 私だけ愛してよ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+いつでも一人だけを
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あぁ 男の人って
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+いくつも愛を持っているのね
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あぁ あちこちにバラまいて
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+私を悩ませるわ
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あんまりソワソワしないで
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あなたはいつでもキョロキョロ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+よそ見をするのはやめてよ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+私が誰よりいちばん
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+私がいつでもいちばん
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あなたの全てが
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+好きよ 好きよ 好きよ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+好きよ 好きよ 好きよ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+いちばん好きよ
+</div>
+</div>
+
+</div>
+
+
 
 ## 出典
 

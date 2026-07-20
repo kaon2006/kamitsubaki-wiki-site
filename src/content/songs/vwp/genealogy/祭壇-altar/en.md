@@ -37,167 +37,195 @@ image: /images/songs/vwp/single-1700373014.jpg
 
 ## Lyrics
 
-The translations currently provided are AI-generated placeholders. If you can provide a better translation, please submit a pull request to the site's GitHub repository.
-
-{{lyrics-controls::en}}
+{{lyrics-controls::ja}}
 
 <div class="my-lyric-box">
 
 <div class="lyric-line">
 <div class="jp-lyric">
-<ruby>何<rt class="furi">なに</rt><rt class="roma">nani</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>現実<rt class="furi">げんじつ</rt><rt class="roma">genjitsu</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby><ruby>とか<rt class="roma">toka</rt></ruby>
+何が現実だとか
 </div>
-<div class="trans-lyric">What is reality?</div>
-</div>
-
-<div class="lyric-line">
-<div class="jp-lyric">
-<ruby>何<rt class="furi">なに</rt><rt class="roma">nani</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>幻<rt class="furi">まぼろし</rt><rt class="roma">maboroshi</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby><ruby>とか<rt class="roma">toka</rt></ruby>
-</div>
-<div class="trans-lyric">What is an illusion?</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-<ruby>もう<rt class="roma">mou</rt></ruby><ruby>どう<rt class="roma">dou</rt></ruby><ruby>でも<rt class="roma">demo</rt></ruby><ruby>いい<rt class="roma">ii</rt></ruby><ruby>じゃ<rt class="roma">ja</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby>
+何が幻だとか
 </div>
-<div class="trans-lyric">Does it even matter anymore?</div>
-</div>
-
-<div class="lyric-line">
-<div class="jp-lyric">
-<ruby>私<rt class="furi">わたし</rt><rt class="roma">watashi</rt></ruby><ruby>たち<rt class="roma">tachi</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>ここ<rt class="roma">koko</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>いる<rt class="roma">iru</rt></ruby>
-</div>
-<div class="trans-lyric">We are right here</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-<ruby>画面<rt class="furi">がめん</rt><rt class="roma">gamen</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>裏側<rt class="furi">うらがわ</rt><rt class="roma">uragawa</rt></ruby><ruby>で<rt class="roma">de</rt></ruby>
+もうどうでもいいじゃないか
 </div>
-<div class="trans-lyric">Behind the screen</div>
-</div>
-
-<div class="lyric-line">
-<div class="jp-lyric">
-<ruby>私<rt class="furi">わたし</rt><rt class="roma">watashi</rt></ruby><ruby>たち<rt class="roma">tachi</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>繋<rt class="furi">つな</rt><rt class="roma">tsuna</rt></ruby><ruby>がり<rt class="roma">gari</rt></ruby><ruby>続<rt class="furi">つづ</rt><rt class="roma">tsuzu</rt></ruby><ruby>ける<rt class="roma">keru</rt></ruby>
-</div>
-<div class="trans-lyric">We remain connected</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-<ruby>魂<rt class="furi">たましい</rt><rt class="roma">tamashii</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>記号<rt class="furi">きごう</rt><rt class="roma">kigou</rt></ruby><ruby>でも<rt class="roma">demo</rt></ruby>
+私たちはここにいる
 </div>
-<div class="trans-lyric">Even if the soul is only a symbol</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+画面の裏側で
+</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-<ruby>感情<rt class="furi">かんじょう</rt><rt class="roma">kanjou</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>螺旋<rt class="furi">らせん</rt><rt class="roma">rasen</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>ように<rt class="roma">youni</rt></ruby>
+私たちは繋がり続ける
 </div>
-<div class="trans-lyric">Emotions, like a spiral</div>
-</div>
-
-<div class="lyric-line">
-<div class="jp-lyric">
-<ruby>ここ<rt class="roma">koko</rt></ruby><ruby>には<rt class="roma">niwa</rt></ruby><ruby>誰<rt class="furi">だれ</rt><rt class="roma">dare</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>笑顔<rt class="furi">えがお</rt><rt class="roma">egao</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby>
-</div>
-<div class="trans-lyric">Here, someone's smile</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-<ruby>誰<rt class="furi">だれ</rt><rt class="roma">dare</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>涙<rt class="furi">なみだ</rt><rt class="roma">namida</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby>
+魂が記号でも
 </div>
-<div class="trans-lyric">Someone's tears</div>
-</div>
-
-<div class="lyric-line">
-<div class="jp-lyric">
-<ruby>混<rt class="furi">ま</rt><rt class="roma">ma</rt></ruby><ruby>ざって<rt class="roma">zatte</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>解<rt class="furi">ほど</rt><rt class="roma">hodo</rt></ruby><ruby>けて<rt class="roma">kete</rt></ruby>
-</div>
-<div class="trans-lyric">Mingle, then unravel</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-<ruby>流<rt class="furi">なが</rt><rt class="roma">naga</rt></ruby><ruby>れて<rt class="roma">rete</rt></ruby>
+感情は螺旋のように
 </div>
-<div class="trans-lyric">Flowing on</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ここには誰かの笑顔が
+</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-<ruby>散<rt class="furi">ち</rt><rt class="roma">chi</rt></ruby><ruby>り<rt class="roma">ri</rt></ruby><ruby>ゆく<rt class="roma">yuku</rt></ruby>
+誰かの涙が混ざっては
 </div>
-<div class="trans-lyric">Scattering away</div>
-</div>
-
-<div class="lyric-line">
-<div class="jp-lyric">
-<ruby>ここ<rt class="roma">koko</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>願<rt class="furi">ねが</rt><rt class="roma">nega</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>魂<rt class="furi">たましい</rt><rt class="roma">tamashii</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>まま<rt class="roma">mama</rt></ruby><ruby>繋<rt class="furi">つな</rt><rt class="roma">tsuna</rt></ruby><ruby>がる<rt class="roma">garu</rt></ruby>
-</div>
-<div class="trans-lyric">Here, wishes connect with no souls of their own</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-<ruby>離<rt class="furi">はな</rt><rt class="roma">hana</rt></ruby><ruby>さないで<rt class="roma">sanaide</rt></ruby>
+解けて流れて散りゆく
 </div>
-<div class="trans-lyric">Don't let go</div>
-</div>
-
-<div class="lyric-line">
-<div class="jp-lyric">
-<ruby>電波<rt class="furi">でんぱ</rt><rt class="roma">denpa</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>海<rt class="furi">うみ</rt><rt class="roma">umi</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>あなた<rt class="roma">anata</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>抱<rt class="furi">だ</rt><rt class="roma">da</rt></ruby><ruby>きしめる<rt class="roma">kishimeru</rt></ruby>
-</div>
-<div class="trans-lyric">A sea of radio waves embraces you</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-<ruby>恐<rt class="furi">おそ</rt><rt class="roma">oso</rt></ruby><ruby>れる<rt class="roma">reru</rt></ruby><ruby>こと<rt class="roma">koto</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>よ<rt class="roma">yo</rt></ruby>
+ここでは願いが魂がないまま繋がる
 </div>
-<div class="trans-lyric">There's nothing to fear</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+離さないで
+</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-<ruby>あなた<rt class="roma">anata</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>涙<rt class="furi">なみだ</rt><rt class="roma">namida</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>意味<rt class="furi">いみ</rt><rt class="roma">imi</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>もたらした<rt class="roma">motarashita</rt></ruby>
+電波の海があなたを抱きしめる
 </div>
-<div class="trans-lyric">Your tears gave it meaning</div>
-</div>
-
-<div class="lyric-line">
-<div class="jp-lyric">
-<ruby>何<rt class="furi">なに</rt><rt class="roma">nani</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>現実<rt class="furi">げんじつ</rt><rt class="roma">genjitsu</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby><ruby>とか<rt class="roma">toka</rt></ruby>
-</div>
-<div class="trans-lyric">What is reality?</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-<ruby>何<rt class="furi">なに</rt><rt class="roma">nani</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>幻<rt class="furi">まぼろし</rt><rt class="roma">maboroshi</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby><ruby>とか<rt class="roma">toka</rt></ruby>
+恐れることはないよ
 </div>
-<div class="trans-lyric">What is an illusion?</div>
-</div>
-
-<div class="lyric-line">
-<div class="jp-lyric">
-<ruby>もう<rt class="roma">mou</rt></ruby><ruby>どう<rt class="roma">dou</rt></ruby><ruby>でも<rt class="roma">demo</rt></ruby><ruby>いい<rt class="roma">ii</rt></ruby><ruby>じゃ<rt class="roma">ja</rt></ruby><ruby>ない<rt class="roma">nai</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby>
-</div>
-<div class="trans-lyric">Does it even matter anymore?</div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-<ruby>私<rt class="furi">わたし</rt><rt class="roma">watashi</rt></ruby><ruby>たち<rt class="roma">tachi</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>ここ<rt class="roma">koko</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>いる<rt class="roma">iru</rt></ruby>
+あなたの涙が意味をもたらした
 </div>
-<div class="trans-lyric">We are right here</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+この景色が新時代の幕開け
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ここでは誰かの心が叫びが
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+混ざっては解けては
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+描かれ先ゆく
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ここでは誰かの心が魂がないから繋がる
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+この景色が新時代の証明
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+吐き出すナイフが電子に変わって
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+誰かの目に耳に心に突き刺さる
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+私たちはここにいる
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+神様はどこにだっている
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+電脳の祭壇であなたの全てが変化が時代が
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+私たちと繋がる
+</div>
 </div>
 
 </div>
+
+
 
 ## Sources
 

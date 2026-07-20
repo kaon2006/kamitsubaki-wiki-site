@@ -28,7 +28,143 @@ image: /images/albums/kaf/i-scream-live.jpg
 
 ## Lyrics
 
-This wiki does not reproduce full lyrics without confirmed permission. Consult the official video description or the licensed streaming service’s lyric feature; editors with contribution permission may add text using the lyric-format guide.
+{{lyrics-controls::ja}}
+
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+また月が昇る 今日が終わりだす
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+願い奏でる 言葉をのみこむ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Friday Night 泣きだす 君はまだ大丈夫
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+駆け出せ足音 明日を変えたい
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Ah なら なら
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+まだ まだ まだ
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+また夜空一周に 満たして欠いて流れる
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+時を眺める だけじゃ笑えない
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+回る空うさぎ 君と明日はイコール
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+まけるな明日に 背を向けたくない
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Ah から から
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+いま から から
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+遥か月を目指した Ah 今日の空は
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+彼方 西に流れた もう届かないや
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Ah 届かないや
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+涙 星を濡らした Ah 今日の空は
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+彼方 夜に流れた Ah 「もう泣くなよ」
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+遥か月を目指した Ah 今日の空は
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+数多 星を降らした Ah 夢じゃないや！
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Ah 夢じゃないや
+</div>
+</div>
+
+</div>
+
+
 
 ## Sources
 

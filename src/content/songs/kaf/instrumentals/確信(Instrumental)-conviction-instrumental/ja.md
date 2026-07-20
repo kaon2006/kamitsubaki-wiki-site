@@ -29,7 +29,151 @@ image: /images/albums/kaf/kansoku.jpg
 
 ## 歌詞
 
-本トラックはインストゥルメンタルのため、歌詞はありません。
+{{lyrics-controls::ja}}
+
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+金色の夕暮れに 今をただ歩いてく
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ちっぽけな確信を ぎゅっと握りしめて
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+カッコイイとか ワルイとか そんなコト もうどうでもいいよ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+負けない気持ちが有りさえするなら ただそれだけで
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+わかりたいとか わからないコトとか まだあるだろうけれど
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+くじけぬ想いを 止めさえしなけりゃ ただそれだけで
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+まっすぐすぎる心が周りを敵に仕上げた
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+でもたったヒトツだけの大切を守るコトが出来ればいい
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あの頃の生き方は 生き急いだ英雄(ヒーロー)
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+誰もが後へ続く ズタズタにされても
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+金色の夕暮れに 影を重ね合わせて
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ちっぽけな確信を 抱(いだ)き歩いていく
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+流されたり流してしまうコトも 時にはおこるだろう
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+心の眼の正しささえあるなら ただそれだけで
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+やっと気付いた心の端でうずく古傷
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+癒される きっとそうさ 蒼い風のかけらのヒトツになる
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+金色の夕暮れが ボクをただ包み込む
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ちっぽけな確信を そっと暖めてる
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+金色の夕暮れに 今をただ歩いてく
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ちっぽけな確信を ぎゅっと握りしめて
+</div>
+</div>
+
+</div>
+
+
 
 ## 出典
 

@@ -32,6 +32,268 @@ image: /images/songs/vwp/single-1687478548.jpg
 
 ## 歌詞
 
+{{lyrics-controls::ja}}
+
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+「歌は魔法だね」
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+「世界も運命も変えられる」
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+「わたしたちの希望だよ」
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+「逃げられないなら、抗えばいい」
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+「あたしの心は綺麗なんかじゃない」
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+「新しい世界を、みんなと見たい...」
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+「今度こそ、みんなを守る」
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+崩れていく真実はいつだって
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+見たいように変わる
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+確かなものなんて一つも知らなくて
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+まるでお人形遊びみたい
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+痛みを知る
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+誤魔化しの効かない電脳
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Hello world 運命を殺しに来たんだ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+この手も体も偽物だなんて今更
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+物語を聞かせよう
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+未来を手にするのは誰？
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+さよならしよう
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+記憶は全部風船のように弾けてく
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+暴れだした文字列が
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+こちらを見ている
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+別れを知る
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+止まらない涙に溺れる電脳
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Hello world 未来を探しに来たんだ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+この目の涙もハリボテだなんて今更
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+物語を聞かせよう
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+息の根を止めるのは誰？
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+「それが私の使命」
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+「滅びの運命を受け入れるなんて、私はイヤ」
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+「あの子を守りたい気持ちだけは、本物だから」
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+「この闇の向こうにある光を」
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+世界を知りたがる
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+無邪気な電脳
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+崩れていく真実はいつだって
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+見たいように変わる
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Hello world 命は騙されていたんだ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+それでも感情が偽物だなんて信じない
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+物語を始めよう
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+未来を救うのは誰？
+</div>
+</div>
+
+</div>
+
+
+
 ## 出典
 
 - [公式ディスコグラフィー](https://kamitsubaki.jp/disco_category/v-w-p/)

@@ -27,8 +27,100 @@ image: /images/albums/harusaruhi/shinju.jpg
 
 ## 歌詞
 
-## 出典
+{{lyrics-controls::ja}}
 
-- [公式ディスコグラフィー](https://kamitsubaki.jp/disco_category/harusaruhi/)
-- [Apple Music](https://music.apple.com/jp/album/interlude-1-%E3%82%B1%E3%83%80%E3%83%A2%E3%83%8E/1725056438?i=1725056444&uo=4)
-- [VGMdb 春猿火](https://vgmdb.net/artist/48426)
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ケダモノ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ケダモノ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+この心の
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ケダモノ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ケダモノ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Weak 飼育 Hide & Seek
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+飼い慣らして Between the sheets...
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+この手リード放すのいつ?
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+手を喘まれてFeedin'my beast
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+放つのいつ?
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ケダモノ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ケダモノ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+この心の
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ケダモノ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ケダモノ
+</div>
+</div>
+
+</div>
+
+

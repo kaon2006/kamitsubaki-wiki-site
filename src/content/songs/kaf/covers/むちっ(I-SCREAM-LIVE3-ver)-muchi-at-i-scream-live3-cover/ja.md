@@ -25,7 +25,433 @@ image: /images/albums/kaf/i-scream-live-3.jpg
 
 ## 歌詞
 
-当サイトでは許諾を確認できない歌詞全文を転載しません。公式動画の説明欄または正規配信サービスの歌詞機能を参照してください。寄稿許諾をお持ちの場合は歌詞フォーマットガイドに沿って追加できます。
+{{lyrics-controls::ja}}
+
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+はみ出しちゃうほど むちっ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ああ つかみきれないほどの むちっ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+抜け出せなくなるそのうち
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あなたはまだ無知無知無知
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+我慢は毒 生きる程良く
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+欲しいから奪うのことごとく
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+欲求を解く 私には毒
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+でもぜんぶ飲み込んじゃえゴックン
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+丁寧な暮らし？ いや下品な話
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+食べるのも泊まるのもsweet がいい
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+巷にあふれるスキニーより
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+わがままな むちっ とがいい
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+はみ出しちゃうほど むちっ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ああ つかみきれないほどの むちっ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+抜け出せなくなるよそのうち
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あなたはまだ無知無知無知
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+はみ出しちゃうほど むちっ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ああ つかみきれないほどの むちっ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+抜け出せなくなるそのうち
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あなたはまだ無知無知無知
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+陽当たり良好 窓開けてしよう
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+いらない道徳 私の王国
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+すべらせる肌と肌
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+求めていくHarder and harder
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+複雑に絡み合う感情
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+より体が先に反応
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+そのうち消えちゃうスキニーより
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+わがままな むちっ とがいい
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+はみ出しちゃうほど むちっ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ああ つかみきれないほどの むちっ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+抜け出せなくなる そのうち
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あなたはまだ無知無知無知
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+はみ出しちゃうほど むちっ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ああ つかみきれないほど むちっ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+抜け出せなくなるそのうち
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あなたはまだ無知無知無知
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+降りてきた下界
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ポルノにない展開
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+狙ってるの変態
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Not 最終形態
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+詰まるもん詰まってる
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+からだに伝ってく
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+血と涙と汗
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+「だらしない」
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+「はしたない」
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+「大したことない」
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+は言わしとけ散々
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+勝手に吠えとけわんわん
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+これ私にとってまだChapter .1
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+はみ出しちゃうほど むちっ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ああ つかみきれないほどの むちっ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+抜け出せなくなる そのうち
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あなたはまだ無知無知無知
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+はみ出しちゃうほど むちっ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ああ つかみきれないほどの むちっ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+抜け出せなくなるそのうち
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あなたはまだ無知無知無知
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+はみ出しちゃうほど むちっ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ああ つかみきれないほど むちっ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+抜け出せなくなるそのうち
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あなたはまだ無知無知無知
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+はみ出しちゃうほど むちっ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ああ つかみきれないほどの むちっ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+抜け出せなくなるそのうち
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あなたはまだ無知無知無知
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あなたはまだ無知無知無知
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+無知無知無知 無知無知無知
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+はみ出しちゃうほど むちっ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+無知 無知 無知 無知
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+無知 無知 無知 無知
+</div>
+</div>
+
+</div>
+
+
 
 ## 出典
 

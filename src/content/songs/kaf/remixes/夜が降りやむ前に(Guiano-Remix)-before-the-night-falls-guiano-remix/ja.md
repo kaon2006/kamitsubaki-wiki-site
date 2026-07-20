@@ -30,7 +30,261 @@ image: /images/albums/kaf/yoru-ga-furiyamu-mae-ni.jpg
 
 ## 歌詞
 
-当サイトでは許諾を確認できない歌詞全文を転載しません。公式動画の説明欄または正規配信サービスの歌詞機能を参照してください。寄稿許諾をお持ちの場合は歌詞フォーマットガイドに沿って追加できます。
+{{lyrics-controls::ja}}
+
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+止まらない闇に
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+泡に芽吹く花が
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+空に埋もれ消える
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+月が輝く塔に今
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+君の面影を知る
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+胸に住む確信が
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+波を呼び
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+言葉に酔う
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+何一つ無駄じゃなかった
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+今言わなくちゃ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+涙を合図に
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+届けに行くんだ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+濡れすぎた夜空が
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+僕らに呼吸を許さなかった
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+踠き歩いた
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+満たされた光に
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+一度きりの言い訳を
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+止まらない闇に
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あなたの輪郭を
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+遠く鳴る海が奪い去る
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+胸が照らすその場所には
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+知りたい言葉がある
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あなたにはわからないわ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+何一つ聞こえないや
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+「今まで」と「これから」は
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+かき乱した夜に消えていけ
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+届けに行くんだ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+喚き出す夜空が
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+僕らの明日を信じなかった
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+裏切り歩いた
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+満たされた朝日で
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+熱を意味を捨てていく
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+濡れ出した街に
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あなたの輪郭を
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+淡い指先でなぞる
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+夜が振り止む前に
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+夜が振り止む前に
+</div>
+</div>
+
+</div>
+
+
 
 ## 出典
 

@@ -27,8 +27,232 @@ image: /images/albums/harusaruhi/cream-puff-live-3.jpg
 
 ## 歌词
 
-## 来源
+{{lyrics-controls::ja}}
 
-- [官方作品目录](https://kamitsubaki.jp/disco_category/harusaruhi/)
-- [Apple Music](https://music.apple.com/jp/album/%E4%BB%8A%E3%81%95%E3%82%89%E3%82%B5%E3%83%AC%E3%83%B3%E3%83%80%E3%83%BC-at-cream-puff-live-3-cover/1709945211?i=1709945214&uo=4)
-- [VGMdb 春猿火](https://vgmdb.net/artist/48426)
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+何も分かんないまま脱落で終わり
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ちょっと刺激が強すぎて目を閉じた
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+嗚呼　退屈な日
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+薄暗い通りの中で
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+見慣れない光が窓辺を映し出して
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+響く音に足は進む
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+夜の匂いが過ぎた途端に
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+瞳に映ったキミと宙を舞う音色が
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ビルを抜けて　街は揺れる
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+都会の喧騒に少し疲れたボクの元で
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+何かが変わる気がして彷徨う
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+独りきりの夜に
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+今さらサレンダーしたって意味がないや
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+柄　パラメイタ　振り切って戻ってた
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+頭に空回りしてるなら　さあおいでよ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+何も分かんないから哲学のパロディ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ちょっと効き目が強すぎて様子見
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+真似事ばかりひとり不安になる
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+間違い探しの　アーバン Ah
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+憂鬱過ぎたようだ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+開け放した窓の中へと吹き込む風
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+音は遠く　どこへ向かう？
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+後悔の連続に少し疲れたボクの元へ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+何か変わる日が来て彷徨う
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+独りきりの夜に
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+今なら散々だって気づけたんだ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ああ　いつまでも転がしてくれよ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+もう勝手に　そう身勝手に
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+生きていたい　だから　さあ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+今さらサレンダーしたって意味がないや
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+柄　パラメイタ　振り切って戻ってた
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+頭に空回りしてるなら　さあおいでよ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+何も分かんないから哲学のパロディ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ちょっと効き目が強すぎて様子見
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+真似事ばかりひとり不安になる
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+間違い探しの　アーバン Ah
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+誰もいない夜気づかないで
+</div>
+</div>
+
+</div>
+
+

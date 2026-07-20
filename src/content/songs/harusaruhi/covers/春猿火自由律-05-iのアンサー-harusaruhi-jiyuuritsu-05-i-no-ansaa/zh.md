@@ -14,6 +14,7 @@ categoryOrder: 20
 itemOrder: 29
 code: "archive-cream-puff-live-16"
 image: /images/albums/harusaruhi/cream-puff-live.jpg
+contentStatus: stub
 ---
 
 ## 作品简介

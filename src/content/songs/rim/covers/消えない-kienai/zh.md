@@ -22,7 +22,200 @@ image: /images/albums/rim/chocolate-live.jpg
 
 ## 歌词
 
-## 来源
+{{lyrics-controls::ja}}
 
-- [官方作品目录](https://kamitsubaki.jp/discography/rim/379/)
-- [VGMdb 理芽](https://vgmdb.net/artist/53598)
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+何度も励ましてくれた
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+お気に入りの曲が
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+初めてうるさく感じた
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+行き止まりの夜の中
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+わかってる
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+わかってる
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+さよならなんて簡単な言葉に詰まるのはなぜ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+終わらせたっていいけど
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+終わらせるなら今だけど
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+沈むタイタン号 燃える人形町
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+声を荒げる水金地火木
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+なのに消えない 消えてくれない
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+心尽きても何かが消えない
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+案外笑顔で過ごせてる ただ新しい日々が
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ちょっと怖いような気がした
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+自分じゃないみたいで
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+わかってる
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+わかってるのに
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+さよならなんて簡単な言葉に詰まるのはなぜ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+終わらせたっていいけど
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+終わらせるなら今だけど
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ここは桃源郷 またはティル・ナ・ノーグ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+永久にたゆたう天上天下
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+だけどいけない いちゃいけない
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+引き止める様な何かが消えない
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+沈むタイタン号 燃える人形町
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+声を荒げる水金地火木
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+なのに消えない 消えそうで消えない
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+こんなところで消えない 消さない
+</div>
+</div>
+
+</div>
+
+

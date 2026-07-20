@@ -25,7 +25,315 @@ image: /images/albums/kaf/i-scream-live-2.jpg
 
 ## 歌詞
 
-当サイトでは許諾を確認できない歌詞全文を転載しません。公式動画の説明欄または正規配信サービスの歌詞機能を参照してください。寄稿許諾をお持ちの場合は歌詞フォーマットガイドに沿って追加できます。
+{{lyrics-controls::ja}}
+
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+電波テンポアップして絶賛感電中！
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あなたにもわすれたいことかなしいこと
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あるのかしらね
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+識らない映画なのに涙をながすのはドラマチックが足りていないからよ
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+そんな愚にも付かないことくだらないこと考えてばかりね
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+雨が上がれば愛もその横顔も誰かのものになるのでしょう
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+嘘っぱちのファンデーションも全部
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+今夜のためよ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+なのに一体全体如何して何故？
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+不安定なカンテラ何処まで行くの
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あなた一切合切放り去ってもう
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+冗談じゃあないわ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+トウキョウ・シャンディ・ランデヴ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+その時が来たって如何にもならないぜ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+曖昧な本当なんてメランコリ化するだけ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あたしをさあ掻攫って今テイクオンミー
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+はぁ ちゃんちゃらおかしな法度ばっかで
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+食指がびくともしないわ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+実態の無い感情放っておいたって
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+策略なんてありゃあせんのに何故
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あぁ もう懲り懲りよ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あたしの喝となる気質もじっと堪えて取り繕ってはとうとう臨界点
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+年がら年中リップサービス鈍感カマしては辟易
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+どんがらがっしゃんフィールガールは涙の目にも鬼
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+今や頭の中のミュージックのせいであなたの話は一向に聴き取れない
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+少しは真当なこと言って
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+回り出すターンテーブル
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ねえ全部忘れさせてよ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+だけど一体全体如何して何故？
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+不安定なカンテラ消えない儘ね
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あなた一口両舌食い違ってもう
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+冗談じゃあないわ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+トウキョウ・シャンディ・ランデヴ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+その時が来たって如何にもならないぜ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+曖昧な本当なんてメランコリ化するだけ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あたしを今
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+冗談じゃあないわ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+トウキョウ・シャンディ・ランデヴ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+その時が来たって如何にもならないぜ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+不甲斐ないわ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+感情なんてランドリーで落とすだけ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あたしと確かめ合ってイエローマジック
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ア・ヤ・ヤ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+トウキョウ・シャンディ・ランデヴ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+その時が来たって如何にもならないぜ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+曖昧な本当なんてメランコリ化するだけ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あたしをさあ掻攫って今テイクオンミー
+</div>
+</div>
+
+</div>
+
+
 
 ## 出典
 

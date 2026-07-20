@@ -27,6 +27,194 @@ image: /images/albums/rim/chocolate-live-3.jpg
 
 ## 歌詞
 
+{{lyrics-controls::ja}}
+
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Are you ready?
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+愛と妬みを足して嘘と涙で割れば
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+世にも美しき怪物「女の子」の出来上がり
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+眉も目も唇も好きな様に描き足しな?
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+熱い眼差しが無きゃ千年の恋も冷めちゃうわ
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+運命なんて生まれた日より選んだ服で決まるもの
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+酸いも甘いもひっくるめ今をきっとちゃんと愛してる
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+正面で見ても横から見ても下から見てもいい女で困っちゃう
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+君は全方向美少女 ねぇ困っちゃう
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+妬み嫉みも全部愛として受け取るよ
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Eyes on you every time I find out you
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+You're the fire or ice or sweet sweet dream
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Eyes on you every time I find out you
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+You're music to my eyes and sweet sweet dream
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+アイラインを跳ね上げ天まで届くまつ毛
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ほっぺにバラ咲かせルージュで嘘を色付けて
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+よく人に好かれます魅せ方も解ってます
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+美しさも愛嬌も天は二物を与えます
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+幸福なんて一生をかけて一粒一粒集めるもの
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+酸いも甘いも味わって 今をきっとちゃんと愛してね
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+正面で見ても横から見ても下から見てもいい女で困っちゃう
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+君は全方向美少女 ねぇ困っちゃう
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+妬み嫉みも全部愛として受け取るよ
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Eyes on you every time I find out you
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+You're the fire or ice or sweet sweet dream
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Eyes on you every time I find out you
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+君は全方向美少女
+</div>
+</div>
+
+</div>
+
+
+
 ## 出典
 
 - [公式ディスコグラフィー](https://kamitsubaki.jp/disco_category/rim/)

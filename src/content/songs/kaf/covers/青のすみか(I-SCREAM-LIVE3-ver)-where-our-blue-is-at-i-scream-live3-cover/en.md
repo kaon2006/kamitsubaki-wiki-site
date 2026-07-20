@@ -28,7 +28,251 @@ image: /images/albums/kaf/i-scream-live-3.jpg
 
 ## Lyrics
 
-This wiki does not reproduce full lyrics without confirmed permission. Consult the official video description or the licensed streaming service’s lyric feature; editors with contribution permission may add text using the lyric-format guide.
+{{lyrics-controls::ja}}
+
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+どこまでも続くような青の季節は
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+四つ並ぶ眼の前を遮るものは何もない
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+アスファルト 蝉時雨を反射して
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+きみという沈黙が聞こえなくなる（聞こえなくなる）
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+この日々が色褪せる
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+僕と違うきみの匂いを知ってしまっても
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+置き忘れてきた永遠の底に
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+今でも青が棲んでいる
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+今でも青は澄んでいる
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+どんな祈りも言葉も
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+近づけるのに 届かなかった
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+まるで 静かな恋のような
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+頬を伝った夏のような色のなか
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+きみを呪う言葉がずっと喉の奥につかえてる
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+「また会えるよね」って 声にならない声
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+昼下がり じめつく風の季節は
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+想い馳せる まだ何者でもなかった僕らの肖像
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+何もかも分かち合えたはずだった
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あの日から少しずつ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+きみと違う僕という呪いが肥っていく
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+(La-la-la-la, la-la-la-la)
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+(La-la-la-la, la-la-la-la)
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+きみの笑顔の奥の憂いを（憂いを）
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+見落としたこと 悔やみ尽くして（み尽くして）
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+(La-la-la-la, la-la-la-la)
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+徒花と咲いて散っていくきみに
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+さよなら
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+今でも青が棲んでいる
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+今でも青は澄んでいる
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+どんな祈りも言葉も
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+近づけるのに 届かなかった
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+まるで 静かな恋のような
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+頬を伝った夏のような色のなか
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+きみを呪う言葉がずっと喉の奥につかえてる
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+「また会えるよね」って 声にならない声
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+無限に膨張する銀河の星の粒のように
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+指の隙間を零れた
+</div>
+</div>
+
+</div>
+
+
 
 ## Sources
 

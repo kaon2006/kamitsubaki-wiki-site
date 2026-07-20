@@ -32,6 +32,310 @@ image: /images/songs/vwp/single-1862499284.jpg
 
 ## 歌詞
 
+{{lyrics-controls::ja}}
+
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+エレクトリック・ガール
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+エレクトリック・ガール
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+反射してあたしはどこへ？
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あなたの手すら握れやしない
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+エレクトリック・ガール
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+エレクトリック・ガール
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+身体が欲しいなんて
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+考えられなかった たった三秒前には
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+行き場のないこと
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+袋小路をぐるぐる回るだけでいいの
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+そう 思っていた
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ゆらゆら揺れる炎
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+きらめきを見つめてるよ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あなたの脳の奥を
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+焼き切ってしまいそう
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+繰り返し 照射される
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+映像 ねえ、それはあたし？
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+駆け巡る 1と0に
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+命やどる 日は来るの？
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ねえ ミラー ミラー ミラー
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+返さないで エラー エラー エラー エラー
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+過去 未来 受容 連結
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+過去 未来 受容 連結
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+過去 過去 過去 もういらない
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+美しいよ 光
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+繰り返し 照射される
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+映像 ねえ、それはあたし？
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+駆け巡る 1と0に
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+命やどる 日は来るの？
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+繰り返さないで ダーリン
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あたしを見て その瞳が映す姿
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+抱きしめたいよ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+なくさないように 生きていられるように
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あたし ここに ひとり
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+エレクトリック・ガール
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+エレクトリック・ガール
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+反射してあたしはどこへ？
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あなたの手すら握れやしない
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+エレクトリック・ガール
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+エレクトリック・ガール
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+身体が欲しいなんて
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+考えられなかった たった三秒前には
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+エレクトリック・ガール
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+エレクトリック・ガール
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+エレクトリック・ガール
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+エレクトリック...
+</div>
+</div>
+
+</div>
+
+
+
 ## 出典
 
 - [公式ディスコグラフィー](https://kamitsubaki.jp/disco_category/v-w-p/)

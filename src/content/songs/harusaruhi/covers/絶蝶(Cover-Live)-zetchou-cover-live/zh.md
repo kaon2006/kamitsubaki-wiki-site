@@ -27,8 +27,252 @@ image: /images/albums/harusaruhi/cream-puff-live-4.jpg
 
 ## 歌词
 
-## 来源
+{{lyrics-controls::ja}}
 
-- [官方作品目录](https://kamitsubaki.jp/disco_category/harusaruhi/)
-- [Apple Music](https://music.apple.com/jp/album/%E7%B5%B6%E8%9D%B6-cover-live/1833427142?i=1833427310&uo=4)
-- [VGMdb 春猿火](https://vgmdb.net/artist/48426)
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+闇夜に消えて行く時間を
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+巻き戻して
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+彷徨いながら
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+端から解っていたんでしょう
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あなた以外映らないのよ
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+空っぽになって
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+気づいてしまった ヤケクソの感情
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+浮かべて 血迷い
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+帰り道
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+フラフラ漂って
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あなたの匂いに酔ってく
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+アルコールなんて 比にならないの
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+中毒になって
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+また私夢中になっている
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+愛はいらない あなたを頂戴
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+飾らない 姿に惚れたんです
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+それだけじゃなくて、、
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+全部含めて
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+愛してあげるから 愛して
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+歪んだ世界で 見つけたもの
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+自己犠牲だって
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+惜しまないだって 何より愛おしい
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+懐かない性格、
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+好きだよ
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+フラフラ漂って
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あなたの匂いに酔っていく
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+蜜を求める 揚羽のように
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+中毒になって
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+また私夢中になっている
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+愛はいらない あなたを頂戴
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+いっそあなたの全てを吸い尽くし 愛を謳う
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+一つになる夜を重ね 高く 高く舞っていく
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+フラフラ漂って
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あなたの匂いに酔ってく
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+アルコールなんて 比にならないよ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+中毒になって
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+また私夢中になっている
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+愛はいらない あなたを頂戴
+</div>
+</div>
+
+</div>
+
+

@@ -22,7 +22,274 @@ image: /images/albums/rim/chocolate-live.jpg
 
 ## 歌词
 
-## 来源
+{{lyrics-controls::ja}}
 
-- [官方作品目录](https://kamitsubaki.jp/discography/rim/379/)
-- [VGMdb 理芽](https://vgmdb.net/artist/53598)
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Oh, baby 今夜のキスで
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+一生分のこと 変えてしまいたいよ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ここは 楽園じゃない だけど
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+描ける限りの 夢の中
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+目の前で 魔法が解けてゆく
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+焦る気持ちだけが 言葉つなげ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+君を抱きしめるたびに
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+綱の上で揺れる circus night
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Tight rope dancing, baby
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+今夜だけ 辿り着きたい ピエロ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Tight rope dancing, baby
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+今夜だけ 生き延びたい ピエロ
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Tight rope dancing, baby
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+今夜だけ baby 今夜だけ baby
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Tight rope dancing, baby
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+今夜だけ 生き延びたい ピエロ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Oh, baby 魔法が解けてゆく
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+宵闇が 僕らを包んで 天幕の中みたい
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+僕は冴えないピエロで
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あなたはfearless girl, circus night
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+どんなにそれが絵空事でも 飛ぶしかない夜
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+君がほしい 口づけてしまいたい
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+幕があがる circus night
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Oh, baby 今夜のキスで
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+一生分のこと 変えてしまいたいよ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ここは 楽園じゃない だけど
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+描ける限りの 夢の中
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+目の前で 魔法が解けてゆく
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+焦る気持ちだけが 言葉つなげ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+君を抱きしめるたびに
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+綱の上で揺れる circus night
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Tight rope dancing, baby
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+今夜だけ 辿り着きたい ピエロ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Tight rope dancing, baby
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+今夜だけ 生き延びたい ピエロ
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Tight rope dancing, baby
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+今夜だけ baby 今夜だけ baby
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Tight rope dancing, baby
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+今夜だけ 生き延びたい ピエロ
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Oh, baby 魔法が解けてゆく
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Oh, baby 魔法が解けてゆく
+</div>
+</div>
+
+</div>
+
+

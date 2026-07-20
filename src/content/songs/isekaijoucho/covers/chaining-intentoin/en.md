@@ -14,6 +14,7 @@ categoryOrder: 20
 itemOrder: 54
 code: "archive-candy-live-06"
 image: /images/albums/isekaijoucho/candy-live.jpg
+contentStatus: stub
 ---
 
 ## Overview

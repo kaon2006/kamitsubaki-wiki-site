@@ -27,8 +27,318 @@ image: /images/albums/harusaruhi/cream-puff-live-2.jpg
 
 ## 歌词
 
-## 来源
+{{lyrics-controls::ja}}
 
-- [官方作品目录](https://kamitsubaki.jp/disco_category/harusaruhi/)
-- [Apple Music](https://music.apple.com/jp/album/%E3%82%AA%E3%83%89%E3%83%AB%E3%83%BC%E3%83%97/1688520470?i=1688520481&uo=4)
-- [VGMdb 春猿火](https://vgmdb.net/artist/48426)
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+踊ってるだけで退場
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+それをそっかそっかっていって
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+お幸せについて討論
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+何が正義なんかって思う
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+生意気そうにガム噛んで
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+それもいいないいなって思う
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+テレスコープ越しの感情
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ロッカーに全部詰め込んだ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+踊ってない夜を知らない
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+踊ってない夜が気に入らない
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+踊ってない夜を知らない
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+踊ってない夜が気に入らないよ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+気に入らない夜なんてもう僕は知らない
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+踊ってない夜がない夜なんて
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+とってもとっても退屈です
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+思ってるだけで行動
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+きっとNIGHT音楽も踊る
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+タンスでダンスする現状
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+これはチャンスなんかって思う
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+カスタネットがほらたんたん
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+たたたたんたたんたんたたんたん
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+踊ってない夜を知らない人とか
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+この世に一人もございません
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+踊ってない夜を知らない
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+踊ってない夜が気に入らない
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+踊ってない夜を知らない
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+踊ってない夜が気に入らないよ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+気に入らない夜なんてもう僕は知らない
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+踊ってない夜がない夜なんて
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+とってもとっても退屈です
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+いつも待ってる ダンスホールは待ってる
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+変わってく 変わってく 傷だらけでも待ってる
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ほら踊ってる ダンスホールの未来に
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+色を塗って生きるのは あなた あなた
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+「ダンスは笑顔で待ってる」
+</div>
+</div>
+
+<br />
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+踊ってない夜を知らない
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+踊ってない夜が気に入らない
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+踊ってない夜を知らない
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+踊ってない夜が気に入らないよ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+気に入らない夜なんてもう僕は知らない
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+踊ってない夜がない夜なんて
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+踊ってたい夜を知りたい
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+踊ってたい夜を気に入りたい
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+踊ってたい夜を知りたい
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+踊ってない夜が気に入らないよ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+気に入らない夜なんてもう僕は知らない
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+踊ってたい夜に泣いてるなんて
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+とってもとっても退屈です
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+踊ってたい夜が大切なんです
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+とってもとってもとっても大切です
+</div>
+</div>
+
+<br />
+
+</div>
+
+

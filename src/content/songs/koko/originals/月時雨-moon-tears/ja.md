@@ -27,8 +27,256 @@ image: /images/songs/koko/single-1843028079.jpg
 
 ## 歌詞
 
-## 出典
+{{lyrics-controls::ja}}
 
-- [公式ディスコグラフィー](https://kamitsubaki.jp/disco_category/koko/)
-- [Apple Music](https://music.apple.com/jp/album/%E6%9C%88%E6%99%82%E9%9B%A8/1843028079?i=1843028081&uo=4)
-- [VGMdb 幸祜](https://vgmdb.net/artist/53600)
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+编曲：颜小健
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+石板桥下的滴滴答滴滴滴
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+在下竟着了迷  吻了你
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+花间柳下的秘密麻密密密
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+为何却断了情  伤了心
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+姑娘思量的人已变成追忆
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+（你说你是雨 会跟着云 哪里去）
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+何必一厢旧梦悠悠苦我心
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+（只能下滴滴答滴滴滴）
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+你像一场大雨 淋湿我的眼睛
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+化作一道痕迹 化不作你
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+听夜风吹笛 花落为你弹琴
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+回忆碎了满地 怎么连理
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+看着你的眼睛 挽住我的表情
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+一句不想分离 那么轻盈
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+你说你是雨 划过我的脸际
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+就会变成泪滴 忘掉过去 忘掉过去
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+石板桥下的滴滴答滴滴滴
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+在下竟着了迷  吻了你
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+花间柳下的秘密麻密密密
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+为何却断了情  伤了心
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+姑娘思量的人已变成追忆
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+（你说你是雨 会跟着云 哪里去）
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+何必一厢旧梦悠悠苦我心
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+（只能下滴滴答滴滴滴）
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+你像一场大雨 淋湿我的眼睛
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+化作一道痕迹 化不作你
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+听夜风吹笛 花落为你弹琴
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+回忆碎了满地 怎么连理
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+看着你的眼睛 挽住我的表情
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+一句不想分离 那么轻盈
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+你说你是雨 划过我的脸际
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+就会变成泪滴 忘掉过去 忘掉过去
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+石板桥下的滴滴答滴滴滴
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+在下竟着了迷  吻了你
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+花间柳下的秘密麻密密密
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+为何却断了情  伤了心
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+看着你的眼睛 挽住我的表情
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+一句不想分离 那么轻盈
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+你说你是雨 划过我的脸际
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+就会变成泪滴 忘掉过去 忘掉过去
+</div>
+</div>
+
+</div>
+
+

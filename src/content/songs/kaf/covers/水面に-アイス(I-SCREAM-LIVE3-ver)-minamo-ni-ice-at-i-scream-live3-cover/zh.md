@@ -25,6 +25,160 @@ image: /images/albums/kaf/i-scream-live-3.jpg
 
 ## 歌词
 
-## 来源
+{{lyrics-controls::ja}}
 
-- [Apple Music](https://music.apple.com/jp/album/%E6%B0%B4%E9%9D%A2%E3%81%AB-%E3%82%A2%E3%82%A4%E3%82%B9-at-i-scream-live3-cover/1774457837?i=1774458087&uo=4)
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あざやかに返る声が
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+引き金となり瞳孔が開いた
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+会いたい想いを伝えて
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+今にも溢れ落ちそうな
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+勇姿を影で観たいだけだ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ああ　今、　水面に
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+「愛す」が溢れて
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+いざ　いざ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+気持ち次第でオアシス
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+蚊に刺されることさえ清々しい
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+曖昧な態度が良くて
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+今さらお手本のような関係は
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+眼中にはないわ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ああ　今、　水面に
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+「アイス」が溢れて
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ひや　ひや
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ああ　今、　水面に
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+「愛す」が溢れて
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+いざ　いざ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ああ　今、　水面に
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+「アイス」が溢れて
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ひや　ひや
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ああ　今、　水面に
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+「愛す」が溢れて
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+いざ　いざ
+</div>
+</div>
+
+</div>
+
+

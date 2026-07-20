@@ -32,8 +32,184 @@ image: /images/albums/vwp/awakening.jpg
 
 ## 歌詞
 
-## 出典
+{{lyrics-controls::ja}}
 
-- [公式ディスコグラフィー](https://kamitsubaki.jp/disco_category/v-w-p/)
-- [Apple Music](https://music.apple.com/jp/album/%E5%88%86%E8%A3%82-feat-%E8%8A%B1%E8%AD%9C-%E7%90%86%E8%8A%BD-%E6%98%A5%E7%8C%BF%E7%81%AB-%E3%83%B0%E4%B8%96%E7%95%8C%E6%83%85%E7%B7%92-%E5%B9%B8%E7%A5%9C/1735849258?i=1735849269&uo=4)
-- [VGMdb V.W.P](https://vgmdb.net/artist/47724)
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+坐著我的摩托車 載你緩緩的離開
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+考不上的好學校 可以不微笑就走
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+把手慢慢交給我 放下心中的困惑
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+雨點從兩旁劃過 割開兩種精神的我
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+經過老伯的家 籃框變得好高
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+爬過的那棵樹 又何時變得渺小
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+這樣也好 開始沒人注意到我
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+等雨變強之前 我們將會分化軟弱
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+趁時間沒發覺 讓我帶著你離開
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+沒有了証明 沒有了空虛
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+基於兩種立場我會罩著你
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+趁時間沒發覺 讓我帶著你離開
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+這不是頑固 這不是逃避
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+沒人綁著你走才快樂
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+坐著我的摩托車 載你緩緩的離開
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+考不上的好學校 可以不微笑就走
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+把手慢慢交給我 放下心中的困惑
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+雨點從兩旁劃過 割開兩種精神的我
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+經過老伯的家 籃框變得好高
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+爬過的那棵樹 又何時變得渺小
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+這樣也好 開始沒人注意到你我
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+等雨變強之前 我們將會分化軟弱
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+趁時間沒發覺 讓我帶著你離開
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+沒有了証明 沒有了空虛
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+基於兩種立場我會罩著你
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+趁時間沒發覺 讓我帶著你離開
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+這不是頑固 這不是逃避
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+沒人綁著你走才快樂
+</div>
+</div>
+
+<br />
+
+</div>
+
+

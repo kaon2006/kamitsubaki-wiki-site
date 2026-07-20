@@ -27,6 +27,106 @@ image: /images/albums/harusaruhi/spice-of-life.jpg
 
 ## 歌詞
 
+{{lyrics-controls::ja}}
+
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ここまでguide me
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+してくれた仲間が超大事 yeah
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+落ち込んでた内心
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+そんな日も味方してくれて
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+邁進できた
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Everyday 連絡取り合って
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+いいバランスで手取り合って
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+少しぶっ飛びがちなメンバー
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+愛のツッコミ笑う現場
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+凸凹でも最強
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+本当いつもありがとう
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+これからも言い合おう
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+このチームは最高
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ah yeah
+</div>
+</div>
+
+<br />
+
+</div>
+
+
+
 ## 出典
 
 - [公式ディスコグラフィー](https://kamitsubaki.jp/disco_category/harusaruhi/)

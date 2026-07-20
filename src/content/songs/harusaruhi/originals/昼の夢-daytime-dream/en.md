@@ -27,8 +27,112 @@ image: /images/albums/harusaruhi/spice-of-life.jpg
 
 ## Lyrics
 
-## Sources
+{{lyrics-controls::ja}}
 
-- [Official discography](https://kamitsubaki.jp/disco_category/harusaruhi/)
-- [Apple Music](https://music.apple.com/jp/album/%E6%98%BC%E3%81%AE%E5%A4%A2/1866810856?i=1866811135&uo=4)
-- [VGMdb Harusaruhi](https://vgmdb.net/artist/48426)
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+la la la la la la la la
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+yeah, yeah
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+昼下がりの柔らかい日差しが
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+体ぽかぽかまるで子守唄
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+揺れるカーテンにまつげもゆらゆら
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+いつの間にか夢の中スヤスヤ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+この幸せ 朝から二度寝
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+もはや昼寝 お構いなしね
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あとで食べるのケーキにコーヒー
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ビターはNG  ミルクはたっぷり
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+まだ覚めないで
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+何もしないdaytime
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+夢でhappy day
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+抱えるテディベア
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+焦りもしないdaytime
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+そんな日はgood day
+</div>
+</div>
+
+<br />
+
+</div>
+
+

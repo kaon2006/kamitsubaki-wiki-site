@@ -22,7 +22,172 @@ image: /images/albums/rim/chocolate-live.jpg
 
 ## 歌词
 
-## 来源
+{{lyrics-controls::ja}}
 
-- [官方作品目录](https://kamitsubaki.jp/discography/rim/379/)
-- [VGMdb 理芽](https://vgmdb.net/artist/53598)
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+空中になって 風を愛撫してる
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あの子みたいになりたいと思った
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+忘れた方がいいならそうするけど
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+君も、君も、君も、飽きたでしょ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+きみだけが苦しいとか思わないで欲しい
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+離さないよ 話さないよ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+もう あなたのことなんてさ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+許せないの？
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+「許せないよ」って
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+澱んだ目で見ないで わたしを！
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あぁ かみさまが見てるよ？
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+永遠になって 喰らい続ける
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+火星の頬に触れてみたいと思った
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+忘れた方が良いならそうするけど
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+君も、君も、君も、飽きたでしょ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+きみだけが苦しいとか思わないで欲しい
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+離さないよ 話さないよ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+もう あなたのことなんてさ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+許せないの？
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+「許せないよ」って
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+澱んだ目で見ないで
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+きみだけに、嫌われてみたい。
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+とうめいなそのあいで
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+眼球を、眼球を
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+そう 貫いて欲しいんだ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+それだけ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あぁ かみさまはいないよ？
+</div>
+</div>
+
+</div>
+
+

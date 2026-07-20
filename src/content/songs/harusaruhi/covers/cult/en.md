@@ -22,7 +22,132 @@ CULT appears on CREAM PUFF LIVE or a related official release. Entries are versi
 
 ## Lyrics
 
-## Sources
+{{lyrics-controls::ja}}
 
-- [Official discography](https://kamitsubaki.jp/discography/harusaruhi/378/)
-- [VGMdb Harusaruhi](https://vgmdb.net/artist/48426)
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Focused on deceit, watch those fearful notions start to creep
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Loyalty is cheap, bought by those whose hatred runs so deep
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Just a total brainwash like they're in a cult
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+And I'm so scared of what will be the end result
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Second civil war, not sure what they think they're fighting for
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+We're all fucking poor, we should be the ones storming their doors
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Just a total brainwash like they're in a cult
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+And I'm so scared of what will be the end result
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Tell you you've got a chance then they kill all your dreams
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+It's like we're living in some fucked up ponzi scheme
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Bail out the banks
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Think they'll do the same
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Try to join their ranks but it's a shame
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+You're just fodder for
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Their foreign wars
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+And they'll slap your hand if you ask for more
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Just a total brainwash like they're in a cult
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+And I'm so scared of what will be the end result
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Tell you you've got a chance then they kill all your dreams
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+It's like we're living in a fucked up ponzi scheme
+</div>
+</div>
+
+</div>
+
+

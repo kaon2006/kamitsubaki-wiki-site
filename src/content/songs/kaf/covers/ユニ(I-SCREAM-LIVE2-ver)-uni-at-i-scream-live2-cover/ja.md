@@ -25,7 +25,245 @@ image: /images/albums/kaf/i-scream-live-2.jpg
 
 ## 歌詞
 
-当サイトでは許諾を確認できない歌詞全文を転載しません。公式動画の説明欄または正規配信サービスの歌詞機能を参照してください。寄稿許諾をお持ちの場合は歌詞フォーマットガイドに沿って追加できます。
+{{lyrics-controls::ja}}
+
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+君はまだ わたしの声
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+聞いたことないよ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+こんなにたくさん
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+いるはずないでしょう
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+歯のある蜻蛉みたいでいやなんでしょ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+毒なんて ごはんを食べてるよ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+見て 気付いていいよ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+痛むままで いくじなしね
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ねえ
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+手と手で交配した筆記の
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+閨じゃないって知ってね
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+何も言いかけてないよ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+わたしは刺繍の花じゃない
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+見てほしい花じゃないから
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+見てほしい花じゃないから
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+君はまだ わたしの声
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+聞いたことないよ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+こんなにたくさん
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+いるはずないでしょう
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+凡ゆる明日みたいで眩むんでしょ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+暗いのは目蓋だけだよ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+どうして
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ね どうして
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ねぇ どうして
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+帯が射止めてるよ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+わたしの何も闇じゃない
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+闇の夢を見てるのは君だよ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ずっと ずーっと巨きな
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+目と目と望遠鏡で気付く
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+鬼籍の島じゃない
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+素敵な 一角獣じゃないわたしが
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+薄紫じゃない
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+見えるだろ 誤魔化すなよ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+見えるだろ 誤魔化すなよ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+見えるだろ 誤魔化すなよ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+見えるだろ 誤魔化すなよ
+</div>
+</div>
+
+</div>
+
+
 
 ## 出典
 

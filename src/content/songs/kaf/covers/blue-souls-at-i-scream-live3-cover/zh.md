@@ -25,6 +25,76 @@ image: /images/albums/kaf/i-scream-live-3.jpg
 
 ## 歌词
 
-## 来源
+{{lyrics-controls::ja}}
 
-- [Apple Music](https://music.apple.com/jp/album/blue-souls-at-i-scream-live3-cover/1774457837?i=1774458097&uo=4)
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+One, two, three, four
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Hoo, ooh
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+その手を離してしまったなら
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+きっと もう取り戻せないはずなんだ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+こうしてまた 春を超えてゆく
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+冗談のように 今日を忘れてゆく
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+目に映るもの全てを
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+青色に染めてゆく
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+何が起こるかはわからない
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+でも君が見えた
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Ooh, ooh, ooh, ooh
+</div>
+</div>
+
+</div>
+
+

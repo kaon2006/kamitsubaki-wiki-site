@@ -27,6 +27,336 @@ image: /images/albums/rim/chocolate-live-3.jpg
 
 ## 歌詞
 
+{{lyrics-controls::ja}}
+
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+いや、なんか違くてさ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+愛し合うとかじゃなくてラフにさ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+心を近くで感じ合えるから君ともしたくてさ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+いや、なんか違くてさ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+別にそういうやつでもなくてさ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+言葉を越えて話し合えるのが私には楽でさ
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+もっと剥き出しで向き合って
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+振り乱して口に出しちゃって「またね」
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+爪を立てて何だって噛んだって
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+明日ってなんかあったっけ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+夜に咲いて朝に泣いて
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+別れたって惹かれ合ってまた出会って
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+まあ、再度交わって
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あーー。
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+「愛しているよ」とかじゃなくて
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+君ともっとひとつに溶け合って
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+今夜も(自主規制)
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+相性抜群で二回戦
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+君のもっとしたいことしちゃって
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+本気で(自主規制)
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+んーー、やっぱ違くてさ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+君の思ってる感じじゃなくてさ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+典型的って言うかさ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+天啓...？？ が聞こえたもんでさ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あ゛ーー、なんかわかんないや
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+俗に言う幸せとはなんですか
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+他に無いですか
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+こんなモンですか
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+つまらないや、嫌
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+イヤ、たいして事情とかはなくて
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+意味をもっと簡単に捉えて
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+わかってよ(自主規制)
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+感性2 で跨って
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+イイよもっと乱りにあしらって
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+満たしてよ(自主規制)
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+だらしない騙し合い
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+話し合いはまだしないでいたいのよ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+朝になる前に、空ッ殻の身体に新しい潤いを
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ふわっと髪の毛が香って
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+"ソレ"をもっと知りたくなりまして
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ちょうどあの日ってこんな
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+にわか雨の夕方だった
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+不安定で声も絡まって
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+息を吸って吐くのも出来ない
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+私を救った(自主規制)
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+「愛しているよ」とかじゃなくて
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+もっとずっと従順に盛って(自主規制)
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+最後の最後まで待って
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+言葉なんて要らないと思わせて
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+またしても(自主規制)な夜になる
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+(自主規制)
+</div>
+</div>
+
+</div>
+
+
+
 ## 出典
 
 - [公式ディスコグラフィー](https://kamitsubaki.jp/disco_category/rim/)

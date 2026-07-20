@@ -28,8 +28,436 @@ image: /images/albums/rim/chocolate-live-2.jpg
 
 ## 歌词
 
-## 来源
+{{lyrics-controls::ja}}
 
-- [官方作品目录](https://kamitsubaki.jp/disco_category/rim/)
-- [Apple Music](https://music.apple.com/jp/album/choa-feat-harusaruhi/1731094532?i=1731094541&uo=4)
-- [VGMdb 理芽](https://vgmdb.net/artist/53598)
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+「好き」 って言葉
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ありふれたその二文字が
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+君を目の前にした途端に
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+忘れてしまう病気だ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+頭ん中では
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+理解しているはずなのにさ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+どうしても君に伝えられなくて
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+困ってる
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+夜中電話した時
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+二人で無言になる度に
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+僕の心臓に
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+急に雷
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+しょうもない話題をまた作る
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+この気持ちバレる前に
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+君から先に言われる前に
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+「明日は一緒に帰りたくない？」
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+返事がないのはまさかの寝落ち
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+頭から爪先まで CHOA
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+君を思い出す度にもっと CHOA
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+帰り道に僕が急に
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+黙っても知らないフリしていてね
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+君が怒った顔も CHOA
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+他の何よりも君がノム CHOA
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+照れ臭くて言えないけど
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+他の誰かに君が揺らぐ前に
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+パッと覚めた
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+いつの間に僕も寝ていたな
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+電話越しまだ聞こえる君の寝息
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+絶やさないように静かに
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+時計の針を巻き戻すように
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+眠ったままの君に会いに行く
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+朝食は適当にコーヒー
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+頭の中10/10が君
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+これはマジ病み
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+早く会いたい
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+今日もバッチリキメた Dress code
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ドキドキするこの気持ち
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+今日こそは君に伝えたい
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ここで一句
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+「今日は友達と遊ぶ日！」
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+マジ？
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+頭から爪先まで CHOA
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+君の香り仕草口癖 CHOA
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+他の人には渡さない
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+と言っても
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+まだ僕のものじゃないけど
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+君の笑った顔が CHOA
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+他の何よりも君がノム CHOA
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+照れ臭くて言えないけど
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+誰かが君に惚れる前に
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+少女漫画に出るような
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+白馬の王子じゃないけど
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+君を独り占めしたいよ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+だから
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+少し君も気付いているのならば
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+僕の方を向いてよ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+「君が大好きだよ」
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+頭から爪先まで CHOA
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+君を思い出す度にもっと CHOA
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+帰り道に僕が急に
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+黙っても知らないフリしていてね
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+君が怒った顔も CHOA
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+他の何よりも君がノム CHOA
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+照れ臭くて言えないけど
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+他の誰かに君が揺らぐ前に
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+他の誰でもない君が CHOA
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+(CHOA CHOA CHOA)
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+毎日夢に出るほど CHOA
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+(CHOA CHOA CHOA)
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+君は僕がどれくらい CHOA?
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+(CHOA CHOA CHOA)
+</div>
+</div>
+
+</div>
+
+

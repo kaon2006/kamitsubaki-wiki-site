@@ -32,6 +32,278 @@ image: /images/albums/vwp/songstress.jpg
 
 ## 歌詞
 
+{{lyrics-controls::ja}}
+
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Hello hello
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+The street's getting colder here at night
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Now no one's home
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Am I gonna kiss my worst goodbye?
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+My mind is questioning still
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Somehow
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+I'm stuck on where we were in
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+I try to listen to live a life
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Just can't seem to find home
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Watch the day
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Kiss the night
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Now my heart remains empty and I can't fight
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Feel the ache
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Behind my eyes
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Now the world changed forever and we can't hide
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Can not escape everything that's just erased
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Chase the day
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Go save the night
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Still I'll be here forever right by your side
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+I'll be right by your side
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+So long so long
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+We'll hold up our heads and meet again
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Till we belong
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+And have all the answers in our hands
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+In time I hope that I heal
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+One day
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+I'll give you this song and
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+As long as you want to hear
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+We'll have found our own way back home
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Watch the day
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Kiss the night
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Now my heart's filled with you and I face the fight
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Feel the fire
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Behind my eyes
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Now the world changed forever and we won't hide
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Can not escape everything that's just erased
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Chase the day
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Go save the night
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Still I'll be here forever right by your side
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+例えこれがすべて夢だったとしても
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Chase the day
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Save the night
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Still I'll be here forever right by your side
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+I'll be right by your side
+</div>
+</div>
+
+</div>
+
+
+
 ## 出典
 
 - [公式ディスコグラフィー](https://kamitsubaki.jp/disco_category/v-w-p/)

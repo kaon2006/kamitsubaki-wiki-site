@@ -28,7 +28,237 @@ image: /images/albums/kaf/i-scream-live.jpg
 
 ## 歌詞
 
-当サイトでは許諾を確認できない歌詞全文を転載しません。公式動画の説明欄または正規配信サービスの歌詞機能を参照してください。寄稿許諾をお持ちの場合は歌詞フォーマットガイドに沿って追加できます。
+{{lyrics-controls::ja}}
+
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+昨日の夜、駅前TSUTAYAさんで
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+僕はビートルズを借りた
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+セックスピストルズを借りた
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+「ロックンロール」というやつだ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+しかし、
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+何がいいんだか全然分かりません
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+do da
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+turatura
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+oh yeah! yeah! yeah!
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+夕暮れ時、部活の帰り道で
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+またもビートルズを聞いた
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+セックスピストルズを聞いた
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+何かが以前と違うんだ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+MD取っても、イヤホン取っても
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+なんでだ全然鳴り止まねぇっ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+do da doda
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+tura tura
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+oh yeah! yeah!
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+yeah!
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+今も遠くで聞こえるあの時のあの曲がさ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+遠くで近くですぐ傍で、叫んでいる
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+遠くで見てくれあの時の僕のまま
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+初めて気がついたあの時の衝撃を僕に
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+いつまでも、いつまでも、いつまでもくれよ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+もっともっと、僕にくれよ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+もっと、もっと、もっと、もっと、
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+くれよ!
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+遠くにいる君目がけて吐き出すんだ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+遠くで近くですぐ傍で叫んでやる
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+最近の曲なんかもうクソみたいな曲だらけさ!
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+なんて事を君は言う、いつの時代でも
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+だから
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+僕は今すぐ、今すぐ、今すぐ叫ぶよ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+君に今すぐ、今、僕のギター鳴らしてやる
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+君が今すぐ、今、曲の意味分からずとも
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+鳴らす今、鳴らす時
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ロックンロールは鳴り止まないっ
+</div>
+</div>
+
+</div>
+
+
 
 ## 出典
 

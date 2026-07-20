@@ -25,7 +25,149 @@ image: /images/albums/kaf/i-scream-live-4.jpg
 
 ## 歌詞
 
-当サイトでは許諾を確認できない歌詞全文を転載しません。公式動画の説明欄または正規配信サービスの歌詞機能を参照してください。寄稿許諾をお持ちの場合は歌詞フォーマットガイドに沿って追加できます。
+{{lyrics-controls::ja}}
+
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+つーわけで今日は何やったっけ まとめてみよう いすに座って
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+思えば昨日はわりとがっかりで 踏まえていこうとしたよな
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+まわるまわるイメージ 頭の中 とびはねたり
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+10年後の今日は何もんで そばによりそう人は何もんで
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+想像しようとしてもぼんやりで 爆発しそうになるんだ
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ゆれるゆれるイメージ 頭の中横切ったり
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+色とりどりイメージ あらわになりそでなさそで
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+むすんだ目をひらいて むすびめをほどいて
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+しみこませよ細胞のすみからすみまでロングロングタイム
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+愛の日々はどんなんで 愛の意味はどんなんで
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+平和の鐘は何色 シックかも もっとからいかも
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+まわるまわる 色とりどりでタップリ
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+まわるまわるイメージ 頭の中裏返ったり
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+色とりどりイメージ となりにありそでなさそで
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+むすんだ目を開いて むすび目をほどいて
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+うめこむんだよ細胞のはしからはしまでロングロングタイム
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+愛の日々はどんなんで 愛の意味はどんなんで
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+平和の空は何色 明日かもずっと未来かも
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+まわるまわる ゆれるゆれる
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+すべるすべる 色とりどりでバッチリ
+</div>
+</div>
+
+</div>
+
+
 
 ## 出典
 

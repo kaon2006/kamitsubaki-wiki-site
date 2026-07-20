@@ -27,8 +27,138 @@ image: /images/albums/rim/new-romancer.jpg
 
 ## Lyrics
 
-## Sources
+{{lyrics-controls::ja}}
 
-- [Official discography](https://kamitsubaki.jp/disco_category/rim/)
-- [Apple Music](https://music.apple.com/jp/album/%E5%AE%BF%E6%9C%A8/1688521731?i=1688521736&uo=4)
-- [VGMdb RIM](https://vgmdb.net/artist/53598)
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ひとつ、またひとつと水滴になった
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+空に翳すグラスの底
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+透かしてみれば
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+綺麗になれば
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+愛していられたら
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+些細な細胞に宿るそれが好き
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+いまこの星に願うのは
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+溶けたいから？
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+夜の相槌の裏には誰かの影が見えて痛い
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+その瞳が綺麗だと言えない弱さが
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+幼さゆえの罪でも、それでも、いい
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+せめてきみがいれば
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+静かな警告を拒む冬が好き
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+今更妄りに歌うのを
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+夢見てる？
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+夜の相槌の裏では誰もが神に銃を向ける
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+愚かささえも愛しいと言えない狡さが
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+幼さゆえの罪でも、それでも、いい
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+せめてきみがここにいれば
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+せめてきみがいつかわらう
+</div>
+</div>
+
+</div>
+
+

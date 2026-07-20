@@ -31,7 +31,205 @@ image: /images/songs/kaf/track-1842997817.jpg
 
 ## 歌詞
 
-当サイトでは許諾を確認できない歌詞全文を転載しません。公式動画の説明欄または正規配信サービスの歌詞機能を参照してください。寄稿許諾をお持ちの場合は歌詞フォーマットガイドに沿って追加できます。
+{{lyrics-controls::ja}}
+
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Run of the mill ah ah
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+But I love those things
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Forever
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Run of the mill ah ah
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+But I love those things
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+夢も叶うこの場所で
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+でもね だけど わからない
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+画面の中探しても
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+わからないのです
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+寂しいなんて気持ちは知らなかったよ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+嬉しいなんて気持ちも知りませんでした
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+なかなか起きれずに寝坊で慌てた朝
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+タオルが乾いた昼
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あなたに「おかえり」と言うのを待つ夕方
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+星のない夜
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+どこにも無いふつう それが素敵なので
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+いつまでもあなたとずっとありふれてたい
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+いつも隣にいるのに
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+でもね だけど わからない
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+いくら数を数えても
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+わからないのです
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Run of the mill ah ah
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+But I love those things
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Forever
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Run of the mill ah ah
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+But I love those things
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あたりまえに続きそうな毎日がとても素敵なので
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+いつまでもあなたとずっとありふれてたい
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+晴れの日も雨降りの日も
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+笑い合う日も憂鬱な日も
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+どこにでもありそうな日も
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ただいつまでも ただいつまでも
+</div>
+</div>
+
+</div>
+
+
 
 ## 出典
 

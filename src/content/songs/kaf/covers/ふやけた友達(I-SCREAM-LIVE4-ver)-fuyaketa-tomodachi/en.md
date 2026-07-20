@@ -28,7 +28,83 @@ image: /images/albums/kaf/i-scream-live-4.jpg
 
 ## Lyrics
 
-This wiki does not reproduce full lyrics without confirmed permission. Consult the official video description or the licensed streaming service’s lyric feature; editors with contribution permission may add text using the lyric-format guide.
+{{lyrics-controls::ja}}
+
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+右から左へと 流れる話
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+気にせず泳がせた いつもの瞳で
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+小さなことでさえ 聞きつくしたら
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+明かりをつけたまま 眠らないでね
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+夢を見ても
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ふやけた友達で 変わらずいられたならば いつの日も
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+何もない夜さえ もどらないことを
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+夢を見ても
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ふやけた友達の 背中を押すような
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+はにかむ言葉だけ 変わらずいられたならば いつの日も
+</div>
+</div>
+
+</div>
+
+
 
 ## Sources
 

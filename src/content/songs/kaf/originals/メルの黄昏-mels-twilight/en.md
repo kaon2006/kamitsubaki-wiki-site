@@ -30,7 +30,315 @@ image: /images/albums/kaf/maho.jpg
 
 ## Lyrics
 
-This wiki does not reproduce full lyrics without confirmed permission. Consult the official video description or the licensed streaming service’s lyric feature; editors with contribution permission may add text using the lyric-format guide.
+{{lyrics-controls::ja}}
+
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+メル
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+君はそうやっていつも自分を責めてばかりだ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+テレビのニュースもあの子の自殺も
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+君のせいではないんだよ
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+メル
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+君はそうやっていつも自分を責めてばかりだ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+正義はいつも移り変わる
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+過去など関係ない
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+意味を知らず雪を見ていた
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+寂しさばかり積もるばかり
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+恋をしてた見える全てに
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+カーテンの隙間で揺れ動く
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+世界を見るメル
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+君はいつも悲しい顔でテレビを見てる
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+正義などない
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+好きなものを信じなさい
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+でも君は変わらない
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+メル
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+君はそうやっていつも寂しさを建前にするんだ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+抱きしめても優しく接しても
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+どこか目の奥は虚ろなんだ
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+メル
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+君はそうやっていつも苦しさを題材にするんだ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+悲しいことばかり思って
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+幸福を無視して
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+春の海を絶えず見ていた
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+その時やっと笑顔を見せた
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+恋をしてたあの日のように
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+砂浜の上で踊り出す
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+涙するメル
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+君はいつも切なく肌を震わすばかり
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+冷たいのだろう
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+抱きしめてあげるから
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+でも君は止まらない
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+メル
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+君は今どこにいるんだ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+書き置きひとつ残さないで
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+知識も無くどこにいくのだ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+去る先で幸せなのか
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+意味を知らず雪を見ていた
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+寂しさばかり重なるばかり
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+青さにまみれ生き急ぐのか
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+それでもいいが後悔するな
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+信じる人も愛する人も全て諦め
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+絶えぬ不幸を抱きしめ消えた
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+君は正しいのか
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+君は正しいのか
+</div>
+</div>
+
+</div>
+
+
 
 ## Sources
 

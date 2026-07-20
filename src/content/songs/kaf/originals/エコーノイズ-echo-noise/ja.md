@@ -27,7 +27,253 @@ image: /images/albums/kaf/shinai.jpg
 
 ## 歌詞
 
-当サイトでは許諾を確認できない歌詞全文を転載しません。公式動画の説明欄または正規配信サービスの歌詞機能を参照してください。寄稿許諾をお持ちの場合は歌詞フォーマットガイドに沿って追加できます。
+{{lyrics-controls::ja}}
+
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+誰だって自分が主人公の世界で
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+生きているはずだよね?
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+わたしは確信持てないよ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+朝目が覚めると今日はいつだっけって曖昧で
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+一人の静かな部屋で身支度　繰り返す
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ハイウェイで抜ける高層群
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+吸い込まれないよう目を閉じた
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+いつかの懐かしい愛情に触れた気がした
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+記憶の行方を手繰り寄せた
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+待っていてよ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+消えないで奪わないで
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+わたしでいるためのメモリー
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+正しさってものを
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+着込んでも寂しいじゃないか
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+わたしはわたしのために歌う
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あぁそれに気づいてしまったんだ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+眠れない夜が誘う迷宮の回路
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+理想と現実のバグの平行線の世界で
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+愛し方をごめんなさいを忘れそうだよ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+泣きそうな時はあなたの声見失わぬよう祈っていた
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ありふれてた日常たちが　こんなに恋しい
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+何度でもあなたがくれた　美しいライフライン
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+何のため? 二度とない愛すべきこの人生を彩るの
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+わたしの声響いて
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+時間の狭間を辿ったらさ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+待っていてよ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+与えられた役目だけじゃ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+わたしでいられない背伸び
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+敷かれたレールの上で
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ちょっと踊ってみよう
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+わたしはわたしのために歌う あぁ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+記憶の行方を手繰り寄せた
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+待っていてよ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+消えないで 奪わないで
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+わたしでいるためのメモリー
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+正しさってものを
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+着込んでも寂しいじゃないか
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+わたしとあなたのために歌う
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あぁそれに気づいてしまったんだ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+なぁそれがわたしのための歌
+</div>
+</div>
+
+</div>
+
+
 
 ## 出典
 

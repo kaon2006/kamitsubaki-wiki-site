@@ -27,8 +27,274 @@ image: /images/albums/rim/chocolate-live-4.jpg
 
 ## 歌詞
 
-## 出典
+{{lyrics-controls::ja}}
 
-- [公式ディスコグラフィー](https://kamitsubaki.jp/disco_category/rim/)
-- [Apple Music](https://music.apple.com/jp/album/l4dy-live-cover/1892255874?i=1892255888&uo=4)
-- [VGMdb 理芽](https://vgmdb.net/artist/53598)
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Oh Lady,Oh Baby
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+「離さないで」って
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+飲み込んだ言葉も消えないようなら
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Lady,Oh Baby
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+答え合わせ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+掌を合わせてさ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+夜を明かそう
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+他愛もなく進んでいく日々は、寂しい気がして
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+無駄な話が続いていくだけじゃ、満たされやしないね
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+苦いようで甘いような幻想を
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+消えるようで深いような妄想を
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+暗闇を照らす二人の踊りで
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+心通じあってさ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Oh Lady,Oh Baby
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+「離さないで」って
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+飲み込んだ言葉も消えないようなら
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Lady,Oh Baby
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+答え合わせ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+掌を合わせてさ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+夜を明かそう
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+他愛もなく進んでいく日々が、狂ってる気がして
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+無駄な話で隠してるのなら、曝け出して頂戴
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+痛くて沈むような焦燥も
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+やるせなくて積み上がった憂愁も
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+夢でさえ何も溶かせないのなら
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+今日は眠らないでいよう
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Oh Lady,Oh Baby
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+「離さないで」って
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+飲み込んだ言葉も消えないようなら
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Lady,Oh Baby
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+答え合わせ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+掌を合わせてさ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+夜を明かそう
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+四つ打ちに身を任した僕らに
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+何があるのかは分からないけど
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+落ち着かない止まれないYou and I
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+明日は体たらくでいよう
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Oh Lady,Oh Baby
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+「離さないで」って
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+飲み込んだ言葉も消えないようなら
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Lady,Oh Baby
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+答え合わせ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+掌を合わせてさ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+夜を明かそう"
+</div>
+</div>
+
+</div>
+
+

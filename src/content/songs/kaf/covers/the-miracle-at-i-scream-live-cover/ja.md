@@ -28,7 +28,387 @@ image: /images/albums/kaf/i-scream-live.jpg
 
 ## 歌詞
 
-当サイトでは許諾を確認できない歌詞全文を転載しません。公式動画の説明欄または正規配信サービスの歌詞機能を参照してください。寄稿許諾をお持ちの場合は歌詞フォーマットガイドに沿って追加できます。
+{{lyrics-controls::ja}}
+
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Every drop of rain that falls
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+In Sahara Desert says it all
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+It's a miracle
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+All God's creations great and small
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+The Golden Gate and the Taj Mahal
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+That's a miracle
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Test tube babies being born
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Mothers, fathers dead and gone
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+It's a miracle
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+We're having a miracle on earth
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Mother nature does it all for us
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+The wonders of this world go on
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+The hanging Gardens of Babylon
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Captain Cook and Cain and Abel
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Jimi Hendrix to the Tower of Babel
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+It's a miracle
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+It's a miracle
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+It's a miracle
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+It's a miracle
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+The one thing we're all waiting for
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Is peace on earth, an end to war
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+It's a miracle we need, the miracle
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+The miracle we're all waiting for today
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+If every leaf on every tree
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Could tell a story that would be a miracle
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+If every child on every street
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Had clothes to wear and food to eat
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+That's a miracle
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+If all God's people could be free
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+To live in perfect harmony
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+It's a miracle
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+We're having a miracle on earth
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Mother nature does it all for us
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Open hearts and surgery (Wonders of this world go on)
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Sunday mornings with a cup of tea
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Super powers always fighting
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+But Mona Lisa just keeps on smiling
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+It's a miracle
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+It's a miracle
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+It's a miracle
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+(Wonders of this world go on)
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+It's a miracle
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+It's a miracle
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+It's a miracle
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+It's a miracle
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+The one thing (the one thing)
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+We're all waiting for (we're all waiting for)
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Is peace on earth (peace on earth)
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+And an end to war (an end to war)
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+It's a miracle we need, the miracle
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+The miracle
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Peace on earth and end to war today
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+That time will come one day you'll see
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+When we can all be friends
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+That time will come one day you'll see
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+When we can all be friends
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+That time will come one day you'll see
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+When we can all be friends
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+That time will come one day you'll see
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+When we can all be friends
+</div>
+</div>
+
+</div>
+
+
 
 ## 出典
 

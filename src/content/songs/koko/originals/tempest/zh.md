@@ -27,8 +27,140 @@ image: /images/songs/koko/single-1800618742.jpg
 
 ## 歌词
 
-## 来源
+{{lyrics-controls::ja}}
 
-- [官方作品目录](https://kamitsubaki.jp/disco_category/koko/)
-- [Apple Music](https://music.apple.com/jp/album/tempest-feat-%E5%B9%B8%E7%A5%9C/1800618742?i=1800618747&uo=4)
-- [VGMdb 幸祜](https://vgmdb.net/artist/53600)
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Bruised but forgiven
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+You talk like the world is against you
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+You pull yourself to pieces
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+But I'm never getting over you
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Give it some thought before you fall
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Give it some thought before you fall
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+I was fading out
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Like a whisper in the wind
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Wishing I was someone else, somewhere new
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Sailing away with you
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+I won't turn away
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+As you sail away from the shore
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+I'm a castaway
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+But I was dead and buried long before
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Give it some thought before you fall
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Give it some thought before you fall
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+I won't turn away
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+As you sail away from the shore
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+I'm a castaway
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+But I was dead and buried long before
+</div>
+</div>
+
+</div>
+
+

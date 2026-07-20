@@ -27,8 +27,154 @@ image: /images/albums/harusaruhi/cream-puff-live-4.jpg
 
 ## 歌詞
 
-## 出典
+{{lyrics-controls::ja}}
 
-- [公式ディスコグラフィー](https://kamitsubaki.jp/disco_category/harusaruhi/)
-- [Apple Music](https://music.apple.com/jp/album/%E3%82%BF%E3%83%BC%E3%83%9F%E3%83%8A%E3%83%AB-cover-live/1833427142?i=1833427297&uo=4)
-- [VGMdb 春猿火](https://vgmdb.net/artist/48426)
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+kidzuita nowa nakushita sono ato de
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+furikaereba kaze ga naita
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+kienai koe ga itsumademo mune ni
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+fureta matataiteiru
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+kousa shiteku koto no nai sen demo
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+itsuka, dokoka, tadoritsuku darou ka
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+kibou wa itsushika
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+risou to genjitsu toriatte
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+dochira nimo somarenai boku wa
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+hibi ni nomareta
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+tatoeba, ano toki kimi ga...
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+kienai koe ga ima mo toikakeru boku o
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+tamesu you ni
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+sono kanjou ikitsuku saki niwa kimi ga
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+nozomu mono ga aru noka, to
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+kaze ga naida
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+tooku ni uta g aru
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+kimi ga kureta manazashi tomo ni
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+kienai koe ga itsumademo mune ni
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+furete matataiteiru
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+kousa shiteku koto no nai sen demo
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+itsuka, dokoka, tadoritsuku darou
+</div>
+</div>
+
+</div>
+
+

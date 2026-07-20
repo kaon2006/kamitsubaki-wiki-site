@@ -32,6 +32,250 @@ image: /images/albums/vwp/awakening.jpg
 
 ## 歌詞
 
+{{lyrics-controls::ja}}
+
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+何かが足りないってふと思う度
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+大人になってくのが怖くてさ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+床に落とした水滴の色が
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+褪せないように 溶けないように
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+持ち合わせだけ感情が揺れる
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ずるくなれないままでいい
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ありがとう
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あなたが僕にくれた
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+かじかんだ手
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+暖かい温もりを
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+このままで居られたら
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+それだけで
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+世界は透明になる
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+心の隙間だけが苦しくて
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+やりきれない寂しさもほら
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+奏で続ける明日の音楽
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+それだけでさ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+また歩いてゆけるよ
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+染みてゆく こぼれた感情
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+見えないままにさ 不安になるから
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+なぞり続けた過去の追憶に
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+僕はいつしか囚われていた
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+寄せ合って 触れたって 崩れてく
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+その欠片を抱きしめたい
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ありがとう
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あなたが僕にくれた
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+かじかんだ手
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+暖かい温もりを
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+このままで居られたら
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+それだけで
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+世界は透明になる
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+生きてるよ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+さぁ言葉 咲き誇れ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+不確かな人生の真ん中で
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+そのまま明日の奥へ駆け出す
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+手を繋いで
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+独りじゃないからさ
+</div>
+</div>
+
+</div>
+
+
+
 ## 出典
 
 - [公式ディスコグラフィー](https://kamitsubaki.jp/disco_category/v-w-p/)

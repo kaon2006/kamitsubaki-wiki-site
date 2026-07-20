@@ -27,8 +27,100 @@ Phantom appears on Phantom or a related official release. Entries are version-sp
 
 ## Lyrics
 
-## Sources
+{{lyrics-controls::ja}}
 
-- [Official discography](https://kamitsubaki.jp/disco_category/koko/)
-- [Apple Music](https://music.apple.com/jp/album/phantom/1890386260?i=1890386261&uo=4)
-- [VGMdb KOKO](https://vgmdb.net/artist/53600)
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Sure I'd give it up
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Just for one more chance to say
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Goodnight, all my love
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Was it real or just fantasy?
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Your phantom sits with me
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+When I'm all alone
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+I love you still
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Surely, I was wrong
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Casting spells and singing silly songs
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+You knew all along
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Hold your love before it's gone
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Your phantom sits with me
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+When I'm all alone
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+I love you still
+</div>
+</div>
+
+</div>
+
+

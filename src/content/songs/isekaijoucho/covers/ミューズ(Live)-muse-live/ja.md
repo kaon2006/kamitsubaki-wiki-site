@@ -27,8 +27,202 @@ image: /images/albums/isekaijoucho/candy-live-2.jpg
 
 ## 歌詞
 
-## 出典
+{{lyrics-controls::ja}}
 
-- [公式ディスコグラフィー](https://kamitsubaki.jp/disco_category/isekaijoucho/)
-- [Apple Music](https://music.apple.com/jp/album/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%BA-live/1679278954?i=1679279241&uo=4)
-- [VGMdb ヰ世界情緒](https://vgmdb.net/artist/53599)
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+霞の中 滲むシルエット
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+どこにもない道を歩いてる
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+作り話 おとぎ話
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+夢でも幻でも
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あなたのため(wow)作り出そう
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ハローミューズ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+私のひらめきの源泉よ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+どこへだって さあ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+エスコートしよう
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+この手を取って お連れしましょう
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ハローミューズ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+私たちまだ見たことない場所ばかり
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+この高まりは 強いお酒に似て♪
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+レッドカーペット 華やぐ街
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+どこへ向かうと言うの
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+心の奥(wow)この夢は
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ハローミューズ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+何度も開いた劇場のドアの中で
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+今度は私が あなたを待ちたいの
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+燃え上がって
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+焦がれるような
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+その情熱が いいよね
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+知らん顔して演じて何度も
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+そして乾杯、乾杯、乾杯、乾杯
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ハローミューズ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+私のひらめきの源泉よ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+どこへだって さあ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+エスコートしよう
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+この手を取って お連れしましょう
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ハローミューズ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+私たちまだ見たことない場所ばかり
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+この高まりは 強いお酒に似て♪
+</div>
+</div>
+
+</div>
+
+

@@ -27,8 +27,214 @@ image: /images/albums/rim/new-romancer-2.jpg
 
 ## 歌詞
 
-## 出典
+{{lyrics-controls::ja}}
 
-- [公式ディスコグラフィー](https://kamitsubaki.jp/disco_category/rim/)
-- [Apple Music](https://music.apple.com/jp/album/%E3%81%8A%E3%81%97%E3%81%88%E3%81%A6%E3%81%8B%E3%81%BF%E3%81%95%E3%81%BE/1719622052?i=1719622055&uo=4)
-- [VGMdb 理芽](https://vgmdb.net/artist/53598)
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+夕暮れのチャイムが背骨を撫で回す
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+まるで、もう誰もいないかのように
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+上履きでランデヴ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+同一の軌道上で
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+君に
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+会えたらいいのに
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+おしえておしえて
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+かみさまはどうして
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+いつも迎えを寄越さないの
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+おしえておしえて
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あなたはどうして
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+まばたきひとつも
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+許せないの
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+おしえておしえて
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+かみさまはどうして
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+人とおんなじ顔をするの
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ごめんね
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ごめんね
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+思い出ひとつで泣けてはいられないのに
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+爆ぜそう…
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+おしえておしえて
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+かみさまはどうして
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+いつも迎えに来られないの
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+かみさま
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+おしえて、百年後の花を
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+咲かせて
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+聞かせて
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+聞かせて
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+おしえて
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+おしえて
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+夕暮れのチャイムが今でも鳴り響く
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+誰にもばれちゃいけないところで
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+真っ直ぐに線路を歩いてみたいなんて、
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+君が聞いたら笑うだろうか？
+</div>
+</div>
+
+</div>
+
+

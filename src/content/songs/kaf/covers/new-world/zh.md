@@ -25,6 +25,126 @@ image: /images/albums/kaf/i-scream-live-4.jpg
 
 ## 歌词
 
-## 来源
+{{lyrics-controls::ja}}
 
-- [Apple Music](https://music.apple.com/jp/album/new-world-feat-%E3%83%B0%E4%B8%96%E7%95%8C%E6%83%85%E7%B7%92/1864122479?i=1864122664&uo=4)
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+There's a raging storm around us
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Trying to tear us from the ground
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+We can ride this wave together
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Until the thunder makes no sound
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+We are the new world
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+We'll unite this world together
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+We are the new world
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+We'll put this fire out forever
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+We are the new world
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+We'll put this fire out forever
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+We can make our own salvation
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+When there's a battle to be won
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+We can end this fight forever
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Take the bullet from the gun
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+We are the new world
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+We'll unite this world together
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+We are the new world
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+We'll put this fire out forever
+</div>
+</div>
+
+</div>
+
+

@@ -25,7 +25,115 @@ image: /images/albums/kaf/i-scream-live.jpg
 
 ## Lyrics
 
-This wiki does not reproduce full lyrics without confirmed permission. Consult the official video description or the licensed streaming service’s lyric feature; editors with contribution permission may add text using the lyric-format guide.
+{{lyrics-controls::ja}}
+
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ヘッドフォンつけて閉ざした君との世界
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ふわふわ浮かんだ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+空の青さも確かめられなくて
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+遠ざけてたかかとが
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+虹の見えない水たまりに映えて
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+道のようにのびていった
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+宙ぶらりんの僕を なんて簡単にガッツポーズ決めさせ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+宙ぶらりんの街は劇場になって 今すぐ主役に君となれそうなの
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+迷子アナウンスもない僕の公園
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+明日は来るかな
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+勝手な忙しさに明け暮れたってどうもぴんとこないね
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+いっそ君となら棒振ろうか
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+人生とかいうグラウンド立って
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+宙ぶらりんの僕を なんて簡単にガッツポーズ決めさせ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+宙ぶらりんの日々は冒険になって 今すぐ夢中に君となれそうなの
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+寂しい体から抜け出して 君が待つ心へ引っ越しして
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+今すぐ主役に君となりたがってる
+</div>
+</div>
+
+</div>
+
+
 
 ## Sources
 

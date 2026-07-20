@@ -27,8 +27,138 @@ image: /images/albums/harusaruhi/spice-of-life.jpg
 
 ## Lyrics
 
-## Sources
+{{lyrics-controls::ja}}
 
-- [Official discography](https://kamitsubaki.jp/disco_category/harusaruhi/)
-- [Apple Music](https://music.apple.com/jp/album/%E3%82%A2%E3%82%A4%E3%82%B7%E3%82%BF%E3%82%A4/1866810856?i=1866811149&uo=4)
-- [VGMdb Harusaruhi](https://vgmdb.net/artist/48426)
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+自分らしくいたいだけなのに
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+誰かと比べられるのもういい
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+繋がってるようで心は遠い
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+I’m  feeling lonely
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+言葉たまに凶器になるのに
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+笑えない言葉で悪ノリ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+息が詰まりそうなやりとり
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+まるで毒
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+だから自分守るために離れとく
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+yeah
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+そんなことより愛を
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+好きなことする自分を愛そう
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+理不尽なこの世界で迷子
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+でも笑いたい私の最期
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+好きに歌おう
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Whatever you want
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+思ってなくても言う 私最高！yeah
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Lucky lucky lucky
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+思ったもん勝ち
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+自分のものさしで生きるこの先
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+yeah
+</div>
+</div>
+
+<br />
+
+</div>
+
+

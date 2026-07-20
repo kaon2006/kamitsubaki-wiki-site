@@ -27,8 +27,328 @@ image: /images/albums/isekaijoucho/candy-live-3.jpg
 
 ## Lyrics
 
-## Sources
+{{lyrics-controls::ja}}
 
-- [Official discography](https://kamitsubaki.jp/disco_category/isekaijoucho/)
-- [Apple Music](https://music.apple.com/jp/album/%E5%83%95%E3%81%AF%E4%BE%9D%E5%AD%98%E7%97%87-cover-live/1854052580?i=1854052593&uo=4)
-- [VGMdb Isekaijoucho](https://vgmdb.net/artist/53599)
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+現実を見たいだけ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+楽にして欲しいだけ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+両まぶたにバツの印
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ドクターは言いました
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+“悪魔”は今日も笑っている?
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+最後にそれを確かめる
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+揺いだカ一テン
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+サインする手は震えた
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+僕は依存症になった
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+君という名の後遺症
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+付け回さないでくれよ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+形のない温もり
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+その手は幽霊か
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+それとも冷たい火傷
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+誰にも罪なんてないさ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+君を映すこの眼が悪い
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+抱えた膝がね 離れなくなる
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+泡沫まほろば 曖昧 夜明け
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+その細い首を締め付ける 悪夢を見てしまった
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+荒んだ部屋中に笑い声が響いた
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+大好きだった 笑い声だったのに
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+僕は依存症になった
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ドクタ一に渡す同意書
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+二人で分け合ったメモリ一
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+いつからか僕だけが
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+大人になっていた
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+それでも君は笑っていた
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+首を傾げないでくれよ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+理解なんて出来やしないから
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+コメカミのずっと奥が痛む 疑心
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+消えろ消えろ 何度 唱えただろう
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+神格化してたのは僕だ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ゆえに神殺しの罰を受けよう
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+現実を見たいだけ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+楽にして欲しいだけ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+両まぶたにバツの印
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ドクタ一は言いました
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+“悪魔”は今日も笑っている?
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+最後にそれを確かめる
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+点滴の雫が落ちたら
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+夢を見るだけ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+僕は依存症になった
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+君という名の後遺症
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+付け回さないでくれよ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+形のない温もり
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+その手は幽霊か
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+それとも冷たい火傷
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+誰にも罪なんてないさ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+君を映すこの眼が悪い 悪い
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+押し潰されていく心と体
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ドクタ一お願い 右目を還して
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+左目を還して あの日に還して
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+お願い
+</div>
+</div>
+
+</div>
+
+

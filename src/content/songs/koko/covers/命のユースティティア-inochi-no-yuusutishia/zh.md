@@ -22,7 +22,264 @@ image: /images/albums/koko/arare-live.jpg
 
 ## 歌词
 
-## 来源
+{{lyrics-controls::ja}}
 
-- [官方作品目录](https://kamitsubaki.jp/discography/koko/704/)
-- [VGMdb 幸祜](https://vgmdb.net/artist/53600)
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Justice is still in my heart
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+君に届け ユースティティア
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+暗闇が立ち込めた様な 見捨てられた街で
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+一人 孤独を詠う君を見た
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+よみがえる過去（きおく）に木霊（こだま）して 君の腕を掴む
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ここが 約束の地だと信じて
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+確かな答えは何処にも無いけれど
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+籠の中の小鳥は目覚めた
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+羽根さえ無いまま鼓動は加速して
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+僕らこの日を この時を待ち続けてたんだ
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+叶わぬ祈りに 救いの両手を
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+生まれ変われ 命のユースティティア
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+どんな風 吹いていたって
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+この声は 消せやしない
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+未来（あした）の僕らに 残せる物は何？
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+宙（そら）を照らせ 一縷（いちる）のユースティティア
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+一秒だって 狂わせない
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+奪われた世界を さぁ 取り戻せ
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+重なり合って いつの日だって
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+僕らは共にいる
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+錆び付いた扉に手翳して 再び描く現在（いま）
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+君の 君だけの物語（うた）が始まる
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+失くした言葉と言葉の意味を紡ぎ合わせて
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+強く 誰より力強く 咲き誇るその音（ね）を
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+どうか 絶やさないで
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+僕が僕らしく在ること 君が君らしく在ること
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+それが果てしない僕らの ユースティティア
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+叶わぬ祈りに 救いの両手を
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+生まれ変われ 命のユースティティア
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+どんな風 吹いていたって
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+この声は 消せやしない
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+未来（あした）の僕らに 残せる物は何？
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+宙（そら）を照らせ 一縷（いちる）のユースティティア
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+一秒だって 狂わせない
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+奪われた世界を さぁ 取り戻せ
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+偽り合って 騙されたって
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+それでもそっと 光は降って
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+いつかはきっと 必ずきっと
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+僕が君の心 燈（とも）すから
+</div>
+</div>
+
+</div>
+
+

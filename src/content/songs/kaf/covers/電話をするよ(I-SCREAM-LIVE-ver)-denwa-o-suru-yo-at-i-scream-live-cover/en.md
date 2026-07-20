@@ -28,7 +28,173 @@ image: /images/albums/kaf/i-scream-live.jpg
 
 ## Lyrics
 
-This wiki does not reproduce full lyrics without confirmed permission. Consult the official video description or the licensed streaming service’s lyric feature; editors with contribution permission may add text using the lyric-format guide.
+{{lyrics-controls::ja}}
+
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+夜がふけて窓しめて
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+お日様が少し昇ったら
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+目を閉じてでもまぶしくて
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ちょっとユウウツが
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+僕のじゃまをしたら
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+また電話をするよ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+キミに電話をするよ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+きっと電話をするよ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+たのむから僕をなぐさめて
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+内緒だよ (内緒だよ)
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+秘密だよ (秘密だよ)
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Oh 少しだけ (oh 少しだけ)
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+僕は狂っているよ
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+誰よりも (誰よりも)
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+何よりも (何よりも)
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+総理大臣よりも (総理大臣よりも)
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+キミに頼っているよ
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+また電話をするよ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+キミに電話をするよ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+きっと電話をするよ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+たのむから僕を
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+また電話をするよ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+キミに電話をするよ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+きっと電話をするよ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+たのむから僕をなぐさめて
+</div>
+</div>
+
+</div>
+
+
 
 ## Sources
 

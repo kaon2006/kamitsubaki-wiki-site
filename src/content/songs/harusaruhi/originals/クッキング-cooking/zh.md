@@ -27,8 +27,92 @@ image: /images/albums/harusaruhi/spice-of-life.jpg
 
 ## 歌词
 
-## 来源
+{{lyrics-controls::ja}}
 
-- [官方作品目录](https://kamitsubaki.jp/disco_category/harusaruhi/)
-- [Apple Music](https://music.apple.com/jp/album/%E3%82%AF%E3%83%83%E3%82%AD%E3%83%B3%E3%82%B0/1866810856?i=1866810857&uo=4)
-- [VGMdb 春猿火](https://vgmdb.net/artist/48426)
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+何作ろうかな?
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+スーパーマーケット鳴ったお腹
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+特売になってるお魚
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あとゲットするかわいいお皿yeah
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+匂いはgood
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+焼けてる音ジュー
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+スパイス振る
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ぐつぐつなるスープ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+隠し味は愛よ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+聞きたいからね君の「最高」yeah
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+何作ろうかな?
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+yeah うん
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ああ ごちそうさま
+</div>
+</div>
+
+<br />
+
+</div>
+
+

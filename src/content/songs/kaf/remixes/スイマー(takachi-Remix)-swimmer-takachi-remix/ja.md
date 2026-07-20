@@ -25,7 +25,155 @@ image: /images/albums/kaf/guwa-gamma.jpg
 
 ## 歌詞
 
-当サイトでは許諾を確認できない歌詞全文を転載しません。公式動画の説明欄または正規配信サービスの歌詞機能を参照してください。寄稿許諾をお持ちの場合は歌詞フォーマットガイドに沿って追加できます。
+{{lyrics-controls::ja}}
+
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ああ また 汗流れた
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ああ また 夏が走り去ってく様で
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+騙されたみたいだ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+そう言や あまり降らなかった雨
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あの頃 ぼくらは間違えてて
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+定まらない姿勢で
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+大いなる意識の上 水求めて
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ああ また 例の夢見た
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+甘ったれた肌を刺している様で
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ああ やたら喉渇いた
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+そう言えば ずっと君を待っていたんだ
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+体の中を流れてる
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+真新しい未来を涙で隠させぬ様
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+もっと泳げ
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+世界は何も告げない
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+唯一のマスターピースは
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+どうにか完成した
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+体の中を流れてる
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+真新しい未来を涙で隠させぬ様
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+息を止めてけ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+これから ぼくらは繰り返してく
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+定まらない姿勢で 何かに立ち向かう様一層泳げ
+</div>
+</div>
+
+</div>
+
+
 
 ## 出典
 

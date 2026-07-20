@@ -27,6 +27,206 @@ image: /images/songs/rim/single-1688347819.jpg
 
 ## 歌詞
 
+{{lyrics-controls::ja}}
+
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+生活の大半が そう
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+くだらない妄想気味な感傷です
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あいつらの用意した
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+どんな朝日も怖いの
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あたしの身に流れる血は
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あなたみたいに綺麗じゃない
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+動けない 動けないんです
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+笑えない 笑えないんです
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+明日も晴れないの
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+蔑さげすんで 暴いて あたしを壊して
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+つまらないこと聞かないでよ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+この手を 脚を 視線を落として
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+全部 心の臓ぞうの奥の方で
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+反応に疼(うず)いてんの
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+（簡単な答えを捻り出して？）
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+（簡単な答えを捻り出して？）
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+（簡単な答えを捻り出して？）
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+（簡単な答えを捻り出して？）
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あたしの身に流れる血は
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あなたみたいに綺麗じゃない
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+動けない 動けないんです
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+笑えない 笑えないんです
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+明日も晴れないの
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+蔑んで 暴いて あたしを壊して
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+つまらないこと聞かないでよ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+この手を 脚を 視線を落として
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+全部 心の臓の奥の方で
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+反応に疼いてんの
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+クライベイビー
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+クライベイビー
+</div>
+</div>
+
+</div>
+
+
+
 ## 出典
 
 - [公式ディスコグラフィー](https://kamitsubaki.jp/discography/rim/348/)

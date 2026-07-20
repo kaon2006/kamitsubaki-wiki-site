@@ -27,8 +27,236 @@ Do you feel appears on CHOCOLATE LIVE2 or a related official release. Entries ar
 
 ## Lyrics
 
-## Sources
+{{lyrics-controls::ja}}
 
-- [Official discography](https://kamitsubaki.jp/disco_category/rim/)
-- [Apple Music](https://music.apple.com/jp/album/do-you-feel/1731094532?i=1731094540&uo=4)
-- [VGMdb RIM](https://vgmdb.net/artist/53598)
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Do you feel the way I do
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Tell me now oh tell me now
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+I need to know that it's true
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Oh do you feel the way I do
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+I need to know
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Do you love me the way I love you
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Tell me now oh tell me now
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+I need to know that it's true
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Oh fo you feel the way I do
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+I need to know
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+The world is a wonderful place
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+It spins around and spins around
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+The world has a magic about it
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+The stars above are like my love
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+You never need to doubt it
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Ooh are we real or is this a dream
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Tell me now oh tell me now
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Is it all that it seems
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Oh do you feel the way I do
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+I need to know
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+The world is a wonderful place
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+It spins around and it spins around
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+And spins around in space
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+The world has a magic about it
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+And though I try there's so much I
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Will never know about it
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Do you feel the way I do
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Tell me now oh tell me now
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+I need to know that it's true
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Oh do you feel the way I do
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+I need to know
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+I need to know
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Do you feel the same way
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Do you feel the same way I do
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Do you feel like I do
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+I need to know
+</div>
+</div>
+
+</div>
+
+

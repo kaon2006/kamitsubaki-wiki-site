@@ -28,7 +28,121 @@ image: /images/albums/kaf/i-scream-live.jpg
 
 ## 歌詞
 
-当サイトでは許諾を確認できない歌詞全文を転載しません。公式動画の説明欄または正規配信サービスの歌詞機能を参照してください。寄稿許諾をお持ちの場合は歌詞フォーマットガイドに沿って追加できます。
+{{lyrics-controls::ja}}
+
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+さよなら歌姫 最後の曲だね 君の歌が本当に好きだ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+今夜も歌姫 凄く綺麗だね 君の事が本当に好きだ
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+さよなら歌姫 アンコールはどうする 君の事だからきっと無いね
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+それなら歌姫 アルコールはどうする 僕は全然飲めないけど
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+歌声 歌声 でも君は泣いていたんだね
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+泣き声 泣き声 僕は気づけなかった
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+僕も随分年をとったよ こんな事で感傷的になってさ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+今なら歌姫 やり直せるかな
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+君はいつも勝手だ
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+歌声 歌声 でも君は泣いていたんだね
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+泣き声 泣き声 僕は気づけなかった
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+最後の4小節君の口が動く
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+最後の4小節君が歌う
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+最後の4小節君の気持ちが動く さよなら
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+歌声 歌声 でも君は泣いていたんだね
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+泣き声 泣き声 僕は気づけなかった
+</div>
+</div>
+
+</div>
+
+
 
 ## 出典
 

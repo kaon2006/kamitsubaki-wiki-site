@@ -27,7 +27,207 @@ image: /images/albums/kaf/kyoso-gamma.jpg
 
 ## Lyrics
 
-This wiki does not reproduce full lyrics without confirmed permission. Consult the official video description or the licensed streaming service’s lyric feature; editors with contribution permission may add text using the lyric-format guide.
+{{lyrics-controls::ja}}
+
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+在深秋邂逅你
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+如初戀詩般優美
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+無慮又俏皮
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+與你漫步長夜裏 已心醉
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+晚風輕吹 星星也緊隨
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+在想戀季候
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+迷痴痴總覺昏醉
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+從來沒掉眼淚
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+冷雨落下長夜裏 似心碎
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+抱緊空虛 急風正吹
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+何以分開 長夜共冷雨説相愛
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+離別了你 每日如蠟像在發呆
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+可以分開 留下是抱怨與感慨
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+離別了你 午夜仍造夢是你來
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+在深秋邂逅你
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+由相戀緊接分離
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+仍願靜默盼祈
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+抱擁着你
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+冷雨落下長夜裏 似心碎
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+抱緊空虛 急風正吹
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+何以分開 長夜共冷雨説相愛
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+離別了你 每日如蠟像在發呆
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+可以分開 留下是抱怨與感慨
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+離別了你 午夜仍造夢是你來
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+何以分開 長夜共冷雨説相愛
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+離別了你 午夜仍造夢是你來
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+在深秋邂逅你
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+由相戀緊接分離
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+仍願靜默盼祈
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+抱擁着你
+</div>
+</div>
+
+</div>
+
+
 
 ## Sources
 

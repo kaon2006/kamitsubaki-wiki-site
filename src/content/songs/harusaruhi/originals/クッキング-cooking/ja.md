@@ -27,6 +27,96 @@ image: /images/albums/harusaruhi/spice-of-life.jpg
 
 ## 歌詞
 
+{{lyrics-controls::ja}}
+
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+何作ろうかな?
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+スーパーマーケット鳴ったお腹
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+特売になってるお魚
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あとゲットするかわいいお皿yeah
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+匂いはgood
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+焼けてる音ジュー
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+スパイス振る
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ぐつぐつなるスープ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+隠し味は愛よ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+聞きたいからね君の「最高」yeah
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+何作ろうかな?
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+yeah うん
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ああ ごちそうさま
+</div>
+</div>
+
+<br />
+
+</div>
+
+
+
 ## 出典
 
 - [公式ディスコグラフィー](https://kamitsubaki.jp/disco_category/harusaruhi/)

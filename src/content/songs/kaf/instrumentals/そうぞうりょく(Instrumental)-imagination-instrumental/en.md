@@ -26,7 +26,73 @@ image: /images/albums/kaf/kyoso.jpg
 
 ## Lyrics
 
-This is an instrumental track and has no lyrics.
+{{lyrics-controls::ja}}
+
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+かえるのうたが
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+きこえてくるよ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+クワ　クワ　クワ　クワ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ケケケケ　ケケケケ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+クワ　クワ　クワ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+かえるのうたが
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+きこえてくるよ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+クワ　クワ　クワ　クワ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ケケケケ　ケケケケ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+クワ　クワ　クワ
+</div>
+</div>
+
+</div>
+
+
 
 ## Sources
 

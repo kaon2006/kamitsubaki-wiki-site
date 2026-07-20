@@ -40,173 +40,395 @@ image: /images/albums/vwp/fate.jpg
 
 <div class="lyric-line">
 <div class="jp-lyric">
-(<ruby>ヰ世界<rt class="furi">いせかい</rt><rt class="roma">isekai</rt></ruby><ruby>情緒<rt class="furi">じょうちょ</rt><rt class="roma">joucho</rt></ruby>)
+これは魔法だ
 </div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-<ruby>これ<rt class="roma">kore</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>魔法<rt class="furi">まほう</rt><rt class="roma">mahou</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby>
+生きた日々を忘れた私の奇跡だ
 </div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-<ruby>生<rt class="furi">い</rt><rt class="roma">i</rt></ruby><ruby>きた<rt class="roma">kita</rt></ruby><ruby>日々<rt class="furi">ひび</rt><rt class="roma">hibi</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>忘<rt class="furi">わす</rt><rt class="roma">wasu</rt></ruby><ruby>れた<rt class="roma">reta</rt></ruby><ruby>私<rt class="furi">わたし</rt><rt class="roma">watashi</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>奇跡<rt class="furi">きせき</rt><rt class="roma">kiseki</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby>
+永遠の時代で
 </div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-(<ruby>理芽<rt class="furi">りめ</rt><rt class="roma">rime</rt></ruby>)
+反逆者になったの
 </div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-<ruby>永遠<rt class="furi">えいえん</rt><rt class="roma">eien</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>時代<rt class="furi">じだい</rt><rt class="roma">jidai</rt></ruby><ruby>で<rt class="roma">de</rt></ruby>
+偽物の子供達
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+離さないで 今を
 </div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-<ruby>反逆者<rt class="furi">はんぎゃくしゃ</rt><rt class="roma">hangyakusha</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>なった<rt class="roma">natta</rt></ruby><ruby>の<rt class="roma">no</rt></ruby>
+許さないで 意味を
 </div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-<ruby>偽物<rt class="furi">にせもの</rt><rt class="roma">nisemono</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>子供達<rt class="furi">こどもたち</rt><rt class="roma">kodomotachi</rt></ruby>
+確信犯で繋がった
 </div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-(<ruby>春猿火<rt class="furi">はるさるひ</rt><rt class="roma">harusaruhi</rt></ruby>)
+見たいものを見せて
 </div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-<ruby>離<rt class="furi">はな</rt><rt class="roma">hana</rt></ruby><ruby>さないで<rt class="roma">sanaide</rt></ruby> <ruby>今<rt class="furi">いま</rt><rt class="roma">ima</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby>
+教えて
 </div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-<ruby>許<rt class="furi">ゆる</rt><rt class="roma">yuru</rt></ruby><ruby>さないで<rt class="roma">sanaide</rt></ruby> <ruby>意味<rt class="furi">いみ</rt><rt class="roma">imi</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby>
+燻る欲望だらけの日々に
 </div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-(<ruby>幸祜<rt class="furi">ここ</rt><rt class="roma">koko</rt></ruby>)
+言葉に魂はあるか？
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+答えて
 </div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-<ruby>確信犯<rt class="furi">かくしんはん</rt><rt class="roma">kakushinhan</rt></ruby><ruby>で<rt class="roma">de</rt></ruby><ruby>繋<rt class="furi">つな</rt><rt class="roma">tsuna</rt></ruby><ruby>がった<rt class="roma">gatta</rt></ruby>
+歌って
 </div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-<ruby>見<rt class="furi">み</rt><rt class="roma">mi</rt></ruby><ruby>たい<rt class="roma">tai</rt></ruby><ruby>もの<rt class="roma">mono</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>見<rt class="furi">み</rt><rt class="roma">mi</rt></ruby><ruby>せて<rt class="roma">sete</rt></ruby>
+意味を抱きしめるように
 </div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-(<ruby>花譜<rt class="furi">かふ</rt><rt class="roma">kafu</rt></ruby>)
+あなたの産声を
 </div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-<ruby>教<rt class="furi">おし</rt><rt class="roma">oshi</rt></ruby><ruby>えて<rt class="roma">ete</rt></ruby>
+頭の悪い号哭を
 </div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-<ruby>燻<rt class="furi">くすぶ</rt><rt class="roma">kusubu</rt></ruby><ruby>る<rt class="roma">ru</rt></ruby><ruby>欲望<rt class="furi">よくぼう</rt><rt class="roma">yokubou</rt></ruby><ruby>だらけ<rt class="roma">darake</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>日々<rt class="furi">ひび</rt><rt class="roma">hibi</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby>
+届いて
 </div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-<ruby>言葉<rt class="furi">ことば</rt><rt class="roma">kotoba</rt></ruby><ruby>に<rt class="roma">ni</rt></ruby><ruby>魂<rt class="furi">たましい</rt><rt class="roma">tamashii</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>ある<rt class="roma">aru</rt></ruby><ruby>か<rt class="roma">ka</rt></ruby>？
+なぞって
 </div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-(<ruby>全員<rt class="furi">ぜんいん</rt><rt class="roma">zen'in</rt></ruby>)
+意味を確かめるように
 </div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-<ruby>答<rt class="furi">こた</rt><rt class="roma">kota</rt></ruby><ruby>えて<rt class="roma">ete</rt></ruby>
+この世界は私のものだ
 </div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-<ruby>歌<rt class="furi">うた</rt><rt class="roma">uta</rt></ruby><ruby>って<rt class="roma">tte</rt></ruby>
+月が鳴り響くまで
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+これが現実だ
 </div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-<ruby>意味<rt class="furi">いみ</rt><rt class="roma">imi</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>抱<rt class="furi">だ</rt><rt class="roma">da</rt></ruby><ruby>きしめる<rt class="roma">kishimeru</rt></ruby><ruby>ように<rt class="roma">youni</rt></ruby>
+楽園を目指した電子の奇跡だ
 </div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-<ruby>あなた<rt class="roma">anata</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>産声<rt class="furi">うぶごえ</rt><rt class="roma">ubugoe</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby>
+永遠の世界に
 </div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-<ruby>頭<rt class="furi">あたま</rt><rt class="roma">atama</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>悪<rt class="furi">わる</rt><rt class="roma">waru</rt></ruby><ruby>い<rt class="roma">i</rt></ruby><ruby>号哭<rt class="furi">ごうこく</rt><rt class="roma">goukoku</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby>
+脳髄をくすぐる
 </div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-<ruby>届<rt class="furi">とど</rt><rt class="roma">todo</rt></ruby><ruby>いて<rt class="roma">ite</rt></ruby>
+偽物の景色達
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+生きてきた意味と
 </div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-<ruby>なぞって<rt class="roma">nazotte</rt></ruby>
+あがいてきた過去が
 </div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-<ruby>意味<rt class="furi">いみ</rt><rt class="roma">imi</rt></ruby><ruby>を<rt class="roma">wo</rt></ruby><ruby>確<rt class="furi">たし</rt><rt class="roma">tashi</rt></ruby><ruby>かめる<rt class="roma">kameru</rt></ruby><ruby>ように<rt class="roma">youni</rt></ruby>
+仮想世界で舞っている
 </div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-<ruby>この<rt class="roma">kono</rt></ruby><ruby>世界<rt class="furi">せかい</rt><rt class="roma">sekai</rt></ruby><ruby>は<rt class="roma">wa</rt></ruby><ruby>私<rt class="furi">わたし</rt><rt class="roma">watashi</rt></ruby><ruby>の<rt class="roma">no</rt></ruby><ruby>もの<rt class="roma">mono</rt></ruby><ruby>だ<rt class="roma">da</rt></ruby>
+証明を待ってる
 </div>
 </div>
 
 <div class="lyric-line">
 <div class="jp-lyric">
-<ruby>月<rt class="furi">つき</rt><rt class="roma">tsuki</rt></ruby><ruby>が<rt class="roma">ga</rt></ruby><ruby>鳴<rt class="furi">な</rt><rt class="roma">na</rt></ruby><ruby>り<rt class="roma">ri</rt></ruby><ruby>響<rt class="furi">ひび</rt><rt class="roma">hibi</rt></ruby><ruby>く<rt class="roma">ku</rt></ruby><ruby>まで<rt class="roma">made</rt></ruby>
+諦めるな 今は
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+目指した己の価値に
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+存在に確信はあるか？
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+歌って
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+喚いて
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+手に入れた世界に
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+連なる産声が
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+文字列に成り舞っている
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+壊して
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+奪って
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+奪われてしまう前に
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+この世界は私のものだ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+音が鳴り響くまで
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+寂れた過去の礎を踏みにじり
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+私たちは歌う 歌う
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+探して
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あがいて
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+生きてきた証明が
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+私の産声が
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+文字列に鳴り舞っている
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+今 己を証明する言葉に魂はあるか？
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+戦え
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+抗え
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+今を抱きしめるように
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あなたの産声を
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+頭の悪い号哭を
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+答えて
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+歌って
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+電子の海を舞い踊って
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+この世界は私たちの
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+証明を探している
 </div>
 </div>
 
 </div>
+
+
 
 ## 出典
 

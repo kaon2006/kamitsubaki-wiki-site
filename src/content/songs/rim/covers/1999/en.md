@@ -27,8 +27,344 @@ image: /images/albums/rim/chocolate-live-2.jpg
 
 ## Lyrics
 
-## Sources
+{{lyrics-controls::ja}}
 
-- [Official discography](https://kamitsubaki.jp/disco_category/rim/)
-- [Apple Music](https://music.apple.com/jp/album/1999/1731094532?i=1731094538&uo=4)
-- [VGMdb RIM](https://vgmdb.net/artist/53598)
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Oh, whoa
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Sha la la la la la la la la la la la la la la la
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Sha la la la la la la la la la la la la la la la
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Every Friday my head's spinning 'round and 'round
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Been working all week now, baby
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Yes, it's my day, I take a trip downtown
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+To my favorite club now, baby
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+That's when I see you
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+With loving arms to fall into
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+But I'm not looking for full-time love
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+There's still so much I wanna do
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+I only kiss, kiss, kiss when the sun don't shine
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Oh whoa, oh whoa
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+You wanna kiss, kiss, kiss, then tonight is fine
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Oh whoa, oh whoa
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Make some noise for the Vengaboys
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Can live without it
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+I don't want a full-time love
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+'Cause it's not on my mind now, baby
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+You know my freedom
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Is what I'm thinking of
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+And I ain't got the time now, baby
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Straight out of the blue
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+You came and asked me to
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Be your date in the daytime, babe
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+But I am sorry, no can do
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+I only kiss, kiss, kiss when the sun don't shine
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Oh whoa, oh whoa
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+You wanna kiss, kiss, kiss, then tonight is fine
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Oh whoa, oh whoa
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+I only kiss, kiss, kiss when the sun don't shine
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Oh whoa, oh whoa
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+You wanna kiss, kiss, kiss, then tonight is fine
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Oh whoa, oh whoa
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Kiss me when the sun don't shine
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Kiss me when the sun don't shine
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Oh whoa
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Make some noise for the Vengaboys
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Oh, oh, oh whoa
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Make some noise for the Vengaboys
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Sha la la la la la la la la la la la la la la la
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Sha la la la la la la la la la la la la la la la
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+I only kiss, kiss, kiss when the sun don't shine
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Oh whoa, oh whoa
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+You wanna kiss, kiss, kiss, then tonight is fine
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Oh whoa, oh whoa
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+I only kiss, kiss, kiss (kiss me)
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+When the sun don't shine (when the sun)
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Oh whoa, oh whoa (don't shine)
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+You wanna kiss, kiss, kiss (kiss me)
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Then tonight is fine (when the sun)
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Oh whoa, oh whoa (don't shine)
+</div>
+</div>
+
+</div>
+
+

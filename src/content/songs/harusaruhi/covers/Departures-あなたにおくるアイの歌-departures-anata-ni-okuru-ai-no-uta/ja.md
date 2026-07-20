@@ -27,6 +27,192 @@ image: /images/albums/harusaruhi/cream-puff-live-2.jpg
 
 ## 歌詞
 
+{{lyrics-controls::ja}}
+
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+もうあなたから愛されることも
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+必要とされることもない
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+そして私はこうして一人ぼっちで
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あの時あなたはなんて言ったの？
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+届かない言葉は宙を舞う
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+わかってるのに今日もしてしまう
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+叶わぬ願いごとを
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+離さないで
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ぎゅっと手を握っていて
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あなたと二人 続くと言って
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+繋いだその手は温かくて
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+優しかった
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あなたはいつもそうやって私を
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+怒らせて最後に泣かすんだ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+だけど後になって
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ごめんねっていうその顔
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+好きだった
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+離さないで
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ぎゅっと そう思いっきり
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あなたの腕の中にいたい
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+二人でおでこをあわせながら
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+眠るの
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+もう二度とは会えないってことを知ってたの？
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+離さないで
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ぎゅっと あなたが好き
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+もう一度だって笑ってくれないの
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あなたの温もりが消えちゃう前に
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+抱きしめて
+</div>
+</div>
+
+</div>
+
+
+
 ## 出典
 
 - [公式ディスコグラフィー](https://kamitsubaki.jp/disco_category/harusaruhi/)

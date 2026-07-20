@@ -22,7 +22,214 @@ image: /images/albums/koko/arare-live.jpg
 
 ## Lyrics
 
-## Sources
+{{lyrics-controls::ja}}
 
-- [Official discography](https://kamitsubaki.jp/discography/koko/704/)
-- [VGMdb KOKO](https://vgmdb.net/artist/53600)
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+地獄に落ちたら救われる
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+天国昇ればまた会える
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+楽に、楽に、
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+絞めてと乞う君が好き
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+もっともっと強く絞めてと
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+幼な声で喘ぐ君が好き
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+か弱い声で
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+さよなら
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ありがと
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+と囁いて死んだ
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+地獄に落ちたら救われる
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+天国昇ればまた会える
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+僕に罰を地獄で与えておくれ
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+純粋な君は天にいる
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あの世が虚無ならそこへ行こう
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+会いたい
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+会える？
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+僕に今
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+幸福な死を
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+私、私、このまま死にたい
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+素直に応える純な君が好き
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+嬉しそうな声で
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+これでいい？
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+気持ちいい？
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+と囁いて殺してくれた
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+地獄に落ちたら救われる
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+天国昇ればまた会える
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+私に罰を
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+地獄で与えておくれ
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+純粋な君は天に来る
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+罪が晴れるならそこで会おう
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+おいで、おいで、君にも幸福な死を
+</div>
+</div>
+
+</div>
+
+

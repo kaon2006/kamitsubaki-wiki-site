@@ -25,7 +25,309 @@ image: /images/albums/kaf/guwa-gamma.jpg
 
 ## 歌詞
 
-当サイトでは許諾を確認できない歌詞全文を転載しません。公式動画の説明欄または正規配信サービスの歌詞機能を参照してください。寄稿許諾をお持ちの場合は歌詞フォーマットガイドに沿って追加できます。
+{{lyrics-controls::ja}}
+
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ゲシュタルトってどんなタルト
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+それって美味しそう むしろ買いたい
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+感情に課題 あり過ぎると
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+意味わかんないね 色んな意味で
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あぁ 息ができない 窒息万歳
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+もう 嫌嫌嫌嫌 嫌嫌嫌嫌嫌
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Drop the beat!
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+不都合で 不気味で
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ふしだらな 集合体 嫌嫌嫌嫌 嫌嫌嫌嫌嫌
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+こっち来ないで 見ないで とかって
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+こっからがイイところだから
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+欲張りで 拗れて ひねくれ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+でも ホーミータイッ！嫌嫌嫌嫌 嫌嫌嫌嫌嫌
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+きっちりなんて とても無理ゲー
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+正解はつまり一体感です
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+はい！
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ミッドナイトってどんなアジト
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+キミの秘密 地味に知りたい
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+とは言え 深入りすると
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+怖くなっちゃう いろんな意味で
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+何が違い？不安と期待
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+曖昧になってる ボーダーライン
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+誰か答えて ねえくれませんか？
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Say はい say はい say はい say はい
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+はい はい はい はい はい
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+理不尽も 自己中も とりあえず
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+全部オーライ！嫌嫌嫌嫌 嫌嫌嫌嫌嫌
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+そっち行こうか 違うか まいっか
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ここら辺がちょうどイイとこだから
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+はい！
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ゲシュタルトゲシュタルト
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ゲシュタルトゲシュタルト oh
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ゲシュタルトゲシュタルト
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ゲシュタルトゲシュタルト
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+どっかーん
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ゲシュタルトゲシュタルト
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ゲシュタルトゲシュタルト
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+不都合で 不気味で
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ふしだらな 集合体 嫌嫌嫌嫌 嫌嫌嫌嫌嫌
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+こっち来ないで 見ないで とかって
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+こっからがイイところだから
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+欲張りで 拗れて ひねくれ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+でも ホーミータイッ！嫌嫌嫌嫌 嫌嫌嫌嫌嫌
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+きっちりなんて とても無理ゲー
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+正解はつまり一体感です
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+はい！
+</div>
+</div>
+
+</div>
+
+
 
 ## 出典
 

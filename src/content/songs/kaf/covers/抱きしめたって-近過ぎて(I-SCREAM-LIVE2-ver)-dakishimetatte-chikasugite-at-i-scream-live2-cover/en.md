@@ -25,7 +25,139 @@ image: /images/albums/kaf/i-scream-live-2.jpg
 
 ## Lyrics
 
-This wiki does not reproduce full lyrics without confirmed permission. Consult the official video description or the licensed streaming service’s lyric feature; editors with contribution permission may add text using the lyric-format guide.
+{{lyrics-controls::ja}}
+
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Baby 二人は あの頃と 変わらず
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Maybe 俺だけ あの頃と 変われない
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+好きか嫌いじゃ どうにも切ない
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+俺と あの人は
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+抱きしめたってね 近過ぎて
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+貴女の顔は覗けない 美しい笑顔が
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+見えるくらいの 関係で良いのです
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Lady 今更 この気持ち 変わらず
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Tell me 俺だけ あの頃に
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+戻れない
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+惚れた腫れたは どうにも照れるぜ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+俺と あの人は
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+キスをしたってね 近過ぎて
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+貴女と言葉交わせない
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+くだらない話を聞ける位の
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+関係で良いのです
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+好きか嫌いじゃ どうにも切ない
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+俺と あの人は
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+抱きしめたってね 近過ぎて
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+貴女の顔は覗けない 美しい笑顔が
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+見えるくらいの 関係で良いのです
+</div>
+</div>
+
+</div>
+
+
 
 ## Sources
 

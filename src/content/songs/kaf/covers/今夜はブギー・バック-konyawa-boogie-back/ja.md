@@ -25,7 +25,439 @@ image: /images/albums/kaf/i-scream-live-2.jpg
 
 ## 歌詞
 
-当サイトでは許諾を確認できない歌詞全文を転載しません。公式動画の説明欄または正規配信サービスの歌詞機能を参照してください。寄稿許諾をお持ちの場合は歌詞フォーマットガイドに沿って追加できます。
+{{lyrics-controls::ja}}
+
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ダンスフロアーに華やかな光
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+僕をそっと包むようなハーモニー
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ブギー・バック シェイク・イット・アップ 神様がくれた
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+甘い甘いミルク＆ハニー
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+クールな僕は まるでヤング・アメリカン
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+そうさ今 君こそがオンリー・ワン
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ブギー・バック シェイク・イット・アップ 夜のはじまりは
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+溶ろけるようなファンキー・ミュージック
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+僕とベイビー・ブラザー めかしこんで来たパーティ・タイム
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+すぐに目が合えば 君は最高のファンキー・ガール
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+誰だってロケットが lock する 特別な唇
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ほんのちょっと困ってるジューシー・フルーツ 一言で言えばね
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+１ ２ ３ を待たずに
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+16小節の旅のはじまり
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ブーツでドアをドカーッとけって
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+「ルカーッ」と叫んでドカドカ行って
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+テーブルのピザ フラスモーチキン
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ビールでいっきに流しこみ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ピースでみんなにセイ ハロー
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+On and on to da break down
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+てな具合に ええ行きたいっスね
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+いっスねーっ イェーッ！ イェーッ！ なんてねーっ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+よくない コレ？ コレ よくない？
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+よくなく なくなく なくなくない？
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+その頃のぼくらと言ったら
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+いつもこんな調子だった
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+心のベスト10 第一位は
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+こんな曲だった
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ダンスフロアーに華やかな光
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+僕をそっと包むようなハーモニー
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ブギー・バック シェイク・イット・アップ 神様がくれた
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+甘い甘いミルク＆ハニー
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Knock knock! Who is it?
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+アーシ エイル in the place to be
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+なんて 具合に ウアーッ ウアーッ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Wait wait wait wait ガッテーム
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+って俺って何も言ってねーっ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+いや泣けたっス「えーっ」マジ泣けたっス
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+フリースタイル具合にマジ泣けたっス
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Stop check it out yo man
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+キミこそスゲーぜ yose my man
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+コレ よくない？ よくない コレ？
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+よくなく なくなく なくセイ イェーッ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+イェーツ and you don't stop
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+しみたーっ！シビれた 泣けた ほれた
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+これだーっ！ これだみんなメモれ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+コピれーっ make money!
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+その頃もぼくらを支えてたのは
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+やはり この曲だった
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ダンスフロアーに華やかな光
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+僕をそっと包むようなハーモニー
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ブギー・バック シェイク・イット・アップ 神様がくれた
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+甘い甘いミルク＆ハニー
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+クールな僕は まるでヤング・アメリカン
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+そうさ今 君こそがオンリー・ワン
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ブギー・バック シェイク・イット・アップ 夜のはじまりは
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+溶ろけるようなファンキー・ミュージック
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+心がわりの相手は僕に決めなよ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ロマンスのビッグ・ヒッター グレイト・シューター 踊りつづけるなら
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+最後にはきっと 僕こそがラブ・マシーン
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+君にずっと捧げるよファンタジー
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ブギー・バック シェイク・イット・アップ 神様がくれた
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+甘い甘いミルク＆ハニー
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+パーティ続き 燃え上がる２人
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+そうさベイビー 今宵のリアリティー
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ブギー・バック シェイク・イット・アップ 夜のなかばには
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+神様にありがとう
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ワイルドな君 うるわしのフッシー・キャット
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+僕の手に噛みついてオール・ナイト・ロング
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ブギー・バック シェイク・イット・アップ 夜の終わりには
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+２人きりのワンダー・ランド
+</div>
+</div>
+
+</div>
+
+
 
 ## 出典
 

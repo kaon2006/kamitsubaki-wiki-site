@@ -27,7 +27,181 @@ image: /images/albums/kaf/shinai.jpg
 
 ## 歌詞
 
-当サイトでは許諾を確認できない歌詞全文を転載しません。公式動画の説明欄または正規配信サービスの歌詞機能を参照してください。寄稿許諾をお持ちの場合は歌詞フォーマットガイドに沿って追加できます。
+{{lyrics-controls::ja}}
+
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+まだ居ればいいよ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+いかなくてもいいよ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+そばにいていいよ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+いかなくてもいいよ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+部屋の奥
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+の影が
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+薄くなり
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+途絶えた
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+雨の後
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+木霊した
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+言葉も
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+届かない
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+もう二度と
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+朝の匂い
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+らららららら
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+こんなにも美しく
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+こんなにも哀しくて
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+涙の行き場はもう無いよ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+こんなにも騒がしく
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+こんなにも愛しくて
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+それでもいつかは止まるのでしょう
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+らららららら
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+こんなにも美しく
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+こんなにも哀しくて
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+涙の行き場はもう無いよ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+こんなにも騒がしく
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+こんなにも愛しくて
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+それでもいつかは止まるのでしょう
+</div>
+</div>
+
+</div>
+
+
 
 ## 出典
 

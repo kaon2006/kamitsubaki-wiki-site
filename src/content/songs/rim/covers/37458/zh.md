@@ -28,8 +28,346 @@ image: /images/albums/rim/chocolate-live-2.jpg
 
 ## 歌词
 
-## 来源
+{{lyrics-controls::ja}}
 
-- [官方作品目录](https://kamitsubaki.jp/disco_category/rim/)
-- [Apple Music](https://music.apple.com/jp/album/37458-feat-kaf/1731094532?i=1731094821&uo=4)
-- [VGMdb 理芽](https://vgmdb.net/artist/53598)
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+このなんとでも言える世界がいやだ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+何の気なしに見てたい ただ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ただそれだけなのに
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+このどうとでもとれる世界がいやだ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+どうでもいい もう黙っててパパ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+黙っててパパ
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+「絶対なんて絶対ない」
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ってそれはもうすでに絶対です
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+一体全体どうしたんだい?
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+何がなんだかもうわからない
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+「全てのことに自信がない」
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ってそれはもう立派な自信です
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+でもだからって何も変わらない
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+お願い うるさい もう消えてください
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+大丈夫だから
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+もう誰もいないから
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+歌って聴かせてよ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+だからこのなんとでも言える世界がいやだ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+何の気なしに見てたい ただ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ただそれだけなのに
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+このどうとでもとれる世界がいやだ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+どうでもいい もう黙っててパパ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+黙っててパパ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+「誤解を恐れず言わせてもらいます」
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ってそれはもうすでに恐れてます
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+じゃあ一体どうしたらいいんだい?
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+そんなことは俺も分からない
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ある人は人生を山に例え
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ある人は人生を星に例え
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ある日突然 ところで君は誰?
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+って言われたって んなの分からない
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+大丈夫だから
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+私はあなたが
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+思った通りの人だから
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+このなんとでも言える世界がいやだ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+何の気なしに見てたい ただ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ただそれだけなのに
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+「限界を信じて疑わない」
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+「全て必ず終わりが来ます」
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+よかった じゃあその気持ちにも
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+いつか終わりが来るんだね
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+正しさの正しさを
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ただ知りたいだけ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+正しく教えてよう
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+だからこのなんとでも言える世界がいやだ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+何の気なしに見てたい ただ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ただそれだけなのに
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+このどうとでもとれる世界がいやだ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+どうでもいい もう黙っててパパ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+黙っててパパ パパ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+このなんとでも言える世界なのに
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+この何とも言えない想いはなに
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+想いはなに
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+このなんとでも言える世界がいやだ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+こんなに歌唄えちゃう世界がいやだ
+</div>
+</div>
+
+<br />
+
+</div>
+
+

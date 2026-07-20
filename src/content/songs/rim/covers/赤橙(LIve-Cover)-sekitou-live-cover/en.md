@@ -27,8 +27,212 @@ image: /images/albums/rim/chocolate-live-4.jpg
 
 ## Lyrics
 
-## Sources
+{{lyrics-controls::ja}}
 
-- [Official discography](https://kamitsubaki.jp/disco_category/rim/)
-- [Apple Music](https://music.apple.com/jp/album/%E8%B5%A4%E6%A9%99-live-cover/1892255874?i=1892255892&uo=4)
-- [VGMdb RIM](https://vgmdb.net/artist/53598)
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+眠りの浅い朝の回路 埃にまみれてるカイト
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+フワフワの音が眠ってる そこはかとなく日々は続き
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+左利きの犬がまさに 片足引きずり笑ってる
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+太陽と空の間 静かに開いた世界に
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+憧れてしまったんだろうか
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+赤い煉瓦をそっと積み上げて
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+遠き日の魔法をかけてみる
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+丸い地球の裏側なら これで行ける
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+そして少年は一握りの
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+オレンジ色の砂を蒔いた
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+黄金色に輝く音を いつか奏でよう
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ある朝の記憶も僅か
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+懐かしきワルツも遥か
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+カラカラと音が流れてる 無邪気に笑う人の影と
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+無情に唄う木々の合図 またとない色を手に入れる
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+太陽と空を抱いた 世界にほんの少しの
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+明かりを灯せるだろうか
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+赤い煉瓦をそっと積み上げて
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+もう一度魔法をかけてみる
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+幼さ故の過ちなど これで消える
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+そして少年は一握りの
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+オレンジ色の砂を蒔いた
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+黄金色光る夕暮れに 音を重ねよう
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+眠りの浅い朝の回路 埃にまみれてるカイト
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+フワフワの音が眠ってる そこはかとなく日々は続き
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+左利きの犬がまさに 片足引きずり笑ってる
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+赤い煉瓦をそっと積み上げて
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+遠き日の魔法をかけてみる
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+丸い地球の裏側なら これで行ける
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+そして少年は一握りの
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+オレンジ色の砂を蒔いた
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+黄金色に輝く音を いつか奏でよう
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+La la la la...
+</div>
+</div>
+
+</div>
+
+

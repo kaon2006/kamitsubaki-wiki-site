@@ -27,8 +27,208 @@ Revy appears on prayer2 or a related official release. Entries are version-speci
 
 ## Lyrics
 
-## Sources
+{{lyrics-controls::ja}}
 
-- [Official discography](https://kamitsubaki.jp/disco_category/koko/)
-- [Apple Music](https://music.apple.com/jp/album/revy/1807217003?i=1807217009&uo=4)
-- [VGMdb KOKO](https://vgmdb.net/artist/53600)
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Slash slash till the mothafuccin wig split
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Head gone by the time i finna dip dip
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Say bye bye when the devil make his round trip
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Say goodnight cause im bout to hit the last swing
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Slash slash till the mothafuccin wig split
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Head gone by the time i finna dip dip
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Say bye bye when the devil make his round trip
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Say goodnight cause im bout to hit the last swing
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Ohma god
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Feel like revy, finna throw all my best shots
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Bloodlust in my head, you can't run run
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Fucc a lead, make my fist get the job done
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Im the mothafuccin champion bitch,
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+No time for yo yappin
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Mothefuccas on yo phones bitch,
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Stop with all the cappin
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Come and see me at the pit bitch,
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+I've prepared a pentagram
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+To leave you fuccin soulless,
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Keeper of the damned bitch
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+My gang aint worth your time
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+So im only giving you, a little sixteen liner
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+You will only be a waste of bullets
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Cause you were never once a fighter
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Slash slash till the mothafuccin wig split
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Head gone by the time i finna dip dip
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Say bye bye when the devil make his round trip
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Say goodnight cause im bout to hit the last swing
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Slash slash till the mothafuccin wig split
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Head gone by the time i finna dip dip
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Say bye bye when the devil make his round trip
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Say goodnight cause im bout to hit the last swing
+</div>
+</div>
+
+</div>
+
+

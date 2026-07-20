@@ -28,7 +28,261 @@ image: /images/albums/kaf/i-scream-live-3.jpg
 
 ## Lyrics
 
-This wiki does not reproduce full lyrics without confirmed permission. Consult the official video description or the licensed streaming service’s lyric feature; editors with contribution permission may add text using the lyric-format guide.
+{{lyrics-controls::ja}}
+
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あなたの涙を呑んで あなたの吐息を吸って
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あなたの言葉を噛んでいたい
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+綺麗な髪を数えて 歪な痣をなぞって
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+静かな瞳にすんでたい
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Look at the sea look at the flow
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Look at the bird
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+醒めないでいてね
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Look at the sea look at the sky
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Look at the moon
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+醒めないでいてね ねえ
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あなたの憂いに酔って あなたの重さを愛し
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あなたの嘘なら信じてたい
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+いっそ嫉妬に酔って いっそ悪意も愛し
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+全部嘘でも信じてたい
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Look at the sea look at the flow
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Look at the bird
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+醒めないでいてね
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Look at the sea look at the sky
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Look at the moon
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+醒めないでいてね
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+汚れないで 触らないで
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+死ぬまで知らずにいようよ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+求めないで 目を塞いで
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+気付かないふりでもいいよ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+おそれないで 変わらないで
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+世界に二人でいいよ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+手を繋いで 離さないで
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+醒めないでいてね
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あなたの髪を数えていたい
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+綺麗な髪を数えていたい
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あなたの髪を数えていたい
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+髪を数えていたいだけ
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Look at the sea look at the flow
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Look at the bird
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+醒めないでいてね
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Look at the sea look at the sky
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Look at the moon
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+醒めないでいてね
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+醒めないでいてね
+</div>
+</div>
+
+</div>
+
+
 
 ## Sources
 

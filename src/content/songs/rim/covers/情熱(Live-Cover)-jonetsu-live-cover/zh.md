@@ -27,8 +27,240 @@ image: /images/albums/rim/chocolate-live-4.jpg
 
 ## 歌词
 
-## 来源
+{{lyrics-controls::ja}}
 
-- [官方作品目录](https://kamitsubaki.jp/disco_category/rim/)
-- [Apple Music](https://music.apple.com/jp/album/%E6%83%85%E7%86%B1-live-cover/1892255874?i=1892255884&uo=4)
-- [VGMdb 理芽](https://vgmdb.net/artist/53598)
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+きっと涙は 音もなく流れるけれど
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+赤裸々に頬濡らし 心まで溶かしはじめる
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+こわれるくらい抱きしめてほしかったけど
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+想い出に笑われて 足跡も傷跡かくす
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+遠い昔の夢は 怖いくらいに広く
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+こぼれそうに蒼ざめた空に二人抱かれて
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+遠回りして あとずさりする
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+雲を撫でて
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ほらね眠りの森が見えた
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+きっと涙は 音もなく流れるけれど
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+赤裸々に頬濡らし 心まで溶かしはじめる
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+こわれるくらい 抱きしめてほしかったけど
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+想い出に笑われて 足跡も傷跡かくす
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+遠い昔の夢は 甘いくらいに赤く
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+可哀相な太陽と光る蕾隠して
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+欲張りなだけ 臆病なだけ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+鍵をかけた
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+いつもあなたの森は遠い
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+もう戻れない 情熱を両手に抱いて
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+孵らない想い集めて
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+サヨナラの口づけしましょう
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+そうね誰より 抱きしめてあげたいけれど
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+切なさにさらわれて 冗談がやけにむなしい
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+愛しても愛し切れない夜に
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+疲れすぎたけど今日もまた
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+答えのない疑問を抱いて
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+まぶしい朝日を待ってる
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+きっと涙は 音もなく流れるけれど
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+赤裸々に頬濡らし 心まで溶かしはじめる
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+こわれるくらい 抱きしめてほしかったけど
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+想い出に笑われて 足跡も傷跡かくす
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+もう戻れない 情熱を両手に抱いて
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+孵らない想い集めて
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+サヨナラの口づけしましょう
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+そうね誰より 抱きしめてあげたいけれど
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+切なさにさらわれて 冗談がやけにむなしい
+</div>
+</div>
+
+</div>
+
+

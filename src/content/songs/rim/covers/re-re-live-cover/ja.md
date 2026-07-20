@@ -27,8 +27,108 @@ image: /images/albums/rim/chocolate-live-4.jpg
 
 ## 歌詞
 
-## 出典
+{{lyrics-controls::ja}}
 
-- [公式ディスコグラフィー](https://kamitsubaki.jp/disco_category/rim/)
-- [Apple Music](https://music.apple.com/jp/album/re-re-live-cover/1892255874?i=1892255875&uo=4)
-- [VGMdb 理芽](https://vgmdb.net/artist/53598)
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Har re re re re, ama sede dev re, dev re
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Yeman chada baner pakhee maner anande re.
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Har re re re re, ama sede dev re, dev re
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Ghanoshraabondhaara jemon bnaadhonhaara
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Ghanoshraabondhaara jemon bnaadhonhaara
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Baadal -batus yeman dakat akash lute fere.
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Har re re re re, ama rakhbe dhare ke re
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Daabanaler naachon jemon sakol kaanon ghere,
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Har re re re re, ama rakhbe dhare ke re
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Bajro jemon bege gorje jhorer meghe
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Bajro jemon bege gorje jhorer meghe
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Attahasye sakal vighn -baadhar baksh chere.
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Har re re re re, ama sede dev re, dev re
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Yeman chada baner pakhee maner anande re.
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Har re re re re, ama sede dev re, dev re
+</div>
+</div>
+
+</div>
+
+

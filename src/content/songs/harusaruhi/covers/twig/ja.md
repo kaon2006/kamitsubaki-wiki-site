@@ -22,7 +22,172 @@ image: /images/albums/harusaruhi/cream-puff-live.jpg
 
 ## 歌詞
 
-## 出典
+{{lyrics-controls::ja}}
 
-- [公式ディスコグラフィー](https://kamitsubaki.jp/discography/harusaruhi/378/)
-- [VGMdb 春猿火](https://vgmdb.net/artist/48426)
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Some weepy, creepy, willow, pillow, boggy shit
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Transcendental big wheel can ya feel it
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+I got a chickey face down trippin' so damn hard
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+His head splits open stuffin', spills out into the car
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Cup of dirty water and a lonely boney frog
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Slip me seven dollars and I'll pump it full of smog
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Paint a monkey gold let him loose downtown
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+You start him with a smile, he'll come back with a frown
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+He's just a twig in the wind, a twig in the wind
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+A twig in the wind, a twig in the wind, ah hoo
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+I'm thick and thin and all right
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+I'm happy feeling crappy in my nappy little car
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Squozen, frozen duplicated drunk in a bar
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+A tape recorded all distorted genius machine
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+A spokes model dipped in refried beans
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Piggies pay full price, to put their necks on the stumpy
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Dusty busted skeletons who pay at the pumpy
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Multi nippled rotating DJ sap
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+I'm shoulder high in crap and my water wings are flat
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+I'm just a twig in the wind, a twig in the wind
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+A twig in the wind, a twig in the wind, ah hoo
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+I'm thick and I'm thin and alright, alright, alright, alright
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+I'm twig in the wind, a twig in the wind
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+A twig in the wind, a twig in the wind
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+A twig in the wind, a twig in the wind, well, alright
+</div>
+</div>
+
+</div>
+
+

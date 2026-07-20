@@ -27,8 +27,70 @@ MC7 appears on CREAM PUFF LIVE 2 or a related official release. Entries are vers
 
 ## Lyrics
 
-## Sources
+{{lyrics-controls::ja}}
 
-- [Official discography](https://kamitsubaki.jp/disco_category/harusaruhi/)
-- [Apple Music](https://music.apple.com/jp/album/mc7/1688520470?i=1688520490&uo=4)
-- [VGMdb Harusaruhi](https://vgmdb.net/artist/48426)
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+聞いてくださりありがとうございました
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+春さるひさん、今日は来てくれてありがとうございます
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+こちらこそ、呼んでくれてありがとう
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+シェールちゃん、引き続き頑張ってね
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+春さるひでした、それじゃ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+スペシャルゲストで春さるひさんでした、ありがとうございました
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+バイバーイ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+いよいよライブも残り3曲です
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ここで自分の大切な曲を歌います
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+聴いてください
+</div>
+</div>
+
+</div>
+
+

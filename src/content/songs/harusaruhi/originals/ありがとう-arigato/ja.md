@@ -27,6 +27,114 @@ image: /images/albums/harusaruhi/spice-of-life.jpg
 
 ## 歌詞
 
+{{lyrics-controls::ja}}
+
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+yeah
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+さみしい夜に差し込む光
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+重たい鎧おろして座り
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+画面に埋まる愛の言葉に
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+今日も心が救われてく
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+I don’t know about you
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+なのに心通じ合う
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+見つけてくれてありがとう
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+You know, I sing because of you
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+I’m here because of you
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+だから今歌えるの
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+You know, I sing because of you
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+君がそばにいる
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ひとりじゃないから
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+sing because of you
+</div>
+</div>
+
+<br />
+
+</div>
+
+
+
 ## 出典
 
 - [公式ディスコグラフィー](https://kamitsubaki.jp/disco_category/harusaruhi/)

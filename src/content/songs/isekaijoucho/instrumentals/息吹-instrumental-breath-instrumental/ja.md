@@ -27,8 +27,124 @@ image: /images/albums/isekaijoucho/shikisai.jpg
 
 ## 歌詞
 
-## 出典
+{{lyrics-controls::ja}}
 
-- [公式ディスコグラフィー](https://kamitsubaki.jp/disco_category/isekaijoucho/)
-- [Apple Music](https://music.apple.com/jp/album/%E6%81%AF%E5%90%B9-instrumental/1735882381?i=1735882383&uo=4)
-- [VGMdb ヰ世界情緒](https://vgmdb.net/artist/53599)
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+此処に立って见上げる琥珀の満月
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+美しく儚く永远を誓ったような
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+そう　いつだって変わらず见守る
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+栅(しがらみ)に囚われ溺れた过去さえ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あの顷よりも少し広く
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+世界が绮丽に见通せている
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+さぁ手と手取って　幻想の中歌え
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あなたが何者でも构わないわ 今宵无
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あの场所で见上げた消えそうな三日月
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+云の影隠れて音なく溢(こぼ)れた涙
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+そう　いつかは変わってゆくでしょう
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+さよならは言わないで
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+静かに手を振る
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+頼りない夜に迷う日无
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+谁かの声が闻きたくなるの
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+さぁ全て忘れ　幻想の中踊れ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+此処に生きる奇迹を共に祝い眠ろう
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+さぁ手と手取って　幻想の中歌え
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あなたが何者でも构わないわ 今宵无
+</div>
+</div>
+
+</div>
+
+

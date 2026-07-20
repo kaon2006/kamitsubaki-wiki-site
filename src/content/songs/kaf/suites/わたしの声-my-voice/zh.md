@@ -28,7 +28,76 @@ image: /images/songs/kaf/track-1703711463.jpg
 
 ## 歌词
 
-## 来源
+{{lyrics-controls::ja}}
 
-- [花譜官方网站](https://kaf.kamitsubaki.jp/discography/20230908/202/)
-- [Apple Music](https://music.apple.com/jp/album/%E3%82%8F%E3%81%9F%E3%81%97%E3%81%AE%E5%A3%B0/1703711462?i=1703711463&uo=4)
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+わたしの声 さようなら あの山の先の
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+深くねむる湖に 行ってしまった
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ひとのこころ傷つける 悲しい言葉を
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+口にしたくないと泣き 行ってしまった
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+おはよう こんにちは ごきげんはいかが
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ありふれたやりとりが いまは恋しい
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+わたしの声 消えたこと みんな喜んだ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+みんなわたしの言葉を 嫌ってるから
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+おいおいと泣きながら 去って行った声
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+残されたわたしは もう 泣くことできず
+</div>
+</div>
+
+</div>
+
+

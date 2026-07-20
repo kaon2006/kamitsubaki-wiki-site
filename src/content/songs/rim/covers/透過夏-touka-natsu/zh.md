@@ -22,7 +22,164 @@ image: /images/albums/rim/chocolate-live.jpg
 
 ## 歌词
 
-## 来源
+{{lyrics-controls::ja}}
 
-- [官方作品目录](https://kamitsubaki.jp/discography/rim/379/)
-- [VGMdb 理芽](https://vgmdb.net/artist/53598)
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+凪いだ海 沈む景色 僕と君 同じ空を
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+同じ瞳で 一つの星で もう夏だねって笑いあって
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あの空をただ 眺めている
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+海岸 堤防 バス停 その全てに君を透過した
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+何も知らないままで終わってく日々に嫌にだってなるよ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+海に君の面影を見た あのときのままの君を
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+波のまにまに佇んでいる あの夏を
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+佇んでいる あの夏を
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+忘れない様に掠れない様に 胸に仕舞ってるよ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+思い出に浸るのは時としてゴミしか生み出さないから
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+心の底 そこにそっと沈めて
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+涙が枯れたころにそっと触れよう
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+いつだって君はそこにいる
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+今日もいつもと同じように 風に夏の匂いがするんだ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+当たり前を失った世界が当たり前になるだけだから
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+大切なことは選べ 思い出は底へ仕舞え
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+君はいつもそこにいるよ
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+海岸 堤防 バス停 その全てに君を透過した
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+何も知らないままで終わってく日々に嫌にだってなるよ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+海に君の面影を見た あのときのままの君を
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+波のまにまに佇んでいる あの夏を
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+佇んでいる あの夏を
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+心のずっと奥のあの夏を
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+君と二人描いたあの夏を
+</div>
+</div>
+
+</div>
+
+

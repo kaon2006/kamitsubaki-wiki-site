@@ -26,7 +26,73 @@ image: /images/albums/kaf/kyoso.jpg
 
 ## 歌词
 
-本轨为纯音乐／伴奏作品，不含歌词。
+{{lyrics-controls::ja}}
+
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+かえるのうたが
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+きこえてくるよ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+クワ　クワ　クワ　クワ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ケケケケ　ケケケケ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+クワ　クワ　クワ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+かえるのうたが
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+きこえてくるよ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+クワ　クワ　クワ　クワ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ケケケケ　ケケケケ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+クワ　クワ　クワ
+</div>
+</div>
+
+</div>
+
+
 
 ## 来源
 

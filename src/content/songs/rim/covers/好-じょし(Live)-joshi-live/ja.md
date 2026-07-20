@@ -27,6 +27,238 @@ image: /images/albums/rim/chocolate-live-3.jpg
 
 ## 歌詞
 
+{{lyrics-controls::ja}}
+
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+口を大きく開けて笑わないで
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+大きな声で笑わないで
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+でも 疲れたときこそ笑って？
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+なんて君はそんなこと言わなかった
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+またどこかで二人会いたいねってさ あぁ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ばかにしないで
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+君は君の道を走る
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+走ればいい 走ればいいよ
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+君がいなくなったって
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ご飯はおいしい ちゃんと味もする
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+君はロックンロールが好きだと言った あぁ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+二人 気づけば手を繋いでいたよね
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+愚痴をたくさん聞いてあげられないで
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+口で言う「ごめんね」は照れくさくてさ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+伝えれないで「ごめんね」なんて
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+私そんなこと言えなかった
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+またこれから「二人」になりたいねってさ あぁ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ばかみたいね
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+君は君の家へ帰る
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+帰ればいい 帰ればいいよ
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+君がいなくなったって
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ギターを弾く 地球は回る
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+君はロックンロールが好きだと言った
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+二人 気づけば目を合わせていたよね
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+君がいなくなったって
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+君がいなくなったって
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+君がいなくなったって
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+まだ 夢を 見てる
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+君がいなくなったって
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ご飯はおいしい ちゃんと味もする
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+君はロックンロールが好きだと言った
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+君がいなくなったって
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ギターを弾く 地球は回る
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+君はロックンロールが好きだと言った あぁ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+二人 気づけば手を繋いでいたよね ねぇ
+</div>
+</div>
+
+</div>
+
+
+
 ## 出典
 
 - [公式ディスコグラフィー](https://kamitsubaki.jp/disco_category/rim/)

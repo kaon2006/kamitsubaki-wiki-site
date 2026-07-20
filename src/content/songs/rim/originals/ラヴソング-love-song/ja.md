@@ -27,6 +27,214 @@ image: /images/albums/rim/new-romancer.jpg
 
 ## 歌詞
 
+{{lyrics-controls::ja}}
+
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+生活の不安のやり場を
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+そう、教えて欲しい
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+愛情の矛先を違えた
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+かわいそうなわたしさよなら
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+誰もさわれない
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+上手く笑えない
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+きみには癒せないの
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+きみの膣の中に落とされていく
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あいつの命が どうか報われないように
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+何て思ったりさ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+呪ってしまうの今でも
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+だからどうか、どうか
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+忘れてゆけ
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+即席の季節に誘われて
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+痛いの、もう
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+愛情の矛先を違えた
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+かわいそうな日々に送る
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+(But I don't think so)
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+(But I don't think so)
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+(But I don't think so)
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+(But I don't)
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+But I don't think so
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+誰もさわれない
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+上手く笑えない
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+きみには癒せないの
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+きみの膣の中に落とされていく
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あいつの命が どうか報われないように
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+何て思ったりさ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+呪ってしまうの今でも
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+だからどうか、どうか
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+忘れてゆけ
+</div>
+</div>
+
+</div>
+
+
+
 ## 出典
 
 - [公式ディスコグラフィー](https://kamitsubaki.jp/disco_category/rim/)

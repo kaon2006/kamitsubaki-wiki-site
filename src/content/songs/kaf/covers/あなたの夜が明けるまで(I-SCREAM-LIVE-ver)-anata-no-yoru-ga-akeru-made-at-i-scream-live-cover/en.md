@@ -25,7 +25,301 @@ image: /images/albums/kaf/i-scream-live.jpg
 
 ## Lyrics
 
-This wiki does not reproduce full lyrics without confirmed permission. Consult the official video description or the licensed streaming service’s lyric feature; editors with contribution permission may add text using the lyric-format guide.
+{{lyrics-controls::ja}}
+
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+壊れていたのは世界でしょうか
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+間違っていたのは世界でしょうか
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あなたには朝がやってこない
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+だから
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あなたの「おはよう」はもう聞け
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ない
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+時が戻れば、なんて思いながら
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+私はあなたをこんな檻に閉じ込めて
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+いる
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+声が枯れるまで歌い続ければ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+きっと気が付いてくれるよね
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+またいつか 光の降る街を
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+手を繋いで歩きましょう
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+空の青さを忘れるなんて
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+まったく 本当にあなたは馬鹿ね
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+壊れていたのは世界ではなくて
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+間違っていたのはあなただけれど
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+嘘で固められた世界でも
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ごめんね
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あなたに生きていてほしいの
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+時が戻れば、なんて思いながら
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+私はもう 少しだけ諦めている
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+声が枯れるまで歌い続けるのは
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あなただけのためじゃない
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+またいつか 春の空を
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+二人 手を繋いで 歩きましょう
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+何も知らないあなたでいいの
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+私はどこにも行かないから
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+「リリィ、リリィ 君の幸せなんて
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+願ってたあの頃に戻れないんだ」
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+知ってるよ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+どうにもならないことも
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+でも嫌いになんてなれなかったよ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+またいつか 光を歌いながら
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+二人 手を繋いで 歩きましょう
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+明けない夜はないと教えてくれたこ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+と
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+私の手を引いてくれたこと
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+「あなたを忘れないよ」
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+「リリィ」
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+「なあに」
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+「ねえ 僕 ほんとに
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+君が好きだよ」
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+「リリィ」
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+「なあに」
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+「君はどう？」
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+「私も」
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あなたが好きよ
+</div>
+</div>
+
+</div>
+
+
 
 ## Sources
 

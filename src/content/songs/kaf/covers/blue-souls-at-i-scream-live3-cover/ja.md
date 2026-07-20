@@ -25,7 +25,79 @@ image: /images/albums/kaf/i-scream-live-3.jpg
 
 ## 歌詞
 
-当サイトでは許諾を確認できない歌詞全文を転載しません。公式動画の説明欄または正規配信サービスの歌詞機能を参照してください。寄稿許諾をお持ちの場合は歌詞フォーマットガイドに沿って追加できます。
+{{lyrics-controls::ja}}
+
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+One, two, three, four
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Hoo, ooh
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+その手を離してしまったなら
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+きっと もう取り戻せないはずなんだ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+こうしてまた 春を超えてゆく
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+冗談のように 今日を忘れてゆく
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+目に映るもの全てを
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+青色に染めてゆく
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+何が起こるかはわからない
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+でも君が見えた
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Ooh, ooh, ooh, ooh
+</div>
+</div>
+
+</div>
+
+
 
 ## 出典
 

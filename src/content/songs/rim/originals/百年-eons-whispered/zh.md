@@ -27,8 +27,228 @@ image: /images/albums/rim/new-romancer-2.jpg
 
 ## 歌词
 
-## 来源
+{{lyrics-controls::ja}}
 
-- [官方作品目录](https://kamitsubaki.jp/disco_category/rim/)
-- [Apple Music](https://music.apple.com/jp/album/%E7%99%BE%E5%B9%B4/1719622052?i=1719622401&uo=4)
-- [VGMdb 理芽](https://vgmdb.net/artist/53598)
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+百年 百年 百年 百年／百年 先の未来が 百年 先の未来が
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+百年 先の未来が こんくらいの早さで
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+百年 先の未来が 百年 先の未来が
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+百年 先の未来が どんどん近づいてくる
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+どんどん近づいてくる どんどん近づいてくる どんどん
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+間違いだらけの おれとお前でも
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+歴史の前では 事実という名のザコ二人
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+科学の進歩で 雑魚はクジラに／お前は まぐろに
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+なったかのように見えただけ 全部／百年前の延長線上
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ねんねんねんねんねんねんねんねんねんねんねんねん
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+忍び寄る 足音がないから気付かない
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ねんねんねんねんねんねんねんねんねんねんねんねん
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+増えてく 真っ暗闇で気付かない
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ねんねんねんねんねんねんねんねんねんねんねん
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+満ち満ちてゆく／不気味な予感があるだけ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ねんねんねんねんねんねんねんねん...／振り返ったらもうおしまい
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+百年 百年 百年 百年／百年 先の未来が 百年 先の未来が
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+百年 先の未来が こんくらいの早さで
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+百年 先の未来が 百年 先の未来が
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+百年 先の未来が どんどん近づいてくる
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+どんどん近づいてくる どんどん近づいてくる／どんどん
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+百年 前の事件が 百年 前の事件が
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+百年 前の事件が こんくらいの早さで
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+百年 前の事件が 百年 前の事件が
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+百年 前の事件が じくじく滲み出てくる
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+じくじく滲み出てくる じくじく滲み出てくる じくじく
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ねんねんねんねんねんねんねんねんねんねんねんねん
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+忍び寄る 足音がないから気付かない
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ねんねんねんねんねんねんねんねんねんねんねんねん
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+増えてく 真っ暗闇で気付かない
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ねんねんねんねんねんねんねんねんねんねんねん
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+満ち満ちてゆく／不気味な予感があるだけ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ねんねんねんねんねんねんねんねん...／百年 振り返ったらもうおしまい
+</div>
+</div>
+
+</div>
+
+

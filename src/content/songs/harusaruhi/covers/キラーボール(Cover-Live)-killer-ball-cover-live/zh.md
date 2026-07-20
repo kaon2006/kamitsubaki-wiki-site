@@ -27,8 +27,408 @@ image: /images/albums/harusaruhi/cream-puff-live-4.jpg
 
 ## 歌词
 
-## 来源
+{{lyrics-controls::ja}}
 
-- [官方作品目录](https://kamitsubaki.jp/disco_category/harusaruhi/)
-- [Apple Music](https://music.apple.com/jp/album/%E3%82%AD%E3%83%A9%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%AB-cover-live/1833427142?i=1833427143&uo=4)
-- [VGMdb 春猿火](https://vgmdb.net/artist/48426)
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+そう何回でも言ってやるよ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+君の中で踊る黒いもの
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あぁ あたかも隠したつもりで
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+平然としてる顔が嫌で
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+どうでもいいテレビのニュースに
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+踊らされる架空の毎日
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あぁ そんなクソみたいな夜は
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+キラーボールと一緒に回るよ
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ランランララン言葉通りさ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ランランラランいつものように
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ランランララン踊りませんか？
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ランランラランランランララン
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ランランララン言葉通りさ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ランランラランいつものように
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ランランララン踊りませんか？
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ランランラランランランララン
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+どうせまた嘘ついて無駄に泣いたりして
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+また明日も今日のようにくたびれた世界で
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+たった今わかったんだ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+キラーボールが回る最中に
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+踊ることをやめなければ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+誰も傷付かないんだって
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あぁ もう笑えるくらいに嫌気がさして
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+朝5時 踊り疲れた僕はあの子の家まで行ったんだ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+そしたら君は涙を流して僕に寄って来た
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+僕は抱き寄せて言ったんだ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+「いつもこうやってるの？」
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+愛愛愛愛愛されながら
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+だんだんだんだん嫌いになって
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+愛愛愛愛愛されながら
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+どんどんどんどん嫌いになった
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+どうせまた嘘ついて無駄に泣いたりして
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+また明日も今日のようにくたびれた世界で
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+たった今わかったんだ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+キラーボールが回る最中に
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+踊ることをやめなければ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+誰も傷付かないんだって
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+何回でも繰り返す
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+キラーボールが鳴らすサイレンと
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+冷めた奴らの目を気にしながら踊れ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+今夜もランランラン
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+そう何回でも言ってやるよ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+君の中で踊る黒いもの
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あぁ あたかも隠したつもりで
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+平然としてる顔が嫌で
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+どうでもいいテレビのニュースに
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+踊らされる架空の毎日
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あぁ そんなクソみたいな夜は
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+キラーボールと一緒に回るよ
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+どうせまた嘘ついて無駄に泣いたりして
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+また明日も今日のようにくたびれた世界で
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+たった今わかったんだ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+キラーボールが回る最中に
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+踊ることをやめなければ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+誰も傷付かないんだって
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+何回でも繰り返す
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+キラーボールが鳴らすサイレンと
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+冷めた奴らの目を気にしながら踊れ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+今夜もランランラン
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ランランラン
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ランランラン
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ランランラン
+</div>
+</div>
+
+</div>
+
+

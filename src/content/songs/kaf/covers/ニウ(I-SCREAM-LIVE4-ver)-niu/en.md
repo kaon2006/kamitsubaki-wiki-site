@@ -25,7 +25,313 @@ image: /images/albums/kaf/i-scream-live-4.jpg
 
 ## Lyrics
 
-This wiki does not reproduce full lyrics without confirmed permission. Consult the official video description or the licensed streaming service’s lyric feature; editors with contribution permission may add text using the lyric-format guide.
+{{lyrics-controls::ja}}
+
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+生まれ変わったら何になれるの？
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+想像できるものの
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+どれでもないものがいい
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Q&A １つでは終わらないくらい
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+僕は小説をしていた
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+僕は小説をしていたのに
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+君と話すため
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+辞書をひくようになった
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+君が笑うたび
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+安心してしまった
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あとどのくらい
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あとどのくらい
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あとどのくらい
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あとどのくらい
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あとどのくらい
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あとどのくらい
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ある
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あとどのくらい
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あとどのくらい
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あとどのくらい
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あとどのくらい
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あとどのくらい
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あとどのくらい
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ここにいればいいかな
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+生まれ変わったら何になれるの？
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+想像できるものの
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+どれでもないものがいい
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+小さな気づきではじまり
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+育てた緩い空洞だけ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ただ僕の中に
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+残っている
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+気がして
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+何を見ても
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+すり抜けていくけれど
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+君を今は
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+信じてしまっていいかな
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あとどのくらい
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あとどのくらい
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あとどのくらい
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あとどのくらい
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あとどのくらい
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あとどのくらい
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ある
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あとどのくらい
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あとどのくらい
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あとどのくらい
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あとどのくらい
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あとどのくらい
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あとどのくらい
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ここに君はいてくれる
+</div>
+</div>
+
+</div>
+
+
 
 ## Sources
 

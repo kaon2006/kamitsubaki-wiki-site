@@ -28,7 +28,279 @@ image: /images/albums/kaf/i-scream-live-4.jpg
 
 ## Lyrics
 
-This wiki does not reproduce full lyrics without confirmed permission. Consult the official video description or the licensed streaming service’s lyric feature; editors with contribution permission may add text using the lyric-format guide.
+{{lyrics-controls::ja}}
+
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+車で駆けてこ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+キャラメル気分で
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+はじけるリズムで
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+気になるラジオはBBC
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+海岸づたいに
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+マゼラン祭りで
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ハッスル音頭で
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+飛び交うカモメはBOAC
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+メリケン波止場で
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+なぜかソワソワして
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+水着でフルスピード
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+松原ではすぐリキュール
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+カニ食べ行こう
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+はにかんで行こう
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あまりにも絵になりそうな
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+魅力的な長いハッピービーチ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+渚へ行こう
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+乗り込んで行こう
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+リズムがはじけて恋するモード
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+昼でも夜でも
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+縮めて距離をもっと
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+私と彼氏の
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+携帯電話がリンリンリン
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あのペリカン さみしそう
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+波にフワフワして
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+誰でもせつなくて
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+お魚にもあのパフューム
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+カニ食べ行こう
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+割り切って行こう
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+止まり木に あのハリソン フォード
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+私たちはスゴイラッキーガール
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ハリキッて行こう
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+風切って行こう
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+リズムに合わせて駆け巡ろう
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+カニ食べ行こう
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+はにかんで行こう
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+あまりにも絵になりそうな
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+魅力的な白いハッピービーチ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+渚へ行こう
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+乗り込んで行こう
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+リズムに合わせて誘われそう
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+リズムがはじけて恋するモード
+</div>
+</div>
+
+</div>
+
+
 
 ## Sources
 

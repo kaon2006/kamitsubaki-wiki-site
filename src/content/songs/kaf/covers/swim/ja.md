@@ -28,7 +28,203 @@ image: /images/albums/kaf/i-scream-live-4.jpg
 
 ## 歌詞
 
-当サイトでは許諾を確認できない歌詞全文を転載しません。公式動画の説明欄または正規配信サービスの歌詞機能を参照してください。寄稿許諾をお持ちの場合は歌詞フォーマットガイドに沿って追加できます。
+{{lyrics-controls::ja}}
+
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Believe me, I couldn't see the front that I put up with my own eyes
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Even if I cried for all I said I'd do
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Because it's always the same, you think
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+You're playing the game but you make no sound
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+You put your foot down, but then the game plays you
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+And you're taking the bridge again
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+When all you want to do is swim
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+You're taking the bridge again
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Taking the bridge again
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+When all you want to do is swim
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+You're going out on a limb and going down on a whim
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+You better stay put
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+And do what you should, you know the water can be grim
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+But where is the spark, are you afraid of the dark or of the old king?
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+There's just an inkling, a song that
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+You sing to help you through the dark
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+So you're taking the bridge again
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+When all you want to do is swim
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+You're taking the bridge again
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Taking the bridge again
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+When all you want to do is swim
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+And let the current take you
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Let the waters break you
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+And float out to the sea
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Are you taking the bridge again?
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+When all you want to do is swim
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+You're taking the bridge again
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Taking the bridge again
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+When all you want to do is swim
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+You're taking the bridge again
+</div>
+</div>
+
+</div>
+
+
 
 ## 出典
 

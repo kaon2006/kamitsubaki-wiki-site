@@ -27,6 +27,96 @@ image: /images/albums/harusaruhi/spice-of-life.jpg
 
 ## 歌詞
 
+{{lyrics-controls::ja}}
+
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+yeah
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+MAP開いて行こう
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+指差した場所にノリでgo
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+疲れてるよね結構
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+なら全力ではしゃごう
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+飛行機は少しこわいから
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+みどりがきれいなとこにdrive
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Trip Trip Trip
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+まだ知らないその街へ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+（山も海でもいいな）
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Trip Trip Trip
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+たまに気晴らしリフレッシュして
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+（さあ何食べようかな）
+</div>
+</div>
+
+<br />
+
+</div>
+
+
+
 ## 出典
 
 - [公式ディスコグラフィー](https://kamitsubaki.jp/disco_category/harusaruhi/)

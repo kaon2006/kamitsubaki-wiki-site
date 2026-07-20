@@ -27,8 +27,162 @@ image: /images/albums/harusaruhi/spice-of-life.jpg
 
 ## 歌词
 
-## 来源
+{{lyrics-controls::ja}}
 
-- [官方作品目录](https://kamitsubaki.jp/disco_category/harusaruhi/)
-- [Apple Music](https://music.apple.com/jp/album/%E3%82%A2%E3%83%AB%E3%82%B3%E3%83%BC%E3%83%AB/1866810856?i=1866811142&uo=4)
-- [VGMdb 春猿火](https://vgmdb.net/artist/48426)
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+仕事おわりに乾杯
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+実は飲めちゃう案外
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+yeah, yeah, yeah
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+普段は割とだんまり
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+だから吐き出すたんまり
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+yeah, yeah, yeah
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+話 はずむ やばい 回る
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+赤い 染まる 頬が語る
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+楽しくなる飲みニケーション
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+色々忘れて今日は無礼講
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Drunk Drunk Drunk Drunk
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+次第に
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+クラクラクラクラ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+みんなで
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Drunk Drunk Drunk Drunk
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+頭はパッパッパパラー
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+yeah
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+気分があがる
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+距離が縮まる
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+たまにはいい
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+けどほどほどに
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Drunk Drunk Drunk Drunk
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+朝まで
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Chat Chat Chat Chat
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+yeah
+</div>
+</div>
+
+<br />
+
+</div>
+
+

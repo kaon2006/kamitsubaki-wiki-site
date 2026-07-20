@@ -27,6 +27,342 @@ image: /images/songs/isekaijoucho/single-1689358563.jpg
 
 ## 歌詞
 
+{{lyrics-controls::ja}}
+
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+愛 mistake? 偏愛 不可知の世界
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+理解 旋律を前に
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+廃 escape? 迷言 無価値の中
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+世界 旋律の糧となれ
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+廃世界 閑散な夜が
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+可笑しな旋律に触れる
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+愛 世界 精巧な音の罠
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+まだ 貴方は気付かない
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+散々と踊りましょう
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+影が揺れる甘美な夜
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+さあ 全部忘れましょう
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+貴方は触れる 災厄をどうぞ
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+飾られた言葉も見抜けぬ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+世界さへ愚かで愛しい
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+わたしから貴方へと送るの
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+生まれゆく災厄を
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+散々と踊りましょう
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+偏愛に壊れる 貴方の世界
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+さあ 全部忘れましょう
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+誰も邪魔させない わたしだけの世界
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Misty, calling, dreaming, violet
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+愛 罠 deep inside
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Mistake, calling, killing, parade
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+曖昧な dreaming night
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Misty, calling, dreaming, violet
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+愛 罠 deep inside
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Mistake, calling, killing, parade
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+曖昧な dreaming night
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+廃世界 閑散な夜が
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+可笑しな旋律に触れる
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+愛 世界 精巧な音の罠
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+まだ 貴方は気付かない
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+飾られた言葉も見抜けぬ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+世界さへ愚かで愛しい
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+わたしから貴方へと送るの
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+生まれゆく災厄を
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+散々と踊りましょう
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+偏愛に壊れる 貴方の世界
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+さあ 全部忘れましょう
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+誰も邪魔させない わたしだけの世界
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Misty, calling, dreaming, violet
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+愛 罠 deep inside
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Mistake, calling, killing, parade
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+曖昧な dreaming night
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Misty, calling, dreaming, violet
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+愛 罠 deep inside
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Mistake, calling, killing, parade
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+曖昧な dreaming night
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+愛 mistake? 偏愛 不可知の世界
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+理解 旋律を前に
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+廃 escape? 迷言 無価値の中
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+世界 旋律の糧となれ
+</div>
+</div>
+
+</div>
+
+
+
 ## 出典
 
 - [公式ディスコグラフィー](https://kamitsubaki.jp/discography/isekaijoucho/1540/)

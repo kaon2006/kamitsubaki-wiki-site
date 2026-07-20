@@ -14,6 +14,7 @@ categoryOrder: 60
 itemOrder: 19
 code: "apple-1688351159"
 image: /images/albums/kaf/kansoku.jpg
+contentStatus: stub
 ---
 
 ## 作品简介

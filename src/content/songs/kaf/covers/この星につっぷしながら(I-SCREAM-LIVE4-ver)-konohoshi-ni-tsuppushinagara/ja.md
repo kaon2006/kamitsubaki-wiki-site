@@ -25,7 +25,139 @@ image: /images/albums/kaf/i-scream-live-4.jpg
 
 ## 歌詞
 
-当サイトでは許諾を確認できない歌詞全文を転載しません。公式動画の説明欄または正規配信サービスの歌詞機能を参照してください。寄稿許諾をお持ちの場合は歌詞フォーマットガイドに沿って追加できます。
+{{lyrics-controls::ja}}
+
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+まじりっけだらけの 恋する生き物たちが
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+まざりあえないままでも ずっと歩いてゆけるのはいいね
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+まちがいだらけの 変態をくりかえしながら
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+それでもお互いの名前を呼びあうのはいいね
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+この星につっぷしながら
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+おかしなからだとこころがふたつずつ
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ケモノのように歌いながら たのしくすっと暮らします
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ケモノのように歌いながら
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+化石のように眠りながら たのしくしんと暮らしてます
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+化石のように眠りながら
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ケモノのように歌いながら あわてずにすっと暮らします
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+ケモノのように歌いながら
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+化石のように眠る夜を たのしくしんと暮らしてます
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+化石のように眠る夜を
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+まじりっけだらけの 恋する生き物がふたり
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+まざりあえないままでも ずっと暮らしてゆけるのはいいね
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+この星につっぷしながら
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+この星につっぷしながら
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+この星につっぷしながら
+</div>
+</div>
+
+</div>
+
+
 
 ## 出典
 

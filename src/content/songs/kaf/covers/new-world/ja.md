@@ -25,7 +25,129 @@ image: /images/albums/kaf/i-scream-live-4.jpg
 
 ## 歌詞
 
-当サイトでは許諾を確認できない歌詞全文を転載しません。公式動画の説明欄または正規配信サービスの歌詞機能を参照してください。寄稿許諾をお持ちの場合は歌詞フォーマットガイドに沿って追加できます。
+{{lyrics-controls::ja}}
+
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+There's a raging storm around us
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Trying to tear us from the ground
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+We can ride this wave together
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Until the thunder makes no sound
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+We are the new world
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+We'll unite this world together
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+We are the new world
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+We'll put this fire out forever
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+We are the new world
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+We'll put this fire out forever
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+We can make our own salvation
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+When there's a battle to be won
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+We can end this fight forever
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Take the bullet from the gun
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+We are the new world
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+We'll unite this world together
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+We are the new world
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+We'll put this fire out forever
+</div>
+</div>
+
+</div>
+
+
 
 ## 出典
 

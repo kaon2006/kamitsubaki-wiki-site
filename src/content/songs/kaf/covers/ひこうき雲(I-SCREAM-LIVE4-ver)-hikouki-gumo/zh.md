@@ -28,6 +28,164 @@ image: /images/albums/kaf/i-scream-live-4.jpg
 
 ## 歌词
 
-## 来源
+{{lyrics-controls::ja}}
 
-- [Apple Music](https://music.apple.com/jp/album/%E3%81%B2%E3%81%93%E3%81%86%E3%81%8D%E9%9B%B2/1864122479?i=1864122663&uo=4)
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Ashita moshi haretara
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Hikoukigumo zenbu atsumete
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Kimi ga sumu sono machi ni
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Todokeru yo owaranai uta wo
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Bokura wo tsunagu yo mugen ni hirogaru
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Afureru omoi to jiyuuna sono basho
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Egakidasu kokoro won ni takushite
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Todoke ni iku yo kimi ga iru machi ni
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Mukaikaze ni fuka reta toki
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Bokura wa itsumo tachidomaru
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Owari wo kaite shimaunara
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Yumemita keshiki wa mou touzakatte shimau
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Bokura o tsunagu yo mugen ni hirogaru
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Afureru omoi to jiyuuna kono basho
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Egakidasu kokoro won ni takushite
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Todoke ni iku yo kimi ga iru machi ni
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Ashita moshi haretara
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Hikoukigumo zenbu atsumete
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Kimi ga sumu kono machi ni
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Todokeru yo owaranai uta
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Bokura o tsunagu yo mugen ni hirogaru
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Afureru omoi o kaki tsudzukeyou
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Shirokuro no ashita irodzuite yuku
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Todoke tsudzukeru yakusoku no merodii
+</div>
+</div>
+
+</div>
+
+

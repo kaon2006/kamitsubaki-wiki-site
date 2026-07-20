@@ -22,7 +22,136 @@ image: /images/albums/rim/chocolate-live.jpg
 
 ## 歌词
 
-## 来源
+{{lyrics-controls::ja}}
 
-- [官方作品目录](https://kamitsubaki.jp/discography/rim/379/)
-- [VGMdb 理芽](https://vgmdb.net/artist/53598)
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Rollin' Rollin'　回り続ける　レコードに　運ばれて
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Rollin' Rollin'　わからないまんま　ながくながく　流されて
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+そう
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Rollin' Rollin'　回り続ける　君の可愛い　考えが
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Oh Sorry Darlin'　ゆるしてほしい　なにひとつ　答えられずに
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+そう
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+BABY OH BABY KEEP COMIN' BACK　BABY OH BABY KEEP COMIN' BACK
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+BABY OH BABY KEEP COMIN' BACK　BABY OH BABY KEEP COMIN' BACK TO LOVE
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Rollin' Rollin'　回り続ける　運命に　運ばれて
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Rollin' Rollin'　忘れたまんま　知らない場所まで　流されて
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Rollin' Rollin'　回り続ける　レコードに　運ばれて
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Rollin' Rollin'　わからないまんま　ながくながく　流されて
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+そう
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+BABY OH BABY KEEP COMIN' BACK　BABY OH BABY KEEP COMIN' BACK
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+BABY OH BABY KEEP COMIN' BACK　BABY OH BABY KEEP COMIN' BACK TO LOVE
+</div>
+</div>
+
+<br />
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Rollin' Rollin'　回り続ける　君の可愛い　考えが
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Oh Sorry Darlin'　君と2人　坂を登り　坂を下る
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Rollin' Rollin'　回り続ける　運命に　運ばれて
+</div>
+</div>
+
+<div class="lyric-line">
+<div class="jp-lyric">
+Rollin' Rollin'　君と2人　朝よ　来ないで
+</div>
+</div>
+
+<br />
+
+</div>
+
+
