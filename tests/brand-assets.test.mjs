@@ -15,3 +15,11 @@ test('square and long brand logos are valid local SVG assets', async () => {
   assert.doesNotMatch(square, /<script|javascript:/i);
   assert.doesNotMatch(long, /<script|javascript:/i);
 });
+
+test('site footer closes the page with the long brand logo', async () => {
+  const footer = await readFile(new URL('../src/components/SiteFooter.astro', import.meta.url), 'utf8');
+
+  assert.match(footer, /src="\/brand\/kamitsubakiwiki-long\.svg"/);
+  assert.match(footer, /width="1577"/);
+  assert.match(footer, /height="400"/);
+});
