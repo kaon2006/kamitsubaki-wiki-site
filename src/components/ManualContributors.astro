@@ -1,0 +1,272 @@
+---
+import {
+  manualContributors,
+  type ContributorLocale,
+  type LocalizedContributorText,
+} from '../data/manualContributors';
+
+interface Props {
+  locale?: ContributorLocale | string;
+}
+
+const { locale = 'zh' } = Astro.props as Props;
+const activeLocale: ContributorLocale = locale === 'ja' || locale === 'en' ? locale : 'zh';
+const contributors = manualContributors.filter((contributor) => contributor.enabled !== false);
+
+const copy = {
+  zh: {
+    title: '特别协力者',
+    subtitle: '感谢在内容、视觉、翻译与站点建设之外，以不同方式提供帮助的每一位同行者。',
+    contact: '联系方式',
+    quote: '他的一句话',
+    empty: '手动协力者名单尚未添加。可在本地数据文件中补充。',
+  },
+  ja: {
+    title: 'スペシャルサポーター',
+    subtitle: 'コンテンツ、ビジュアル、翻訳、サイト制作など、さまざまな形で力を貸してくださった皆さまに感謝します。',
+    contact: '連絡先',
+    quote: 'ひとこと',
+    empty: '手動サポーターはまだ登録されていません。ローカルデータファイルから追加できます。',
+  },
+  en: {
+    title: 'Special collaborators',
+    subtitle: 'With thanks to everyone who supports the archive through content, visuals, translation, site work, and many other forms of help.',
+    contact: 'Contact',
+    quote: 'In their words',
+    empty: 'No manual collaborators have been added yet. Add them in the local data file.',
+  },
+}[activeLocale];
+
+function localized(value: LocalizedContributorText) {
+  if (typeof value === 'string') return value;
+  return value[activeLocale] || value.zh || value.ja || value.en || '';
+}
+
+function safeContactHref(value?: string) {
+  if (!value) return '';
+  if (value.startsWith('mailto:')) return value;
+
+  try {
+    const url = new URL(value);
+    return url.protocol === 'https:' || url.protocol === 'http:' ? value : '';
+  } catch {
+    return '';
+  }
+}
+---
+
+<section class="manual-contributors" aria-labelledby="manual-contributors-title">
+  <header class="manual-contributors__header">
+    <div>
+      <h3 id="manual-contributors-title">{copy.title}</h3>
+      <p>{copy.subtitle}</p>
+    </div>
+    <span aria-label={`${contributors.length} ${copy.title}`}>{String(contributors.length).padStart(2, '0')}</span>
+  </header>
+
+  {contributors.length > 0 ? (
+    <div class="manual-contributors__list">
+      {contributors.map((contributor, index) => {
+        const contactHref = safeContactHref(contributor.contact.href);
+
+        return (
+          <article class="manual-contributors__person">
+            <div class="manual-contributors__meta">
+              <span>{String(index + 1).padStart(2, '0')}</span>
+              <p>{localized(contributor.collaboration)}</p>
+            </div>
+            <div class="manual-contributors__profile">
+              <h4>{contributor.name}</h4>
+              <p>{localized(contributor.introduction)}</p>
+              <div class="manual-contributors__contact">
+                <span>{copy.contact}</span>
+                {contactHref ? (
+                  <a href={contactHref} target={contactHref.startsWith('mailto:') ? undefined : '_blank'} rel={contactHref.startsWith('mailto:') ? undefined : 'noopener noreferrer'}>
+                    {contributor.contact.label}<span aria-hidden="true">↗</span>
+                  </a>
+                ) : (
+                  <strong>{contributor.contact.label}</strong>
+                )}
+              </div>
+            </div>
+            <blockquote>
+              <span>{copy.quote}</span>
+              <p>“{localized(contributor.quote)}”</p>
+            </blockquote>
+          </article>
+        );
+      })}
+    </div>
+  ) : (
+    <p class="manual-contributors__empty">{copy.empty}</p>
+  )}
+</section>
+
+<style>
+  .manual-contributors {
+    margin: 0 0 clamp(2rem, 5vw, 3.5rem);
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+  }
+
+  .manual-contributors__header {
+    display: flex;
+    gap: 2rem;
+    align-items: flex-start;
+    justify-content: space-between;
+    padding: clamp(1.75rem, 4vw, 2.75rem) 0 1.25rem;
+  }
+
+  .manual-contributors__header h3 {
+    margin: 0;
+    font-family: var(--font-serif);
+    font-size: clamp(1.15rem, 2.2vw, 1.6rem);
+    font-weight: 400;
+    letter-spacing: 0.07em;
+    color: rgba(255, 255, 255, 0.92);
+  }
+
+  .manual-contributors__header p {
+    max-width: 42rem;
+    margin: 0.65rem 0 0;
+    font-size: 0.7rem;
+    line-height: 1.8;
+    color: rgba(255, 255, 255, 0.5);
+  }
+
+  .manual-contributors__header > span {
+    padding-top: 0.15rem;
+    font-family: var(--font-mono);
+    font-size: 0.62rem;
+    letter-spacing: 0.18em;
+    color: color-mix(in srgb, var(--wiki-accent-color) 62%, transparent);
+  }
+
+  .manual-contributors__list {
+    border-top: 1px solid rgba(255, 255, 255, 0.09);
+  }
+
+  .manual-contributors__person {
+    display: grid;
+    grid-template-columns: minmax(8rem, 0.55fr) minmax(15rem, 1.15fr) minmax(15rem, 1fr);
+    gap: clamp(1.25rem, 4vw, 3.5rem);
+    padding: clamp(1.25rem, 3vw, 1.9rem) 0;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.09);
+    transition: background-color 180ms ease;
+  }
+
+  .manual-contributors__person:hover {
+    background: color-mix(in srgb, var(--wiki-accent-color) 4%, transparent);
+  }
+
+  .manual-contributors__meta {
+    display: flex;
+    gap: 0.8rem;
+    align-items: baseline;
+    font-family: var(--font-mono);
+  }
+
+  .manual-contributors__meta span {
+    font-size: 0.52rem;
+    color: rgba(255, 255, 255, 0.26);
+  }
+
+  .manual-contributors__meta p {
+    margin: 0;
+    font-size: 0.62rem;
+    letter-spacing: 0.12em;
+    color: color-mix(in srgb, var(--wiki-accent-color) 72%, white 16%);
+  }
+
+  .manual-contributors__profile h4 {
+    margin: 0;
+    font-family: var(--font-serif);
+    font-size: clamp(1.05rem, 2vw, 1.35rem);
+    font-weight: 400;
+    letter-spacing: 0.05em;
+    color: rgba(255, 255, 255, 0.9);
+  }
+
+  .manual-contributors__profile > p {
+    margin: 0.55rem 0 0;
+    font-size: 0.7rem;
+    line-height: 1.75;
+    color: rgba(255, 255, 255, 0.52);
+  }
+
+  .manual-contributors__contact {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.55rem 0.85rem;
+    align-items: center;
+    margin-top: 0.9rem;
+    font-family: var(--font-mono);
+    font-size: 0.58rem;
+  }
+
+  .manual-contributors__contact > span {
+    color: rgba(255, 255, 255, 0.28);
+  }
+
+  .manual-contributors__contact a,
+  .manual-contributors__contact strong {
+    display: inline-flex;
+    gap: 0.35rem;
+    color: rgba(255, 255, 255, 0.72);
+    font-weight: 400;
+    text-decoration: none;
+  }
+
+  .manual-contributors__contact a:hover,
+  .manual-contributors__contact a:focus-visible {
+    color: white;
+  }
+
+  .manual-contributors__person blockquote {
+    margin: 0;
+    padding-left: clamp(1rem, 3vw, 1.75rem);
+    border-left: 1px solid color-mix(in srgb, var(--wiki-accent-color) 32%, rgba(255, 255, 255, 0.08));
+  }
+
+  .manual-contributors__person blockquote span {
+    font-family: var(--font-mono);
+    font-size: 0.5rem;
+    letter-spacing: 0.12em;
+    color: rgba(255, 255, 255, 0.3);
+  }
+
+  .manual-contributors__person blockquote p {
+    margin: 0.55rem 0 0;
+    font-family: var(--font-serif);
+    font-size: 0.82rem;
+    line-height: 1.75;
+    color: rgba(255, 255, 255, 0.72);
+  }
+
+  .manual-contributors__empty {
+    margin: 0;
+    padding: 1.3rem 0 1.7rem;
+    border-top: 1px solid rgba(255, 255, 255, 0.08);
+    font-family: var(--font-mono);
+    font-size: 0.62rem;
+    line-height: 1.7;
+    letter-spacing: 0.06em;
+    color: rgba(255, 255, 255, 0.38);
+  }
+
+  @media (max-width: 760px) {
+    .manual-contributors__header {
+      gap: 1rem;
+    }
+
+    .manual-contributors__person {
+      grid-template-columns: 1fr;
+      gap: 1rem;
+    }
+
+    .manual-contributors__person blockquote {
+      padding: 0.85rem 0 0;
+      border-top: 1px solid color-mix(in srgb, var(--wiki-accent-color) 24%, rgba(255, 255, 255, 0.08));
+      border-left: 0;
+    }
+  }
+</style>

@@ -176,6 +176,27 @@ test('contributor roster exposes localized honor wall copy and contribution rout
   assert.match(component, /src\/content\/\$\{collection\}/);
 });
 
+test('manual collaborators use an independent local data file and summary-only section', async () => {
+  const roster = await readProjectFile('../src/components/ContributorRoster.astro');
+  const component = await readProjectFile('../src/components/ManualContributors.astro');
+  const data = await readProjectFile('../src/data/manualContributors.ts');
+
+  assert.match(roster, /import ManualContributors/);
+  assert.match(roster, /mode === 'summary' && <ManualContributors locale=\{locale\}/);
+  assert.match(component, /manualContributors\.filter/);
+  assert.match(component, /特别协力者/);
+  assert.match(component, /スペシャルサポーター/);
+  assert.match(component, /Special collaborators/);
+  assert.match(component, /safeContactHref/);
+  assert.match(component, /manual-contributors__person/);
+  assert.match(data, /collaboration: LocalizedContributorText/);
+  assert.match(data, /name: string/);
+  assert.match(data, /contact:/);
+  assert.match(data, /introduction: LocalizedContributorText/);
+  assert.match(data, /quote: LocalizedContributorText/);
+  assert.match(data, /export const manualContributors/);
+});
+
 test('contributor renderer builds honor wall cards, readable activity, and retry states', async () => {
   const script = await readProjectFile('../src/scripts/contributorRoster.js');
 
