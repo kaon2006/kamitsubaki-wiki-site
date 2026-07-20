@@ -86,4 +86,6 @@ test('base layout renders configurable metadata tags', async () => {
   assert.match(layout, /name="twitter:card"/);
   assert.match(layout, /name="robots"/);
   assert.match(layout, /PUBLIC_SITE_URL/);
+  assert.match(layout, /神椿观测站-KAMITSUBAKI Fan Wiki/);
+  assert.match(layout, /rel="icon" type="image\/svg\+xml" href="\/brand\/kamitsubakiwiki-square\.svg"/);
 });
