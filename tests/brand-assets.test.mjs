@@ -32,3 +32,15 @@ test('site footer closes the page with theme-specific long brand logos', async (
   assert.match(footer, /width="1577"/);
   assert.match(footer, /height="400"/);
 });
+
+test('theme-specific main logos are valid local SVG assets', async () => {
+  const [dark, light] = await Promise.all([
+    readAsset('main-logo-dark.svg'),
+    readAsset('main-logo-light.svg'),
+  ]);
+
+  assert.match(dark, /<svg[^>]+viewBox="0 0 400 400"/);
+  assert.match(light, /<svg[^>]+viewBox="0 0 400 400"/);
+  assert.doesNotMatch(dark, /<script|javascript:/i);
+  assert.doesNotMatch(light, /<script|javascript:/i);
+});

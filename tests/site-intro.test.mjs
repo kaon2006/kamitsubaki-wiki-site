@@ -1,0 +1,53 @@
+import assert from 'node:assert/strict';
+import { readFile } from 'node:fs/promises';
+import test from 'node:test';
+
+const readSource = (path) => readFile(new URL(path, import.meta.url), 'utf8');
+
+test('homepage intro uses the supplied theme-specific square logos without filters', async () => {
+  const [component, darkLogo, lightLogo] = await Promise.all([
+    readSource('../src/components/SiteIntro.astro'),
+    readSource('../public/brand/main-logo-dark.svg'),
+    readSource('../public/brand/main-logo-light.svg'),
+  ]);
+
+  assert.match(darkLogo, /<svg[^>]+viewBox="0 0 400 400"/);
+  assert.match(lightLogo, /<svg[^>]+viewBox="0 0 400 400"/);
+  assert.doesNotMatch(darkLogo, /<script|javascript:/i);
+  assert.doesNotMatch(lightLogo, /<script|javascript:/i);
+  assert.match(component, /src="\/brand\/main-logo-dark\.svg"/);
+  assert.match(component, /src="\/brand\/main-logo-light\.svg"/);
+  assert.match(component, /html\[data-theme='light'\][\s\S]*main-logo-light\.svg/);
+  assert.doesNotMatch(component, /filter\s*:/);
+});
+
+test('intro waits for both its full animation and the window load event', async () => {
+  const [layout, component, interactions] = await Promise.all([
+    readSource('../src/layouts/BaseLayout.astro'),
+    readSource('../src/components/SiteIntro.astro'),
+    readSource('../src/scripts/siteInteractions.js'),
+  ]);
+
+  assert.match(layout, /isLocalizedHome && <SiteIntro/);
+  assert.match(layout, /site-intro-enabled/);
+  assert.match(layout, /rel="preload" href="\/brand\/main-logo-dark\.svg"/);
+  assert.match(layout, /rel="preload" href="\/brand\/main-logo-light\.svg"/);
+  assert.match(component, /data-animation-duration="3250"/);
+  assert.match(component, /is-animation-complete[\s\S]*site-intro__static/);
+  assert.match(interactions, /animationComplete = false/);
+  assert.match(interactions, /pageLoaded = document\.readyState === 'complete'/);
+  assert.match(interactions, /if \(leaving \|\| !animationComplete \|\| !pageLoaded\) return/);
+  assert.match(interactions, /window\.addEventListener\('load'/);
+  assert.match(interactions, /dataset\.state = pageLoaded \? 'ready' : 'waiting'/);
+});
+
+test('intro has a reduced-motion path and does not block non-home pages', async () => {
+  const [component, interactions] = await Promise.all([
+    readSource('../src/components/SiteIntro.astro'),
+    readSource('../src/scripts/siteInteractions.js'),
+  ]);
+
+  assert.match(component, /@media \(prefers-reduced-motion: reduce\)/);
+  assert.match(interactions, /prefersReducedMotion \? 900/);
+  assert.match(interactions, /document\.documentElement\.classList\.remove\('site-intro-enabled'\);[\s\S]*startReveals\(\)/);
+});

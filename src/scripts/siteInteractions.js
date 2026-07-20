@@ -90,9 +90,7 @@ document.addEventListener('DOMContentLoaded', () => {
   document.documentElement.classList.add('has-js');
   enhanceExternalLinkSections(document);
 
-  const preloader = document.getElementById('preloader');
-  const bodyWrap = document.getElementById('body-wrap');
-  const hasSeenPreloader = window.sessionStorage.getItem('kamitsubaki-preloader-seen') === '1';
+  const siteIntro = document.querySelector('[data-site-intro]');
   const prefersReducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
   const revealElements = document.querySelectorAll('.reveal-up');
   let revealsStarted = false;
@@ -130,26 +128,49 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   };
 
-  const hidePreloader = () => {
-    preloader?.classList.add('hidden-preloader');
-    bodyWrap?.classList.remove('overflow-hidden', 'ui-loading');
+  if (siteIntro) {
+    const configuredDuration = Number.parseInt(siteIntro.dataset.animationDuration ?? '', 10);
+    const animationDuration = prefersReducedMotion ? 900 : (configuredDuration || 3250);
+    let animationComplete = false;
+    let pageLoaded = document.readyState === 'complete';
+    let leaving = false;
 
-    window.setTimeout(startReveals, hasSeenPreloader ? 40 : 180);
+    const revealSite = () => {
+      if (leaving || !animationComplete || !pageLoaded) return;
+      leaving = true;
+      siteIntro.dataset.state = 'leaving';
+
+      window.requestAnimationFrame(() => {
+        siteIntro.classList.add('is-leaving');
+      });
+
+      window.setTimeout(() => {
+        siteIntro.hidden = true;
+        siteIntro.dataset.state = 'complete';
+        document.documentElement.classList.remove('site-intro-enabled');
+        startReveals();
+      }, prefersReducedMotion ? 180 : 720);
+    };
 
     window.setTimeout(() => {
-      if (preloader) {
-        preloader.style.display = 'none';
-      }
-    }, 650);
-  };
+      animationComplete = true;
+      siteIntro.dataset.state = pageLoaded ? 'ready' : 'waiting';
+      siteIntro.classList.add('is-animation-complete');
+      revealSite();
+    }, animationDuration);
 
-  if (hasSeenPreloader) {
-    hidePreloader();
+    if (pageLoaded) {
+      revealSite();
+    } else {
+      window.addEventListener('load', () => {
+        pageLoaded = true;
+        if (animationComplete) siteIntro.dataset.state = 'ready';
+        revealSite();
+      }, { once: true });
+    }
   } else {
-    window.setTimeout(() => {
-      window.sessionStorage.setItem('kamitsubaki-preloader-seen', '1');
-      hidePreloader();
-    }, 900);
+    document.documentElement.classList.remove('site-intro-enabled');
+    startReveals();
   }
 
   const cursor = document.getElementById('cursor');
