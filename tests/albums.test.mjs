@@ -114,6 +114,29 @@ test('music catalog groups entries by artist with stable anchors', async () => {
   );
 });
 
+test('multi-artist songs appear once in every credited artist catalog', async () => {
+  const { groupMusicByArtist } = await import('../src/lib/musicCatalog.mjs');
+  const entries = [{
+    id: 'vwp/genealogy/resonance/zh',
+    data: {
+      artist: 'V.W.P',
+      artistId: 'vwp',
+      artistIds: ['vwp', 'kaf', 'rim', 'harusaruhi', 'isekaijoucho', 'koko'],
+      title: '共鳴',
+    },
+  }];
+  const artists = [
+    { id: 'vwp/vwp/zh', data: { translationKey: 'vwp', name: 'V.W.P' } },
+    { id: 'vwp/rim/zh', data: { translationKey: 'rim', name: '理芽' } },
+  ];
+
+  const groups = groupMusicByArtist(entries, 'zh', artists);
+  assert.equal(groups.length, 6);
+  assert.equal(groups.find(({ slug }) => slug === 'vwp').entries.length, 1);
+  assert.equal(groups.find(({ slug }) => slug === 'rim').artist, '理芽');
+  assert.equal(groups.find(({ slug }) => slug === 'rim').entries.length, 1);
+});
+
 test('album track links are emitted only for localized song entries', async () => {
   const detailPage = await readProjectFile('../src/pages/[locale]/albums/[...id].astro');
 

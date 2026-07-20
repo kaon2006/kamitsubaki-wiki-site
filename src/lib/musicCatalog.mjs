@@ -154,24 +154,29 @@ export function groupMusicByArtist(entries, locale = 'en', artistEntries = []) {
   const groups = new Map();
 
   for (const entry of entries) {
-    const artist = entry.data.artist.trim();
-    const slug = entry.data.artistId?.trim() || toArtistSlug(artist);
-    const artistEntry = findArtistEntry(artistEntries, slug);
-    const group = groups.get(slug) ?? {
-      artist,
-      slug,
-      id: `artist-${slug}`,
-      entries: [],
-      artistEntry,
-      artistPath: artistEntry ? getEntryContentPath(artistEntry.id) : undefined,
-      cover: artistEntry?.data.image,
-      romanizedName: artistEntry?.data.romanizedName,
-      theme: artistEntry?.data.theme,
-      order: artistEntry?.data.categoryOrder,
-      itemOrder: artistEntry?.data.itemOrder,
-    };
-    group.entries.push(entry);
-    groups.set(slug, group);
+    const primaryArtist = entry.data.artist.trim();
+    const primarySlug = entry.data.artistId?.trim() || toArtistSlug(primaryArtist);
+    const slugs = [...new Set(entry.data.artistIds?.length ? entry.data.artistIds : [primarySlug])];
+
+    for (const slug of slugs) {
+      const artistEntry = findArtistEntry(artistEntries, slug);
+      const artist = artistEntry?.data.name?.trim() || (slug === primarySlug ? primaryArtist : slug);
+      const group = groups.get(slug) ?? {
+        artist,
+        slug,
+        id: `artist-${slug}`,
+        entries: [],
+        artistEntry,
+        artistPath: artistEntry ? getEntryContentPath(artistEntry.id) : undefined,
+        cover: artistEntry?.data.image,
+        romanizedName: artistEntry?.data.romanizedName,
+        theme: artistEntry?.data.theme,
+        order: artistEntry?.data.categoryOrder,
+        itemOrder: artistEntry?.data.itemOrder,
+      };
+      group.entries.push(entry);
+      groups.set(slug, group);
+    }
   }
 
   return [...groups.values()].sort((left, right) =>

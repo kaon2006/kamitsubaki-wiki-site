@@ -290,6 +290,10 @@ const songs = defineCollection({
   loader: glob({ pattern: '**/{zh,ja,en}.md', base: './src/content/songs' }),
   schema: workBaseSchema.extend({
     artistId: z.string().regex(/^[a-z0-9]+(?:-[a-z0-9]+)*$/, 'Expected a lowercase URL slug'),
+    artistIds: z
+      .array(z.string().regex(/^[a-z0-9]+(?:-[a-z0-9]+)*$/, 'Expected a lowercase URL slug'))
+      .min(1)
+      .optional(),
     composer: z.string().optional(),
     lyricist: z.string().optional(),
     album: z.string().optional(),
