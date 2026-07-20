@@ -93,17 +93,47 @@ document.addEventListener('DOMContentLoaded', () => {
   const artistList = document.getElementById('artist-list');
 
   if (bgContainer instanceof HTMLElement && bgImg instanceof HTMLImageElement) {
+    const bgLayers = Array.from(bgContainer.querySelectorAll('.artist-bg__image')).filter(
+      (layer) => layer instanceof HTMLImageElement,
+    );
+    let activeBgLayer = null;
+    let backgroundRequest = 0;
+
     const showArtistBackground = (row) => {
-      bgImg.src = row.getAttribute('data-img') ?? '';
-      bgContainer.style.opacity = '1';
-      window.setTimeout(() => {
-        bgImg.style.transform = 'scale(1)';
-      }, 50);
+      const imageUrl = row.getAttribute('data-img');
+      if (!imageUrl) return;
+
+      const request = ++backgroundRequest;
+      bgContainer.classList.add('is-visible');
+
+      if (activeBgLayer?.dataset.src === imageUrl) {
+        activeBgLayer.classList.add('is-active');
+        return;
+      }
+
+      const nextLayer = bgLayers.find((layer) => layer !== activeBgLayer) ?? bgImg;
+      nextLayer.classList.remove('is-active');
+      nextLayer.dataset.src = imageUrl;
+      nextLayer.src = imageUrl;
+
+      const revealLayer = () => {
+        if (request !== backgroundRequest) return;
+        activeBgLayer?.classList.remove('is-active');
+        nextLayer.classList.add('is-active');
+        activeBgLayer = nextLayer;
+      };
+
+      if (nextLayer.complete) {
+        window.requestAnimationFrame(revealLayer);
+      } else {
+        nextLayer.addEventListener('load', revealLayer, { once: true });
+      }
     };
 
     const hideArtistBackground = () => {
-      bgContainer.style.opacity = '0';
-      bgImg.style.transform = 'scale(0.95)';
+      backgroundRequest += 1;
+      bgContainer.classList.remove('is-visible');
+      activeBgLayer?.classList.remove('is-active');
     };
 
     document.querySelectorAll('.artist-row').forEach((row) => {
