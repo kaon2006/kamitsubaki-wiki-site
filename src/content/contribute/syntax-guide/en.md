@@ -218,7 +218,7 @@ H{{sub::2}}O and x{{sup::2}}
 
 {{mark::Important}}, {{abbr::V.W.P::Virtual Witch Phenomenon}}, press {{kbd::Ctrl+K}}, {{time::July 19, 2026::2026-07-19}}, H{{sub::2}}O and x{{sup::2}}, {{small::additional note}}
 
-On a song page, place `{{lyrics-controls::en}}` in its own paragraph immediately before the `.my-lyric-box` lyric container. The site generates the localized kana, translation, and romaji controls; Japanese automatically omits the translation control. The argument must match the file's `locale`.
+On a song page, place `{{lyrics-controls::en}}` in its own paragraph immediately before the `.my-lyric-box` lyric container. The site generates the localized kana, translation, romaji, and synchronized-lyric controls; Japanese automatically omits the translation control. The argument must match the file's `locale`.
 
 ### Complete lyric-page authoring
 
@@ -279,6 +279,51 @@ The code above renders as an interactive lyric-practice component:
 <ruby>間違<rt class="furi">まちが</rt><rt class="roma">machiga</rt></ruby><ruby>い<rt class="roma">i</rt></ruby>
 </div>
 <div class="trans-lyric">If it is a mistake</div>
+</div>
+
+</div>
+
+### Synchronized lyric timeline
+
+For word-level highlighting, write a `[mm:ss.xx]` or `[mm:ss.xxx]` timestamp immediately before each lyric unit. A timestamp is the unit's start time relative to the lyric timer: “Play” starts at `00:00.00`, selecting a timed lyric line seeks to that line and continues playback, and “Reset” returns to the beginning.
+
+- `mm` and `ss` must each contain two digits; the fractional part may contain two or three digits. Valid examples include `[00:03.50]` and `[01:02.345]`.
+- Put the timestamp directly against its `<ruby>` element or plain text, with no intervening space. Every unit that should highlight independently needs its own start time.
+- The first timestamp in each `.jp-lyric` also becomes that line's seek time. If a translation line is present, give it the same line-start timestamp at the beginning.
+- Keep timestamps increasing in playback order. Partial timing is allowed; lines without timestamps remain normally displayed.
+- Author only the bracketed timestamps. Do not write the generated `lrc-tag`, `lrc-word`, or any script. Calibrate times by listening to the track and never ask AI to estimate them.
+- The lyric timer is currently independent and does not automatically read the playback position of the YouTube, bilibili, or other media player above it.
+
+#### Authoring
+
+```md
+{{lyrics-controls::en}}
+
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:00.00]<ruby>間違<rt class="furi">まちが</rt><rt class="roma">machiga</rt></ruby>[00:00.80]<ruby>い<rt class="roma">i</rt></ruby>
+</div>
+<div class="trans-lyric">[00:00.00]If it is a mistake</div>
+</div>
+
+</div>
+```
+
+#### Example
+
+After synchronized lyrics are enabled, the two Japanese units below begin highlighting at `0` and `0.8` seconds:
+
+{{lyrics-controls::en}}
+
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:00.00]<ruby>間違<rt class="furi">まちが</rt><rt class="roma">machiga</rt></ruby>[00:00.80]<ruby>い<rt class="roma">i</rt></ruby>
+</div>
+<div class="trans-lyric">[00:00.00]If it is a mistake</div>
 </div>
 
 </div>

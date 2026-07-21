@@ -207,7 +207,7 @@ H{{sub::2}}O 与 x{{sup::2}}
 
 {{mark::重点内容}}、{{abbr::V.W.P::Virtual Witch Phenomenon}}、按下 {{kbd::Ctrl+K}}、{{time::2026 年 7 月 19 日::2026-07-19}}、H{{sub::2}}O 与 x{{sup::2}}、{{small::补充说明}}
 
-歌曲页把 `{{lyrics-controls::zh}}` 单独放在一段，并紧接在 `.my-lyric-box` 歌词容器之前。站点会生成当前语言所需的注音、翻译和罗马音按钮；日文版会自动省略翻译按钮。语言参数必须与文件的 `locale` 一致。
+歌曲页把 `{{lyrics-controls::zh}}` 单独放在一段，并紧接在 `.my-lyric-box` 歌词容器之前。站点会生成当前语言所需的注音、翻译、罗马音和逐字歌词按钮；日文版会自动省略翻译按钮。语言参数必须与文件的 `locale` 一致。
 
 ### 歌词页面完整写法
 
@@ -268,6 +268,51 @@ H{{sub::2}}O 与 x{{sup::2}}
 <ruby>間違<rt class="furi">まちが</rt><rt class="roma">machiga</rt></ruby><ruby>い<rt class="roma">i</rt></ruby>
 </div>
 <div class="cn-lyric">若是错误</div>
+</div>
+
+</div>
+
+### 逐字歌词时间轴
+
+需要逐字高亮时，在每个歌词单元前直接写入 `[mm:ss.xx]` 或 `[mm:ss.xxx]` 时间标记。时间表示该单元相对于歌词计时器起点的开始时刻；点击“播放”会从 `00:00.00` 开始计时，点击有时间标记的歌词行会跳到该行并继续播放，点击“重置”则回到起点。
+
+- `mm` 和 `ss` 必须各为两位数字，小数部分可以是两位或三位，例如 `[00:03.50]`、`[01:02.345]`。
+- 时间标记紧贴它控制的 `<ruby>` 或纯文本，二者之间不要加空格。每个需要独立高亮的单元都要有自己的开始时间。
+- 每个 `.jp-lyric` 的第一个时间标记同时作为整行的跳转时间；翻译行建议在开头写入相同的行首时间。
+- 时间应按播放顺序递增。允许只为部分歌词添加时间；没有时间标记的行会保持普通显示。
+- 只编写方括号时间标记，不要手写站点生成的 `lrc-tag`、`lrc-word` 或脚本。时间必须人工试听校准，不能让 AI 猜测。
+- 当前歌词计时器是独立计时器，不会自动读取上方 YouTube、bilibili 或其他试听播放器的播放进度。
+
+#### 写法
+
+```md
+{{lyrics-controls::zh}}
+
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:00.00]<ruby>間違<rt class="furi">まちが</rt><rt class="roma">machiga</rt></ruby>[00:00.80]<ruby>い<rt class="roma">i</rt></ruby>
+</div>
+<div class="cn-lyric">[00:00.00]若是错误</div>
+</div>
+
+</div>
+```
+
+#### 实例
+
+启用逐字歌词后，下面两个日文单元会分别在 `0` 秒和 `0.8` 秒开始高亮：
+
+{{lyrics-controls::zh}}
+
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:00.00]<ruby>間違<rt class="furi">まちが</rt><rt class="roma">machiga</rt></ruby>[00:00.80]<ruby>い<rt class="roma">i</rt></ruby>
+</div>
+<div class="cn-lyric">[00:00.00]若是错误</div>
 </div>
 
 </div>

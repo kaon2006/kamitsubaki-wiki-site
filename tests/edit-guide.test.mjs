@@ -100,6 +100,8 @@ test('contribution documentation presents one connected learning path in every l
   const syntaxPage = await readSource('../src/pages/[locale]/contribute/syntax.astro');
 
   assert.match(syntaxPage, /contribute\/edit#syntax-reference/);
+  assert.match(syntaxPage, /const hasArticleBody = headings\.length > 0/);
+  assert.doesNotMatch(syntaxPage, /Boolean\(entry\.body\?\.trim\(\)\)/);
 
   for (const locale of ['zh', 'ja', 'en']) {
     const syntaxGuide = await readSource(`../src/content/contribute/syntax-guide/${locale}.md`);
@@ -125,18 +127,21 @@ test('syntax tutorials pair highlighted source blocks with rendered examples and
     zh: {
       result: /显示效果|显示实例|实际作用|显示结果/,
       finalHeading: '## 高级用法：保留的 HTML 语法',
+      syncHeading: '### 逐字歌词时间轴',
       lyricSteps: ['#### 代码语法', '#### 写法', '#### 实例'],
       aiSteps: ['#### 提示词语法', '#### 写法', '#### 输出实例'],
     },
     ja: {
       result: /表示例|表示結果|結果/,
       finalHeading: '## 高度な使い方：対応する生 HTML',
+      syncHeading: '### 同期歌詞のタイムライン',
       lyricSteps: ['#### コード構文', '#### 書き方', '#### 実例'],
       aiSteps: ['#### プロンプト構文', '#### 書き方', '#### 出力例'],
     },
     en: {
       result: /Rendered result|Rendered example|Result:/,
       finalHeading: '## Advanced: supported raw HTML',
+      syncHeading: '### Synchronized lyric timeline',
       lyricSteps: ['#### Code syntax', '#### Authoring', '#### Example'],
       aiSteps: ['#### Prompt syntax', '#### Authoring', '#### Output example'],
     },
@@ -147,6 +152,7 @@ test('syntax tutorials pair highlighted source blocks with rendered examples and
     const headings = guide.match(/^## .+$/gm) || [];
 
     assert.equal(headings.at(-1), expectation.finalHeading);
+    assert.match(guide, new RegExp(`^${expectation.syncHeading}$`, 'm'));
     assert.doesNotMatch(guide, /^## (?:代码与语法高亮|コードとシンタックスハイライト|Code and syntax highlighting)$/m);
     assert.match(guide, expectation.result);
     assert.match(guide, /```md\r?\n/);
@@ -158,6 +164,9 @@ test('syntax tutorials pair highlighted source blocks with rendered examples and
     for (const step of expectation.aiSteps) assert.match(guide, new RegExp(`^${step}$`, 'm'));
     assert.match(guide, /\{\{lyrics-controls::(?:zh|ja|en)\}\}[\s\S]+class="my-lyric-box"/);
     assert.match(guide, /class="furi"[\s\S]+class="roma"/);
+    assert.match(guide, /\[00:00\.00\]<ruby>[\s\S]+\[00:00\.80\]<ruby>/);
+    assert.match(guide, /\[mm:ss\.xx\][\s\S]+\[mm:ss\.xxx\]/);
+    assert.match(guide, /lrc-tag[\s\S]+lrc-word/);
     assert.match(guide, /Do not add lyrics|不补写歌词|歌詞の追加/);
     assert.match(guide, /Never output style|禁止 style|style、すべての on\*/);
 

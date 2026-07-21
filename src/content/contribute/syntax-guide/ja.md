@@ -220,7 +220,7 @@ H{{sub::2}}O と x{{sup::2}}
 
 {{mark::重要な内容}}、{{abbr::V.W.P::Virtual Witch Phenomenon}}、{{kbd::Ctrl+K}} を押す、{{time::2026年7月19日::2026-07-19}}、H{{sub::2}}O と x{{sup::2}}、{{small::補足説明}}
 
-楽曲ページでは `{{lyrics-controls::ja}}` を独立した段落にし、`.my-lyric-box` 歌詞コンテナの直前に置きます。サイトが各言語用のルビ、翻訳、ローマ字ボタンを生成し、日本語版では翻訳ボタンを自動的に省略します。引数はファイルの `locale` と一致させてください。
+楽曲ページでは `{{lyrics-controls::ja}}` を独立した段落にし、`.my-lyric-box` 歌詞コンテナの直前に置きます。サイトが各言語用のルビ、翻訳、ローマ字、同期歌詞ボタンを生成し、日本語版では翻訳ボタンを自動的に省略します。引数はファイルの `locale` と一致させてください。
 
 ### 歌詞ページの完全な書き方
 
@@ -277,6 +277,49 @@ H{{sub::2}}O と x{{sup::2}}
 <div class="lyric-line">
 <div class="jp-lyric">
 <ruby>間違<rt class="furi">まちが</rt><rt class="roma">machiga</rt></ruby><ruby>い<rt class="roma">i</rt></ruby>
+</div>
+</div>
+
+</div>
+
+### 同期歌詞のタイムライン
+
+単語単位で強調表示する場合は、各歌詞単位の直前に `[mm:ss.xx]` または `[mm:ss.xxx]` のタイムタグを記述します。時刻は歌詞タイマーの開始点を基準とした、その単位の開始時刻です。「再生」で `00:00.00` から計時し、タイムタグ付きの行をクリックするとその行へ移動して再生を続け、「リセット」で先頭へ戻ります。
+
+- `mm` と `ss` はそれぞれ2桁、小数部は2桁または3桁です。例：`[00:03.50]`、`[01:02.345]`。
+- タイムタグは対象の `<ruby>` またはプレーンテキストへ空白を入れず直結します。個別に強調する単位ごとに開始時刻が必要です。
+- 各 `.jp-lyric` の最初のタイムタグは、その行をクリックしたときの移動先にもなります。翻訳行がある場合は、先頭に原文と同じ行開始時刻を付けることを推奨します。
+- 時刻は再生順に増加させます。一部の行だけにタイムタグを付けることもでき、タグのない行は通常表示のままです。
+- 投稿者が書くのは角括弧のタイムタグだけです。サイト生成後の `lrc-tag`、`lrc-word`、スクリプトを手書きしないでください。時刻は実際に試聴して調整し、AI に推測させないでください。
+- 現在の歌詞タイマーは独立しており、上部の YouTube、bilibili、その他の試聴プレイヤーの再生位置を自動取得しません。
+
+#### 書き方
+
+```md
+{{lyrics-controls::ja}}
+
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:00.00]<ruby>間違<rt class="furi">まちが</rt><rt class="roma">machiga</rt></ruby>[00:00.80]<ruby>い<rt class="roma">i</rt></ruby>
+</div>
+</div>
+
+</div>
+```
+
+#### 実例
+
+同期歌詞を有効にすると、次の2つの日本語単位が `0` 秒と `0.8` 秒から順に強調されます。
+
+{{lyrics-controls::ja}}
+
+<div class="my-lyric-box">
+
+<div class="lyric-line">
+<div class="jp-lyric">
+[00:00.00]<ruby>間違<rt class="furi">まちが</rt><rt class="roma">machiga</rt></ruby>[00:00.80]<ruby>い<rt class="roma">i</rt></ruby>
 </div>
 </div>
 

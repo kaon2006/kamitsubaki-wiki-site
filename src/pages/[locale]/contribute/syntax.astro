@@ -29,7 +29,9 @@ if (!entry) {
 }
 
 const { Content, headings } = await render(entry);
-const hasArticleBody = Boolean(entry.body?.trim());
+// syntaxGuide intentionally uses retainBody: false; rendered headings are the
+// reliable signal that the guide contains displayable Markdown content.
+const hasArticleBody = headings.length > 0;
 const hasTableOfContents = headings.some(
   (heading) => heading.depth === 2 || heading.depth === 3,
 );
