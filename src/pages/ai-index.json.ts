@@ -43,12 +43,13 @@ export const GET: APIRoute = async ({ site }) => {
       const metadata = Object.values(entry.data)
         .filter((value) => typeof value === 'string' || Array.isArray(value))
         .join(' ');
+      const content = entry.body || entry.rendered?.html || '';
       return {
         title: titleFor(entry as { data: Record<string, unknown> }),
         url: `${origin}${path}`,
         locale: entry.data.locale,
         kind: collectionNames[groupIndex].replace(/s$/u, ''),
-        text: cleanText(`${metadata} ${entry.body || ''}`),
+        text: cleanText(`${metadata} ${content}`),
       };
     }),
   );

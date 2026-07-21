@@ -21,6 +21,34 @@ test('site content lives in Astro content collections', async () => {
   assert.equal(await fileExists('../src/pages/[locale]/logs/[...id].astro'), true);
 });
 
+test('rendered Markdown collections do not retain duplicate source bodies', async () => {
+  const config = await readFile(new URL('../src/content.config.ts', import.meta.url), 'utf8');
+  const collectionNames = [
+    'artists',
+    'projects',
+    'logs',
+    'songs',
+    'albums',
+    'announcements',
+    'syntaxGuide',
+    'editGuide',
+  ];
+
+  for (const [index, name] of collectionNames.entries()) {
+    const start = config.indexOf(`const ${name} = defineCollection`);
+    const nextStarts = collectionNames
+      .slice(index + 1)
+      .map((nextName) => config.indexOf(`const ${nextName} = defineCollection`))
+      .filter((position) => position > start);
+    const end = nextStarts.length ? Math.min(...nextStarts) : config.length;
+    assert.notEqual(start, -1, `${name} collection should exist`);
+    assert.match(config.slice(start, end), /retainBody: false/, `${name} should discard its source body`);
+  }
+
+  const aiIndex = await readFile(new URL('../src/pages/ai-index.json.ts', import.meta.url), 'utf8');
+  assert.match(aiIndex, /entry\.rendered\?\.html/);
+});
+
 test('home page no longer imports the old implementation-side data module', async () => {
   const page = await readFile(new URL('../src/pages/index.astro', import.meta.url), 'utf8');
 

@@ -236,7 +236,7 @@ const site = defineCollection({
 });
 
 const artists = defineCollection({
-  loader: glob({ pattern: '**/{zh,ja,en}.md', base: './src/content/artists' }),
+  loader: glob({ pattern: '**/{zh,ja,en}.md', base: './src/content/artists', retainBody: false }),
   schema: z.object({
     locale,
     translationKey: z.string(),
@@ -281,7 +281,7 @@ const artists = defineCollection({
 });
 
 const projects = defineCollection({
-  loader: glob({ pattern: '**/{zh,ja,en}.md', base: './src/content/projects' }),
+  loader: glob({ pattern: '**/{zh,ja,en}.md', base: './src/content/projects', retainBody: false }),
   schema: z.object({
     locale,
     translationKey: z.string(),
@@ -295,7 +295,7 @@ const projects = defineCollection({
 });
 
 const logs = defineCollection({
-  loader: glob({ pattern: '**/{zh,ja,en}.md', base: './src/content/logs' }),
+  loader: glob({ pattern: '**/{zh,ja,en}.md', base: './src/content/logs', retainBody: false }),
   schema: z.object({
     locale,
     translationKey: z.string(),
@@ -356,12 +356,12 @@ const songSchema = workBaseSchema.extend({
 });
 
 const songs = defineCollection({
-  loader: glob({ pattern: '**/{zh,ja,en}.md', base: './src/content/songs' }),
+  loader: glob({ pattern: '**/{zh,ja,en}.md', base: './src/content/songs', retainBody: false }),
   schema: songSchema,
 });
 
 const albums = defineCollection({
-  loader: glob({ pattern: '**/{zh,ja,en}.md', base: './src/content/albums' }),
+  loader: glob({ pattern: '**/{zh,ja,en}.md', base: './src/content/albums', retainBody: false }),
   schema: workBaseSchema.extend({
     romanizedTitle: z.string().optional(),
     type: z.string().optional(),
@@ -394,7 +394,7 @@ const albums = defineCollection({
 });
 
 const announcements = defineCollection({
-  loader: glob({ pattern: '**/{zh,ja,en}.md', base: './src/content/announcements' }),
+  loader: glob({ pattern: '**/{zh,ja,en}.md', base: './src/content/announcements', retainBody: false }),
   schema: z.object({
     locale,
     translationKey: z.string(),
@@ -412,6 +412,7 @@ const syntaxGuide = defineCollection({
   loader: glob({
     pattern: ['zh.md', 'ja.md', 'en.md'],
     base: new URL('./content/contribute/syntax-guide/', import.meta.url),
+    retainBody: false,
   }),
   schema: z.object({
     locale,
@@ -424,7 +425,11 @@ const syntaxGuide = defineCollection({
 });
 
 const editGuide = defineCollection({
-  loader: glob({ pattern: '{zh,ja,en}.md', base: './src/content/contribute/edit-guide' }),
+  loader: glob({
+    pattern: '{zh,ja,en}.md',
+    base: './src/content/contribute/edit-guide',
+    retainBody: false,
+  }),
   schema: z.object({
     locale,
     translationKey: z.literal('edit-guide'),
