@@ -91,7 +91,8 @@ tracks:
 
 ## Overview
 
-The official remix companion to Kansoku, with thirteen creators each reworking one vocal track.
+Kaf's remix album, Kansoku γ (Gamma), is a compilation featuring 13 tracks remixed by 13 different artists. It excludes the instrumental tracks from her debut album, Kansoku. Released on September 11, the album brings together 13 prominent artists of the new generation. Alongside Guiano, Onuma Paseli, Misumi, and samayuzame from KAMITSUBAKI STUDIO, the lineup includes Picon, Haruno, Sasagawa Mao, Polyspicadilly, Rokuro, Niru Kajitsu, Tsumiki, Kasamura Tota, and syudou.
+Alongside the CD album Kansoku γ, the special box set includes a square notebook (64 pages), an audio drama Otogi-banashi -Dai Ni Maku- (Poetry CD), an acrylic keychain (Kitatake Fujimaru ver.), postcards (PALOW ver.), a sticker set γ (3 pieces), a can badge set γ (3 pieces), and messages about the album Kansoku γ written by the participating remix artists.
 
 ## Release and editions
 
